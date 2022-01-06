@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://www.quarteera.de/'
+languageCode = 'de-DE'
+title = 'Quarteera /// Russian Queer in Germany'
+theme = "quarteera"
