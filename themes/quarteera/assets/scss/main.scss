@@ -1,8 +1,58 @@
-$font-stack: Helvetica, sans-serif;
-$primary-color: #333;
+@import 'constants';
+@mixin row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $title-font;
+}
 
 body {
-  font: 100% $font-stack;
-  color: $primary-color;
-  background-color: red;
+  color: $primary-font-color;
+  font: 100% $regular-font;
+
+  a {
+    margin-right: 1rem;
+  }
+
+  .content {
+    background-color: $background-color;
+    padding: 2rem;
+
+    p {
+      padding: 1rem 0;
+    }
+  }
+
+  .header {
+    @include row;
+    padding: 2rem;
+
+    ul {
+      @include row;
+      list-style-type: none;
+
+      li {
+        margin-left: 1rem;
+      }
+    }
+  }
+}
+
+footer {
+  @include row;
+  padding: 2rem;
+
+  .footer-section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 }

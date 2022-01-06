@@ -1,6 +1,5 @@
-<div>
-  <h1>updated header</h1>
-  <nav class="sidebar-nav">
+<div class="header">
+  <nav>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
