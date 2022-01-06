@@ -2,3 +2,16 @@ baseURL = 'http://www.quarteera.de/'
 languageCode = 'de-DE'
 title = 'Quarteera /// Russian Queer in Germany'
 theme = "quarteera"
+
+defaultContentLanguage = 'ru'
+[languages]
+  [languages.ru]
+    title = 'Русскоязычные ЛГБТ в Германии '
+    languageName = 'RU'
+    weight = 1
+    contentDir = "content/ru"
+  [languages.de]
+    title = 'Russischsprachige LGBT in Deutschland '
+    languageName = 'DE'
+    weight = 2
+    contentDir = "content/de"

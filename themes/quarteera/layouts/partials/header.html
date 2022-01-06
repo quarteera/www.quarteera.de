@@ -1,1 +1,8 @@
-<h1>header</h1>
+<div>
+  <h1>updated header</h1>
+  <ul>
+      {{ range .Site.Home.AllTranslations }}
+        <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+      {{ end }}
+  </ul>
+</div>
