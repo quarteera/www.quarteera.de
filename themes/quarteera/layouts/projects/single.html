@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <div class="project">
+    <div class="project-summary">
+      <div class="column">
+        {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
+        {{ with $image }}
+          <img src="{{ ( $image.Fill "405x405 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
+        {{ end }}
+      </div>
+      <div class="column text">
+        <h1>{{ .Title }}</h1>
+        <p class="summary">{{ .Params.summary }}</p>
+      </div>
+    </div>
+
+    {{ .Content }}
+  </div>
+{{ end }}

@@ -2,14 +2,31 @@
 title: "Первый проект" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
-resources:
-    - src: plant.jpg
-draft: true
+image: project.jpg
+alt: "some alt text"
+summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
 accent: false
+draft: true
 ---
 
-RU: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.
+## RU: „Разнообразие heißt Vielfalt“
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+„Разнообразие heißt Vielfalt“ это типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию. Провышение квалификации русскоязычных активист_ок в сфере гражданского образования с целью поддержки и развития русскоязычного ЛГБТИК+ сообщества в Германии. Мы хотим предоставить активист_кам возможность самостоятельно повышать осведомленность общества о своих интересах, создавать устойчивые общественные структуры и профессионально работать в сфере гражданского образования. Основным направлением проекта является повышение осведомлённости о сексуальных и гендерных идентичностях среди русскоговорящего населения Германии.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Проект реализуется Фондом Академией Вальдшлёсхен совместно с организацией Quarteera e.V.
+
+## Мероприятия проекта
+
+### 28 – 30 мая “Квир-поколение” – слёт ЛГБТК+ мигрантских организаций
+
+„Разнообразие heißt Vielfalt“ это типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию. Провышение квалификации русскоязычных активист_ок в сфере гражданского образования с целью поддержки и развития русскоязычного ЛГБТИК+ сообщества в Германии. Мы хотим предоставить активист_кам возможность самостоятельно повышать осведомленность общества о своих интересах, создавать устойчивые общественные структуры и профессионально работать в сфере гражданского образования. Основным направлением проекта является повышение осведомлённости о сексуальных и гендерных идентичностях среди русскоговорящего населения Германии.
+
+Проект реализуется Фондом Академией Вальдшлёсхен совместно с организацией Quarteera e.V.
+
+[Ссылка на что-то, подсвечивается цветом секции](http://www.quarteera.de/)
+
+{{< figure src="image.jpeg" title="Мы на прайде" class="article-image" >}}
+
+## В коллаборации с
+
+{{< figure src="logo.png" title="Вальдшлёсхен" class="logo" >}}

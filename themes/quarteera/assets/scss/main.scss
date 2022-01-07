@@ -4,6 +4,12 @@
   flex-direction: row;
   justify-content: space-between;
 }
+@mixin center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 * {
   margin: 0;
@@ -33,6 +39,38 @@ body {
 
     ul {
       margin-left: 2rem;
+    }
+
+    .project {
+      a:link { color: $dark-green; }
+      a:visited { color: $green; }
+      a:hover {
+        color: hotpink;
+      }
+
+      /* selected link */
+      a:active {
+        color: blue;
+      }
+
+      .article-image { @include center; }
+      .logo img {
+        border-radius: 50%;
+        margin-bottom: 1rem;
+        width: 8rem;
+        height: 8rem;
+        overflow: hidden;
+      }
+      .project-summary {
+        @include row;
+
+        .text {
+          margin-left: 2rem;
+        }
+        .summary {
+          font-size: 1.5rem;
+        }
+      }
     }
   }
 
