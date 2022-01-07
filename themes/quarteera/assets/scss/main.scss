@@ -53,15 +53,32 @@ body {
       }
     }
   }
-}
 
-footer {
-  @include row;
-  padding: 2rem;
+  footer {
+    @include row;
+    padding: 2rem;
 
-  .footer-section-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    .social {
+      display: flex;
+      align-items: flex-start;
+
+      .inline-svg {
+        display: inline-block;
+        height: 1.15rem;
+        width: 1.15rem;
+        top: 0.15rem;
+        position: relative;
+        margin-left: 2rem;
+        color: $primary-font-color;
+      }
+
+      .q-svg {
+        svg {
+          width: auto;
+          height: 1.5rem;
+          display: inline-block;
+        }
+      }
+    }
   }
 }
