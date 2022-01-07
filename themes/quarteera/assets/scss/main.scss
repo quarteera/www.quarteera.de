@@ -14,11 +14,6 @@ h1, h2, h3, h4, h5 {
   font-family: $title-font;
 }
 
-p {
-  line-height: 2rem;
-  margin-top: 1rem;
-}
-
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
@@ -29,6 +24,15 @@ body {
 
     h1, h2, h3, h4, h5 {
       margin: 1rem 0;
+    }
+
+    p, ul {
+      line-height: 2rem;
+      margin-top: 1rem;
+    }
+
+    ul {
+      margin-left: 2rem;
     }
   }
 
