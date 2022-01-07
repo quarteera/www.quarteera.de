@@ -14,26 +14,31 @@ h1, h2, h3, h4, h5 {
   font-family: $title-font;
 }
 
+p {
+  line-height: 2rem;
+  margin-top: 1rem;
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
-
-  a {
-    margin-right: 1rem;
-  }
 
   .content {
     background-color: $background-color;
     padding: 2rem;
 
-    p {
-      padding: 1rem 0;
+    h1, h2, h3, h4, h5 {
+      margin: 1rem 0;
     }
   }
 
   .header {
     @include row;
     padding: 2rem;
+
+    a {
+      margin-right: 1rem;
+    }
 
     ul {
       @include row;
