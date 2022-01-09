@@ -1,13 +1,41 @@
 <div class="header">
   <nav>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-    {{ end }}
-  </nav>
-  <ul>
-      {{ range .Site.Home.AllTranslations }}
-        <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+    <div class="header-logo">
+      {{ $isHome := .Page.IsHome }}
+      {{ if $isHome }}
+        <a class="q-svg-header" href=/>
+          {{ readFile ( print "static/q-logo-color.svg" ) | safeHTML  }}
+        </a>
+      {{ else }}
+        <a class="q-svg-header" href=/>
+          {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
+        </a>
       {{ end }}
-  </ul>
+    </div>
+    {{ $currentPage := . }}
+    <div class="nav-links">
+      <ul class="main-menu">
+        {{ range .Site.Menus.main }}
+          <div class="menu-item">
+            <li><a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          </div>
+        {{ end }}
+      </ul>
+      <div class="language-selector">
+        <ul>
+          {{ range .Site.Home.AllTranslations }}
+            <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{- partial "social.html" . -}}
+    </div>
+    <div class="burger">
+      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="32" y1="9" x2="8.74228e-08" y2="9" stroke="#201B20" stroke-width="2"/>
+        <line x1="32" y1="17" x2="8" y2="17" stroke="#201B20" stroke-width="2"/>
+        <line x1="32" y1="25" x2="16" y2="25" stroke="#201B20" stroke-width="2"/>
+      </svg>
+    </div>
+  </nav>
 </div>
