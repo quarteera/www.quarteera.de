@@ -1,10 +1,30 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <p>{{ .Summary }}</p>
-  {{ range .Pages.ByPublishDate.Reverse }}
-    <p>
-        <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        <p>{{ .Summary }}</p>
-    </p>
-  {{ end }}
+  <div class="projects-page">
+    <div class="heading">
+      <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle r="19.8684" transform="matrix(1 0 0 -1 19.8684 20)" fill="#8DBD56"/>
+      </svg>
+      <h1>{{ .Title }}</h1>
+      <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle r="19.8684" transform="matrix(1 0 0 -1 19.8684 20)" fill="#8DBD56"/>
+      </svg>
+    </div>
+    <p>{{ .Summary }}</p>
+    {{ range .Pages.ByPublishDate.Reverse }}
+      <section class="regular-section">
+        {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
+        {{ with $image }}
+          <img class="image" src="{{ ( $image.Fill "500x200 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
+        {{ end }}
+          <h3>{{ .Title }}</h3>
+          <div>
+            {{ if .Params.summary }}
+              <p>{{ .Params.summary }}</p>
+            {{ else }}
+              <p>{{ .Summary }}</p>
+            {{ end }}
+          </div>
+      </section>
+    {{ end }}
+  </div>
 {{ end }}
