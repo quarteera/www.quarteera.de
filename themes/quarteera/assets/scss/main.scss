@@ -201,6 +201,10 @@ body {
       .nav-active {
         transform: translateX(0);
       }
+
+      .hide {
+        display: none;
+      }
     }
   }
 }
