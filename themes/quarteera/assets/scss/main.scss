@@ -40,6 +40,12 @@ body {
   color: $primary-font-color;
   font: 100% $regular-font;
 
+  .page {
+    max-width: 1024rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
   .social {
     display: flex;
 
