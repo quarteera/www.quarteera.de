@@ -25,12 +25,16 @@ h1, h2, h3, h4, h5 {
   font-family: $title-font;
 }
 
-.disable {
-  display: none;
+p {
+  font-size: .75rem;
 }
-.rotate {
-  transform: rotate(180deg);
-}
+
+.disable { display: none; }
+.rotate { transform: rotate(180deg); }
+.yellow { border-bottom: 2px solid $yellow; }
+.green { border-bottom: 2px solid $green; }
+
+.purple { border-bottom: 2px solid $purple; }
 
 body {
   color: $primary-font-color;
@@ -133,7 +137,7 @@ body {
 
       a {
         text-decoration: none;
-        font-size: 1.5rem;
+        font-size: 1rem;
         color: $primary-font-color;
         cursor: pointer;
       }

@@ -1,66 +1,72 @@
-baseURL = 'http://www.quarteera.de/'
+baseURL = 'http://www.quarteera.de'
 languageCode = 'de-DE'
 title = 'Quarteera /// Russian Queer in Germany'
-theme = "quarteera"
+theme = 'quarteera'
 defaultContentLanguage = 'ru'
 [languages]
   [languages.ru]
     title = 'Русскоязычные ЛГБТ в Германии '
     languageName = 'RU'
     weight = 1
-    contentDir = "content/ru"
+    contentDir = 'content/ru'
     [languages.ru.menu]
     [[languages.ru.menu.main]]
-      name = "О нас"
-      url = '/about/'
+      name = 'О нас'
+      url = '/about'
       weight = 0
+      class = 'yellow'
     [[languages.ru.menu.main]]
-      name = "Проекты"
-      url = '/projects/'
+      name = 'Проекты'
+      url = '/projects'
       weight = 1
+      class = 'green'
     [[languages.ru.menu.main]]
-      name = "Поддержать"
-      url = '/help/'
+      name = 'Поддержать'
+      url = '/help'
       weight = 2
+      class = 'purple'
     [[languages.ru.menu.footer]]
-      name = "Пресса"
-      url = '/press/'
+      name = 'Пресса'
+      url = '/press'
       weight = 0
     [[languages.ru.menu.footer]]
-      name = "Импрессум"
-      url = '/impressum/'
+      name = 'Импрессум'
+      url = '/impressum'
       weight = 1
     [[languages.ru.menu.footer]]
-      name = "Политика безопасности"
-      url = '/datenschutz/'
+      name = 'Политика безопасности'
+      url = '/datenschutz'
       weight = 2
   [languages.de]
     title = 'Russischsprachige LGBT in Deutschland '
     languageName = 'DE'
     weight = 2
-    contentDir = "content/de"
+    contentDir = 'content/de'
     [languages.de.menu]
     [[languages.de.menu.main]]
-      name = "Über uns"
-      url = '/about/'
+      name = 'Über uns'
+      url = '/about'
       weight = 0
+      class = 'yellow'
     [[languages.de.menu.main]]
-      name = "Projekte"
-      url = '/projects/'
+      name = 'Projekte'
+      url = '/projects'
       weight = 1
+      class = 'green'
     [[languages.de.menu.main]]
-      name = "Uns helfen"
-      url = '/help/'
+      name = 'Uns helfen'
+      url = '/help'
       weight = 2
+      class = 'purple'
     [[languages.de.menu.footer]]
-      name = "Press"
-      url = '/press/'
+      name = 'Press'
+      url = '/press'
       weight = 0
     [[languages.de.menu.footer]]
-      name = "Impressum"
-      url = '/impressum/'
+      name = 'Impressum'
+      url = '/impressum'
       weight = 1
     [[languages.de.menu.footer]]
-      name = "Datenschutz"
-      url = '/datenschutz/'
+      name = 'Datenschutz'
+      url = '/datenschutz'
       weight = 2
