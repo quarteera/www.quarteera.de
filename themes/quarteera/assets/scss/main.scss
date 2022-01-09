@@ -25,6 +25,13 @@ h1, h2, h3, h4, h5 {
   font-family: $title-font;
 }
 
+.disable {
+  display: none;
+}
+.rotate {
+  transform: rotate(180deg);
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
@@ -136,6 +143,20 @@ body {
       display: none;
       cursor: pointer;
     }
+
+    .hamburger-languages { display: none; }
+    .language-popup {
+      position: absolute;
+      top: 15vh;
+    }
+    .desktop-language {
+      display: flex;
+      align-items: center;
+
+      svg {
+        margin-left: 1rem;
+      }
+    }
   }
 
   footer {
@@ -161,6 +182,8 @@ body {
       height: 12vh;
 
       .burger { display: flex; }
+      .desktop-language, .language-popup { display: none; }
+      .hamburger-languages { display: flex; }
 
       .nav-links {
         @include column;
@@ -174,7 +197,7 @@ body {
         transition: transform 0.5s ease-in;
 
         .social {
-          padding: 1.25rem;
+          padding: .5rem;
           margin: 0;
           width: 100%;
           justify-content: center;
@@ -206,5 +229,18 @@ body {
         display: none;
       }
     }
+    .language-selector {
+      li {
+        padding: 0 1rem;
+        margin: 0;
+        border-right: 1px solid $primary-font-color;
+      }
+
+      li:last-child {
+        padding-right: 0;
+        border-right: 0px;
+      }
+    }
+    .active-language { text-decoration: underline; }
   }
 }

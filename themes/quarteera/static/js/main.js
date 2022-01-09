@@ -10,5 +10,16 @@ const navSlide = () => {
     closeIcon.classList.toggle('hide');
   })
 }
+const selectLanguage = () => {
+  const languageSelector = document.querySelector('.desktop-language');
+  const popup = document.querySelector('.language-popup');
+  const icon = document.querySelector('.language-open');
+
+  languageSelector.addEventListener('click', () => {
+    popup.classList.toggle('disable');
+    icon.classList.toggle('rotate');
+  })
+}
 
 navSlide();
+selectLanguage();

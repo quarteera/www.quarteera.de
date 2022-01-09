@@ -17,17 +17,38 @@
       <ul class="main-menu">
         {{ range .Site.Menus.main }}
           <div class="menu-item">
-            <li><a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+              <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
           </div>
         {{ end }}
-      </ul>
-      <div class="language-selector">
-        <ul>
-          {{ range .Site.Home.AllTranslations }}
-            <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+        <div class="language-selector">
+          {{ if .Site.IsMultiLingual }}
+            <ul class="hamburger-languages">
+              {{ range $.AllTranslations }}
+                <li class="{{ if eq .Language $.Site.Language }}active-language{{ end }}">
+                  <a href="{{ .Permalink }}">
+                    {{ .Language.LanguageName }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+            <ul class="desktop-language">
+              <li><a>{{ $.Site.Language.LanguageName }}</a></li>
+              <svg class="language-open" width="21" height="11" viewBox="0 0 21 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.666671 1L10.3333 9L20 1" stroke="#201B20" stroke-width="2"/>
+              </svg>
+              <div class="language-popup disable">
+                {{ range $.Translations }}
+                  <li>
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName}}</a>
+                  </li>
+                {{ end }}
+              </div>
+            </ul>
           {{ end }}
-        </ul>
-      </div>
+        </div>
+      </ul>
       {{- partial "social.html" . -}}
     </div>
     <div class="burger">
