@@ -6,6 +6,7 @@ resources:
     - src: plant.jpg
 draft: true
 accent: false
+color: green
 ---
 
 DE: То, над чем мы сейчас работаем.
