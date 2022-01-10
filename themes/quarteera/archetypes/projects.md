@@ -5,5 +5,5 @@ weight: 0 # Order in which to show this project on the home page
 image:
 accent: false
 summary: "Short project summary"
-draft: true
+draft: false
 ---

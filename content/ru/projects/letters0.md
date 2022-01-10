@@ -5,7 +5,7 @@ weight: 0 # Order in which to show this project on the home page
 image: project.png
 summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
 alt: "some alt text"
-draft: true
+draft: false
 accent: false
 color: green
 ---

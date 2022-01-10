@@ -4,7 +4,7 @@ date: 2022-01-06T16:51:38+01:00
 weight: 200 # Order in which to show this project on the home page
 image: project.png
 alt: "some alt text"
-draft: true
+draft: false
 color: yellow
 ---
 

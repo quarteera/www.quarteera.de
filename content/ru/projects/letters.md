@@ -6,7 +6,7 @@ image: project.png
 alt: "some alt text"
 summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
 accent: true
-draft: true
+draft: false
 color: green
 ---
 
