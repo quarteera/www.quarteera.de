@@ -16,7 +16,7 @@
     <div class="footer-social">
       {{ $homePage := .Site.GetPage "/" }}
       <a class="q-svg-footer" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
-        {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
+        {{- partial "q-logo-black.html" . -}}
       </a>
       {{- partial "social.html" . -}}
     </div>
