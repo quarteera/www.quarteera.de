@@ -2,12 +2,13 @@
   <nav>
     <div class="header-logo">
       {{ $isHome := .Page.IsHome }}
+      {{ $homePage := .Site.GetPage "/" }}
       {{ if $isHome }}
-        <a class="q-svg-header" href=/>
+        <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
           {{ readFile ( print "static/q-logo-color.svg" ) | safeHTML  }}
         </a>
       {{ else }}
-        <a class="q-svg-header" href=/>
+        <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
           {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
         </a>
       {{ end }}

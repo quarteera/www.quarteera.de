@@ -14,7 +14,8 @@
       {{ end }}
     </div>
     <div class="footer-social">
-      <a class="q-svg-footer" href="http://www.quarteera.de" target="_blank">
+      {{ $homePage := .Site.GetPage "/" }}
+      <a class="q-svg-footer" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
         {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
       </a>
       {{- partial "social.html" . -}}
