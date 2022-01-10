@@ -6,7 +6,7 @@
     </div>
     {{ range .Pages.ByWeight }}
       {{ if eq .Params.accent true }}
-        <section class="accent-section {{ .Params.color }}-dashed-border">
+        <a href="{{ .Permalink }}" class="accent-section {{ .Params.color }}-dashed-border">
           <h3>{{ .Title }}</h3>
           <div>
             {{ if .Params.summary }}
@@ -19,9 +19,9 @@
           {{ with $image }}
             <img class="image" src="{{ ( $image.Fill "1064x400 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
           {{ end }}
-        </section>
+        </a>
       {{ else }}
-        <section class="regular-section {{ .Params.color }}-dashed-border">
+        <a href="{{ .Permalink }}" class="regular-section {{ .Params.color }}-dashed-border">
           {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
           {{ with $image }}
             <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
@@ -34,7 +34,7 @@
               <p>{{ .Summary | truncate 200 }}</p>
             {{ end }}
           </div>
-        </section>
+        </a>
       {{ end }}
     {{ end }}
   </div>

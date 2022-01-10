@@ -159,19 +159,23 @@ body {
   .image { width: 100%; }
 
   .accent-section {
+    @include reset-a-style;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 1.25rem 3.375rem;
     max-width: 1024px;
+    margin-bottom: 1rem;
 
     img { border-radius: 4px; }
   }
 
   .regular-section {
     @include row;
+    @include reset-a-style;
     max-width: 800px;
     padding: 1rem;
+    margin-bottom: 1rem;
 
     div {
       @include column;
