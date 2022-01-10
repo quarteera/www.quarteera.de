@@ -1,5 +1,5 @@
 <div class="header">
-  <nav class="page">
+  <nav>
     <div class="header-logo">
       {{ $isHome := .Page.IsHome }}
       {{ if $isHome }}
@@ -18,7 +18,7 @@
         {{ range .Site.Menus.main }}
           {{ $is := eq .Name $currentPage.Title }}
           <div class="menu-item">
-            <li {{ if eq $currentPage.Title .Name }}class="{{ $currentPage.Params.color }}"{{ end }}>
+            <li {{ if eq $currentPage.Title .Name }}class="{{ $currentPage.Params.color }}-border"{{ end }}>
               <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>
           </div>

@@ -14,6 +14,11 @@
   display: flex;
   flex-direction: column;
 }
+@mixin max-width {
+  max-width: 1024rem;
+  margin: 0 auto;
+  padding: 1rem 3rem;
+}
 
 * {
   padding: 0;
@@ -21,73 +26,95 @@
   box-sizing: border-box;
 }
 
-html { font-size: 12px; }
+html { font-size: 24px; }
 
 h1, h2, h3, h4, h5 {
   font-family: $title-font;
   color: $primary-font-color;
+  margin-bottom: 1rem;
 }
 
-h1 { font-size: 3rem; }
-p { font-size: .75rem; }
+h1 { font-size: 2.75rem; }
+h3 { font-size: 1.25rem; }
+
 a, .desktop-language { cursor: pointer; }
 
 .disable { display: none; }
 .rotate { transform: rotate(180deg); }
-.yellow { border-bottom: 2px solid $yellow; }
-.green { border-bottom: 2px solid $green; }
-.purple { border-bottom: 2px solid $purple; }
+.yellow-border { border-bottom: 2px solid $yellow; }
+.green-border { border-bottom: 2px solid $green; }
+.purple-border { border-bottom: 2px solid $purple; }
+.yellow-dashed-border { border: 1px dashed $yellow; }
+.green-dashed-border { border: 1px dashed $green; }
+.purple-dashed-border{ border: 1px dashed $purple; }
+.yellow-dots:after, .yellow-dots:before { background: $yellow; }
+.green-dots:after, .green-dots:before { background: $green; }
+.purple-dots:after, .purple-dots:before { background: $purple; }
 
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
 
-  .page {
-    max-width: 1024rem;
-    margin: 0 auto;
-    padding: 0 2rem;
-  }
-
   .projects-page {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 2rem 0;
 
     section {
       background-color: #FFFFFF;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+      margin-bottom: 2rem;
       border-radius: 4px;
-      border: 1px dashed #8DBD56;
-      margin-top: 2rem;
+      width: 100%;
+    }
+  }
+
+  .image { width: 100%; }
+  .accent-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.25rem 3.375rem;
+    max-width: 1024px;
+
+    img {
+      border-radius: 4px;
     }
   }
 
   .regular-section {
-    padding: 3rem;
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    max-width: 55rem;
+    @include row;
+    max-width: 800px;
+    padding: 1rem;
 
     div {
-      display: flex;
-      flex-direction: column;
-      margin-left: 3rem;
+      @include column;
+      margin-left: 1rem;
+      justify-content: center;
     }
   }
 
+  .page-heading {
+    margin-bottom: 2rem;
 
-  .heading {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    min-width: 70%;
-
-    svg {
+    h1:before {
+      content: "";
+      display: inline-block;
+      height: 1.25rem;
       width: 1.25rem;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: .75rem
+    }
+
+    h1:after {
+      content: "";
+      display: inline-block;
+      height: 1.25rem;
+      width: 1.25rem;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-left: .75rem
     }
   }
 
@@ -103,21 +130,15 @@ body {
   }
 
   .content {
+    @include max-width;
     background-color: $background-color;
-    padding: 2rem;
-
-    h1, h2, h3, h4, h5 {
-      margin: 1rem 0;
-    }
 
     p, ul {
-      line-height: 2rem;
-      margin-top: 1rem;
+      line-height: 1.25rem;
+      margin-bottom: 1rem;
     }
 
-    ul {
-      margin-left: 2rem;
-    }
+    ul { margin-left: 2rem; }
 
     .project {
       a:link { color: $dark-green; }
@@ -146,8 +167,8 @@ body {
 
   .header {
     @include row;
+    @include max-width;
     height: auto;
-    padding: 1rem 0;
 
     ul {
       @include row;
@@ -207,7 +228,7 @@ body {
 
   footer {
     @include row;
-    padding: 2rem;
+    @include max-width;
 
     .q-svg-footer {
       svg {

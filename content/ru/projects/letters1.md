@@ -2,11 +2,12 @@
 title: "Третий проект" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
-image: project.jpg
+image: project.png
 summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
 alt: "some image"
 draft: true
 accent: false
+color: green
 ---
 
 RU: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.

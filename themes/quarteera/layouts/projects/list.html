@@ -1,21 +1,12 @@
 {{ define "main" }}
   <div class="projects-page">
-    <div class="heading">
-      <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle r="19.8684" transform="matrix(1 0 0 -1 19.8684 20)" fill="#8DBD56"/>
-      </svg>
-      <h1>{{ .Title }}</h1>
-      <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle r="19.8684" transform="matrix(1 0 0 -1 19.8684 20)" fill="#8DBD56"/>
-      </svg>
+    <div class="page-heading">
+      <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
+      <p>{{ .Summary }}</p>
     </div>
-    <p>{{ .Summary }}</p>
-    {{ range .Pages.ByPublishDate.Reverse }}
-      <section class="regular-section">
-        {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
-        {{ with $image }}
-          <img class="image" src="{{ ( $image.Fill "500x200 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
-        {{ end }}
+    {{ range .Pages.ByWeight }}
+      {{ if eq .Params.accent true }}
+        <section class="accent-section {{ .Params.color }}-dashed-border">
           <h3>{{ .Title }}</h3>
           <div>
             {{ if .Params.summary }}
@@ -24,7 +15,27 @@
               <p>{{ .Summary }}</p>
             {{ end }}
           </div>
-      </section>
+          {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
+          {{ with $image }}
+            <img class="image" src="{{ ( $image.Fill "1064x400 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+          {{ end }}
+        </section>
+      {{ else }}
+        <section class="regular-section {{ .Params.color }}-dashed-border">
+          {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
+          {{ with $image }}
+            <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+          {{ end }}
+          <div>
+            <h3>{{ .Title }}</h3>
+            {{ if .Params.summary }}
+              <p>{{ .Params.summary }}</p>
+            {{ else }}
+              <p>{{ .Summary }}</p>
+            {{ end }}
+          </div>
+        </section>
+      {{ end }}
     {{ end }}
   </div>
 {{ end }}
