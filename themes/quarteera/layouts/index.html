@@ -11,8 +11,15 @@
         <div class="purple-dot"></div>
       </div>
       <p>{{ .Summary }}</p>
-      <div>
-        <a href="{{.Permalink}}">{{.Title}}</a>
+      <div class="buttons-container">
+        {{ $joinPage := .Site.GetPage "/help/mitglied_werden"  }}
+        {{ with $joinPage }}
+          <a class="purple-button" href="{{ $joinPage.Permalink }}">{{ $joinPage.Title }}</a>
+        {{ end }}
+        {{ $donatePage := .Site.GetPage "/help/spenden"  }}
+        {{ with $joinPage }}
+          <a class="blue-button" href="{{ $donatePage.Permalink }}">{{ $donatePage.Title }}</a>
+        {{ end }}
       </div>
     </div>
   </div>

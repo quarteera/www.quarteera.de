@@ -121,6 +121,20 @@ a, .desktop-language { cursor: pointer; }
   width: 5rem;
 }
 
+.buttons-container {
+  margin: 2rem 0;
+}
+
+.blue-button {
+  @include button;
+  background-color: $blue;
+}
+.purple-button {
+  @include button;
+  background-color: $purple;
+  margin-right: 1rem;
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;

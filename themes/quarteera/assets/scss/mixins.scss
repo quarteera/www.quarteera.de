@@ -35,3 +35,9 @@
   border-radius: 50%;
   vertical-align: middle;
 }
+
+@mixin button {
+  color: white;
+  padding: .5rem 1.25rem;
+  text-decoration: none;
+}
