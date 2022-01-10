@@ -29,13 +29,14 @@
           <div>
             <h3>{{ .Title }}</h3>
             {{ if .Params.summary }}
-              <p>{{ .Params.summary }}</p>
+              <p>{{ .Params.summary | truncate 200 }}</p>
             {{ else }}
-              <p>{{ .Summary }}</p>
+              <p>{{ .Summary | truncate 200 }}</p>
             {{ end }}
           </div>
         </section>
       {{ end }}
     {{ end }}
   </div>
+  {{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
 {{ end }}
