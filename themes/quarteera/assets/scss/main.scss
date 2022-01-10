@@ -1,23 +1,5 @@
 @import 'constants';
-@mixin row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-@mixin center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-@mixin column {
-  display: flex;
-  flex-direction: column;
-}
-@mixin max-width {
-  max-width: 1024px;
-  margin: 0 auto;
-}
+@import 'mixins';
 
 * {
   padding: 0;
@@ -45,15 +27,82 @@ a, .desktop-language { cursor: pointer; }
 
 .disable { display: none; }
 .rotate { transform: rotate(180deg); }
-.yellow-border { border-bottom: 2px solid $yellow; }
+
+.blue-border { border-bottom: 2px solid $blue; }
 .green-border { border-bottom: 2px solid $green; }
+.orange-border { border-bottom: 2px solid $orange; }
 .purple-border { border-bottom: 2px solid $purple; }
-.yellow-dashed-border { border: 1px dashed $yellow; }
+.red-border { border-bottom: 2px solid $red; }
+.yellow-border { border-bottom: 2px solid $yellow; }
+
+.blue-dashed-border { border: 1px dashed $blue; }
 .green-dashed-border { border: 1px dashed $green; }
+.orange-dashed-border { border: 1px dashed $orange; }
+.red-dashed-border { border: 1px dashed $red; }
 .purple-dashed-border{ border: 1px dashed $purple; }
-.yellow-dots:after, .yellow-dots:before { background: $yellow; }
+.yellow-dashed-border { border: 1px dashed $yellow; }
+
+.blue-dots:after, .blue-dots:before { background: $blue; }
 .green-dots:after, .green-dots:before { background: $green; }
+.orange-dots:after, .orange-dots:before { background: $orange; }
+.red-dots:after, .red-dots:before { background: $red; }
 .purple-dots:after, .purple-dots:before { background: $purple; }
+.yellow-dots:after, .yellow-dots:before { background: $yellow; }
+
+.blue-dot {
+  @include dot;
+  background: $blue;
+}
+
+.green-dot {
+  @include dot;
+  background: $green;
+}
+
+.orange-dot {
+  @include dot;
+  background: $orange;
+}
+
+.purple-dot {
+  @include dot;
+  background: $purple;
+}
+
+.red-dot {
+  @include dot;
+  background: $red;
+}
+
+.yellow-dot {
+  @include dot;
+  background: $yellow;
+}
+
+.blue path {
+  fill: $blue;
+  stroke: $blue;
+}
+.green path {
+  fill: $green;
+  stroke: $green;
+}
+.green orange {
+  fill: $orange;
+  stroke: $orange;
+}
+.green red {
+  fill: $red;
+  stroke: $red;
+}
+.purple path {
+  fill: $purple;
+  stroke: $purple;
+}
+.yellow path {
+  fill: $yellow;
+  stroke: $yellow;
+}
 
 .plant {
   position: absolute;
@@ -72,22 +121,25 @@ a, .desktop-language { cursor: pointer; }
   width: 5rem;
 }
 
-.yellow path {
-  fill: $yellow;
-  stroke: $yellow;
-}
-.green path {
-  fill: $green;
-  stroke: $green;
-}
-.purple path {
-  fill: $purple;
-  stroke: $purple;
-}
-
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
+
+  .home-page {
+    @include max-width;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding: 2rem 0;
+  }
+  .home-page-heading {
+    width: 70%;
+  }
+  .heading-with-dots{
+    @include row;
+    justify-content: space-between;
+    align-items: baseline;
+  }
 
   .projects-page {
     @include max-width;
@@ -113,9 +165,7 @@ body {
     padding: 1.25rem 3.375rem;
     max-width: 1024px;
 
-    img {
-      border-radius: 4px;
-    }
+    img { border-radius: 4px; }
   }
 
   .regular-section {
@@ -137,23 +187,13 @@ body {
     align-items: center;
 
     h1:before {
-      content: "";
-      display: inline-block;
-      height: 1.25rem;
-      width: 1.25rem;
-      border-radius: 50%;
-      vertical-align: middle;
-      margin-right: .75rem
+      @include dot;
+      margin-right: .75rem;
     }
 
     h1:after {
-      content: "";
-      display: inline-block;
-      height: 1.25rem;
-      width: 1.25rem;
-      border-radius: 50%;
-      vertical-align: middle;
-      margin-left: .75rem
+      @include dot;
+      margin-left: .75rem;
     }
   }
 
@@ -241,11 +281,9 @@ body {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      z-index: 2;
 
-      a {
-        text-decoration: none;
-        color: $primary-font-color;
-      }
+      a { @include reset-a-style; }
     }
 
     .burger {
@@ -270,7 +308,7 @@ body {
   }
 
   footer {
-    background-color: #e3e3e3;
+    background-color: $grey;
     padding: 2.5rem 2rem;
 
     .footer-section {
@@ -286,11 +324,12 @@ body {
     }
 
     a {
-      color: $primary-font-color;
+      @include reset-a-style;
       margin-bottom: .75rem;
-      text-decoration: none;
     }
+
     a:hover, a:active { text-decoration: underline;}
+
     nav {
       @include max-width;
       @include row;
@@ -310,9 +349,7 @@ body {
   html {
     overflow-x: hidden;
 
-    .purple { border-bottom: 0px; }
-    .yellow { border-bottom: 0px ;}
-    .green { border-bottom: 0px; }
+    .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
 
     .header {
       padding: 0 1rem;
@@ -358,13 +395,7 @@ body {
         }
       }
 
-      .nav-active {
-        transform: translateX(0);
-      }
-
-      .hide {
-        display: none;
-      }
+      .nav-active { transform: translateX(0); }
     }
     .language-selector {
       li {

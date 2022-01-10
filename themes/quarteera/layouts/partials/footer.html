@@ -3,7 +3,7 @@
     {{ range .Site.Sections }}
       <div class="footer-section">
         <a href="{{ .Permalink }}"><h4>{{ .Title }}</h5></a>
-        {{ range first 3 .Pages.ByDate }}
+        {{ range first 3 .Pages.ByDate.Reverse }}
             <a href="{{.Permalink}}">{{.Title}}</a>
         {{ end }}
       </div>

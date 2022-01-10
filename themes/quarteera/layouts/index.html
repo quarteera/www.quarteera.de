@@ -1,7 +1,15 @@
 {{ define "main" }}
-  <div class="projects-page">
-    <div class="page-heading">
-      <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
+  <div class="home-page">
+    <div class="home-page-heading">
+      <div class="heading-with-dots">
+        <h1>{{ .Title }}</h1>
+        <div class="red-dot"></div>
+        <div class="orange-dot"></div>
+        <div class="yellow-dot"></div>
+        <div class="green-dot"></div>
+        <div class="blue-dot"></div>
+        <div class="purple-dot"></div>
+      </div>
       <p>{{ .Summary }}</p>
     </div>
   </div>

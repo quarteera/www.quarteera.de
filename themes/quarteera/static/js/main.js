@@ -6,8 +6,8 @@ const navSlide = () => {
 
   burger.addEventListener('click', () => {
     nav.classList.toggle('nav-active');
-    openIcon.classList.toggle('hide');
-    closeIcon.classList.toggle('hide');
+    openIcon.classList.toggle('disable');
+    closeIcon.classList.toggle('disable');
   })
 }
 const selectLanguage = () => {
