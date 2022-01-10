@@ -1,12 +1,23 @@
 <footer>
   <nav>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.footer }}
-      <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ range .Site.Sections }}
+      <div class="footer-section">
+        <a href="{{ .Permalink }}"><h4>{{ .Title }}</h5></a>
+        {{ range first 3 .Pages.ByDate }}
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        {{ end }}
+      </div>
     {{ end }}
-    <a class="q-svg-footer" href="http://www.quarteera.de" target="_blank">
-      {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
-    </a>
-    {{- partial "social.html" . -}}
+    <div class="footer-section">
+      {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    <div class="footer-social">
+      <a class="q-svg-footer" href="http://www.quarteera.de" target="_blank">
+        {{ readFile ( print "static/q-logo-black.svg" ) | safeHTML  }}
+      </a>
+      {{- partial "social.html" . -}}
+    </div>
   </nav>
 </footer>

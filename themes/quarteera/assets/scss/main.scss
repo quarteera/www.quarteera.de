@@ -35,6 +35,11 @@ h1, h2, h3, h4, h5 {
 
 h1 { font-size: 2.75rem; }
 h3 { font-size: 1.25rem; }
+h4 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 0;
+}
 
 a, .desktop-language { cursor: pointer; }
 
@@ -145,11 +150,12 @@ body {
 
   .social {
     display: flex;
+    align-items: center;
     margin-left: 2rem;
 
     .inline-svg {
       width: 1rem;
-      margin-left: 1rem;
+      margin-right: 1rem;
       color: $primary-font-color;
     }
   }
@@ -254,9 +260,29 @@ body {
   }
 
   footer {
-    @include row;
-    @include max-width;
     background-color: #e3e3e3;
+    padding: 2.5rem 2rem;
+
+    .footer-section {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .footer-social {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    a {
+      color: $primary-font-color;
+      margin-bottom: .75rem;
+      text-decoration: none;
+    }
+    nav {
+      @include max-width;
+      @include row;
+    }
 
     .q-svg-footer {
       svg {
