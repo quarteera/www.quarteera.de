@@ -60,7 +60,16 @@ a, .desktop-language { cursor: pointer; }
   bottom: 0;
   left: 50%;
   z-index: -1;
-  margin-left: -27rem;
+  margin-left: -29rem;
+}
+
+.drawing {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  z-index: -1;
+  margin-left: 23rem;
+  width: 5rem;
 }
 
 .yellow path {
