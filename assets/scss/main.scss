@@ -249,6 +249,31 @@ nav {
   justify-content: space-between;
 }
 
+.home-page-heading { width: 70%; }
+.heading-with-dots {
+  display: inline-flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  margin-bottom: 1.5rem;
+
+  h1 { margin: 0; }
+}
+.heading-dots-container { margin-left: 1rem; }
+
+.content {
+  background-color: $background-color;
+  position: relative;
+  z-index: 0;
+  min-height: 80vh;
+
+  p, ul {
+    line-height: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  ul { margin-left: 2rem; }
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
@@ -259,14 +284,6 @@ body {
     flex-direction: column;
     align-items: left;
     padding: 2rem 0;
-  }
-  .home-page-heading {
-    width: 70%;
-  }
-  .heading-with-dots{
-    @include row;
-    justify-content: space-between;
-    align-items: baseline;
   }
 
   .projects-page {
@@ -313,20 +330,6 @@ body {
       margin-right: 1rem;
       color: $primary-font-color;
     }
-  }
-
-  .content {
-    background-color: $background-color;
-    position: relative;
-    z-index: 0;
-    min-height: 80vh;
-
-    p, ul {
-      line-height: 1.25rem;
-      margin-bottom: 1rem;
-    }
-
-    ul { margin-left: 2rem; }
   }
 
   .header {
@@ -411,10 +414,12 @@ body {
 }
 
 @media screen and (max-width:768px) {
+  .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
+  .accent-section, .regular-section, .plant { display: none; }
+  .content { min-height: 46vh; }
+
   html {
     overflow-x: hidden;
-
-    .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
 
     .header {
       padding: 0 1rem;
@@ -477,9 +482,7 @@ body {
     .active-language { text-decoration: underline; }
   }
 
-  nav {
-    flex-wrap: wrap;
-  }
+  nav { flex-wrap: wrap; }
   .footer-section {
     width: 45%;
     margin-bottom: 1rem;
@@ -510,8 +513,6 @@ body {
     padding: 1rem;
     width: 100%;
   }
-
-  .accent-section, .regular-section { display: none; }
 
   .regular-section-mobile {
     @include reset-a-style;
@@ -546,5 +547,38 @@ body {
     margin-bottom: 1rem;
     margin: 1rem auto;
     width: 70%;
+  }
+
+  .home-page-heading {
+    padding: 0 1rem;
+    width: 100%;
+  }
+
+  .buttons-container {
+    @include column;
+    align-items: baseline;
+  }
+
+  .purple-button { margin-bottom: 1rem; }
+  .heading-with-dots {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .heading-dots-container {
+    width: 100%;
+    margin: 0 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .drawing {
+    position: absolute;
+    top: 10rem;
+    left: 50%;
+    z-index: -1;
+    margin-left: 6rem;
+    width: 5rem;
   }
 }
