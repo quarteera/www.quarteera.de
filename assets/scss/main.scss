@@ -7,7 +7,10 @@
   box-sizing: border-box;
 }
 
-html { font-size: 24px; }
+html {
+  font-size: 24px;
+  overflow: break-word;
+}
 
 h1, h2, h3, h4, h5 {
   font-family: $title-font;
@@ -172,6 +175,8 @@ a, .desktop-language { cursor: pointer; }
   .main-image {
     border-radius: 50%;
     margin-right: 2rem;
+    width: 100%
+    align-self: baseline;
   }
 
   .article-image {
@@ -420,6 +425,7 @@ body {
 
   html {
     overflow-x: hidden;
+    font-size: 16px;
 
     .header {
       padding: 0 1rem;
@@ -510,15 +516,15 @@ body {
 
   .page-heading {
     h1:before, h1:after { background: none; }
-    padding: 1rem;
+    padding: .5rem;
     width: 100%;
   }
 
   .regular-section-mobile {
     @include reset-a-style;
     display: block;
-    padding: 1rem;
-    margin: 1rem 1rem 0 1rem;
+    padding: .5rem;
+    margin: .5rem .5rem 0 .5rem;
 
     img {
       width: 25%;
@@ -537,20 +543,20 @@ body {
     @include column;
     @include reset-a-style;
     align-items: center;
-    padding: 1rem;
-    margin: 1rem 1rem 0 1rem;
+    padding: .5rem;
+    margin: .5rem .5rem 0 .5rem;
   }
 
   .dots-container {
     display: flex;
     justify-content: space-around;
     margin-bottom: 1rem;
-    margin: 1rem auto;
-    width: 70%;
+    margin: .5rem auto;
+    width: 90%;
   }
 
   .home-page-heading {
-    padding: 0 1rem;
+    padding: 0 .5rem;
     width: 100%;
   }
 
@@ -568,7 +574,7 @@ body {
 
   .heading-dots-container {
     width: 100%;
-    margin: 0 0 1rem 0;
+    margin: 0 0 .5rem 0;
     display: flex;
     justify-content: space-between;
   }
