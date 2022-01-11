@@ -7,6 +7,7 @@ draft: false
 accent: false
 color: green
 menuIdentifier: projects
+ourPartners: Наши партнеры
 ---
 
 RU: То, над чем мы сейчас работаем.

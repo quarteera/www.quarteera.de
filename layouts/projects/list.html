@@ -74,6 +74,8 @@
         </a>
       {{ end }}
     {{ end }}
+    <h4 class="page-heading">{{ .Params.ourPartners }}</h4>
+    {{- partial "partners.html" -}}
   </div>
   {{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
 {{ end }}
