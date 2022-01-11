@@ -27,8 +27,8 @@ menuIdentifier: projects
 
 [Ссылка на что-то, подсвечивается цветом секции](http://www.quarteera.de/)
 
-{{< figure src="image.jpeg" title="Мы на прайде" class="article-image" >}}
+{{< figure src="image.jpeg" class="article-image" >}}
 
 ## В коллаборации с
 
-{{< figure src="logo.png" title="Вальдшлёсхен" class="logo" >}}
+{{< figure src="logo.png" class="article-logo" >}}

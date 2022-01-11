@@ -137,12 +137,22 @@ a, .desktop-language { cursor: pointer; }
 
 .single-page {
   @include max-width;
-  a:link { color: $dark-green; }
-  a:visited { color: $green; }
   padding: 4rem 2rem;
 
-  .article-image { @include center; }
-  .logo img {
+  a:link { color: $dark-green; }
+  a:visited { color: $green; }
+
+  .main-image {
+    border-radius: 50%;
+    margin-right: 2rem;
+  }
+
+  .article-image {
+    @include center;
+    margin-bottom: 2rem;
+  }
+  .article-logo{ @include center; }
+  .article-logo img {
     border-radius: 50%;
     margin-bottom: 1rem;
     width: 8rem;
@@ -152,12 +162,20 @@ a, .desktop-language { cursor: pointer; }
   .single-page-summary {
     @include row;
 
-    .text {
-      margin-left: 2rem;
-    }
     .summary {
       font-size: 1.5rem;
+      line-height: 1.5rem;
     }
+  }
+}
+
+.footer-social {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  .social {
+    margin: 0;
   }
 }
 
@@ -257,7 +275,7 @@ body {
     background-color: $background-color;
     position: relative;
     z-index: 0;
-    min-height: 70vh;
+    min-height: 80vh;
 
     p, ul {
       line-height: 1.25rem;
@@ -337,12 +355,6 @@ body {
       margin-right: 1rem;
     }
 
-    .footer-social {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
     a {
       @include reset-a-style;
       margin-bottom: .75rem;
@@ -353,6 +365,7 @@ body {
     nav {
       @include max-width;
       @include row;
+      justify-content: space-between;
     }
 
     .q-svg-footer {
