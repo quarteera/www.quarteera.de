@@ -179,6 +179,18 @@ a, .desktop-language { cursor: pointer; }
   }
 }
 
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  margin-right: 1rem;
+}
+
+nav {
+  @include max-width;
+  @include row;
+  justify-content: space-between;
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
@@ -349,24 +361,12 @@ body {
     background-color: $grey;
     padding: 2.5rem 2rem;
 
-    .footer-section {
-      display: flex;
-      flex-direction: column;
-      margin-right: 1rem;
-    }
-
     a {
       @include reset-a-style;
       margin-bottom: .75rem;
     }
 
     a:hover, a:active { text-decoration: underline;}
-
-    nav {
-      @include max-width;
-      @include row;
-      justify-content: space-between;
-    }
 
     .q-svg-footer {
       svg {
@@ -443,5 +443,23 @@ body {
       }
     }
     .active-language { text-decoration: underline; }
+  }
+
+  nav {
+    flex-wrap: wrap;
+  }
+  .footer-section {
+    min-width: 45%;
+    margin-bottom: 1rem;
+  }
+
+  .footer-social {
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+
+    .q-svg-footer, .social {
+      width: 50%;
+    }
   }
 }
