@@ -1,12 +1,12 @@
 ---
-title: "Erster Projekt" # Title of your project
+title: Dritter Projekt # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 100 # Order in which to show this project on the home page
+weight: 0 # Order in which to show this project on the home page
 image: project.png
-alt: "some alt text"
-summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
+alt: some alt text
+summary: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.
 draft: false
-accent: true
+accent: false
 color: green
 ---
 

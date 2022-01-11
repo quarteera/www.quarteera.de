@@ -6,9 +6,11 @@
     </div>
     {{ range .Pages.ByWeight }}
       <a href="{{ .Permalink }}" class="regular-section {{ .Params.color }}-dashed-border">
-        {{ $image := resources.Get (printf "images/projects/%s" .Params.image) }}
-        {{ with $image }}
-          <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+        {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+          {{ $image := .Resources.GetMatch (.Params.image) }}
+          {{ with $image }}
+            <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+          {{ end }}
         {{ end }}
         <div>
           <h3>{{ .Title }}</h3>

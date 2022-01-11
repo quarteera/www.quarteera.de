@@ -2,6 +2,7 @@
 title: "Пресса"
 date: 2022-01-07T11:53:49+01:00
 draft: false
+image:
 ---
 
 Christopher Schreiber\

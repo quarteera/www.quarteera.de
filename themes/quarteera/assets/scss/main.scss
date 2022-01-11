@@ -135,6 +135,32 @@ a, .desktop-language { cursor: pointer; }
   margin-right: 1rem;
 }
 
+.single-page {
+  @include max-width;
+  a:link { color: $dark-green; }
+  a:visited { color: $green; }
+  padding: 4rem 2rem;
+
+  .article-image { @include center; }
+  .logo img {
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    width: 8rem;
+    height: 8rem;
+    overflow: hidden;
+  }
+  .single-page-summary {
+    @include row;
+
+    .text {
+      margin-left: 2rem;
+    }
+    .summary {
+      font-size: 1.5rem;
+    }
+  }
+}
+
 body {
   color: $primary-font-color;
   font: 100% $regular-font;
@@ -239,30 +265,6 @@ body {
     }
 
     ul { margin-left: 2rem; }
-
-    .project {
-      a:link { color: $dark-green; }
-      a:visited { color: $green; }
-
-      .article-image { @include center; }
-      .logo img {
-        border-radius: 50%;
-        margin-bottom: 1rem;
-        width: 8rem;
-        height: 8rem;
-        overflow: hidden;
-      }
-      .project-summary {
-        @include row;
-
-        .text {
-          margin-left: 2rem;
-        }
-        .summary {
-          font-size: 1.5rem;
-        }
-      }
-    }
   }
 
   .header {
