@@ -186,13 +186,14 @@ a, .desktop-language { cursor: pointer; }
     height: 8rem;
     overflow: hidden;
   }
-  .single-page-summary {
-    @include row;
+}
 
-    .summary {
-      font-size: 1.5rem;
-      line-height: 1.5rem;
-    }
+.single-page-summary {
+  @include row;
+
+  .summary {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
   }
 }
 
@@ -487,6 +488,16 @@ body {
 
     .q-svg-footer, .social {
       width: 50%;
+    }
+  }
+
+  .single-page-summary {
+    flex-direction: column;
+
+    .column {
+      @include column;
+      align-items: center;
+      margin-bottom: 1rem;
     }
   }
 }
