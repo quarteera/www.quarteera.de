@@ -87,11 +87,11 @@ a, .desktop-language { cursor: pointer; }
   fill: $green;
   stroke: $green;
 }
-.green orange {
+.orange path {
   fill: $orange;
   stroke: $orange;
 }
-.green red {
+.red path {
   fill: $red;
   stroke: $red;
 }
@@ -102,6 +102,36 @@ a, .desktop-language { cursor: pointer; }
 .yellow path {
   fill: $yellow;
   stroke: $yellow;
+}
+
+.blue-links {
+  a:link { color: $dark-blue; }
+  a:visited { color: $blue; }
+}
+
+.green-links {
+  a:link { color: $dark-green; }
+  a:visited { color: $green; }
+}
+
+.orange-links {
+  a:link { color: $dark-orange; }
+  a:visited { color: $orange; }
+}
+
+.red-links {
+  a:link { color: $dark-red; }
+  a:visited { color: $red; }
+}
+
+.purple-links {
+  a:link { color: $dark-purple; }
+  a:visited { color: $purple; }
+}
+
+.yellow-links {
+  a:link { color: $dark-yellow; }
+  a:visited { color: $yellow; }
 }
 
 .plant {
@@ -138,9 +168,6 @@ a, .desktop-language { cursor: pointer; }
 .single-page {
   @include max-width;
   padding: 4rem 2rem;
-
-  a:link { color: $dark-green; }
-  a:visited { color: $green; }
 
   .main-image {
     border-radius: 50%;

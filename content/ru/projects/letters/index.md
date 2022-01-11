@@ -25,7 +25,8 @@ menuIdentifier: projects
 
 Проект реализуется Фондом Академией Вальдшлёсхен совместно с организацией Quarteera e.V.
 
-[Ссылка на что-то, подсвечивается цветом секции](http://www.quarteera.de/)
+[Ссылка на что-то, подсвечивается цветом секции](http://www.quarteer.de/)
+[Ссылка на что-то, подсвечивается цветом секции](http://www.abc.de/)
 
 {{< figure src="image.jpeg" class="article-image" >}}
 
