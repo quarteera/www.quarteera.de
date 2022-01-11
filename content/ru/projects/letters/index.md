@@ -8,6 +8,7 @@ summary: "Тут идет какой-то текст с коротким опи�
 accent: true
 draft: false
 color: green
+menuIdentifier: projects
 ---
 
 ## RU: „Разнообразие heißt Vielfalt“

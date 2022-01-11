@@ -17,9 +17,9 @@
     <div class="nav-links">
       <ul class="main-menu">
         {{ range .Site.Menus.main }}
-          {{ $is := eq .Name $currentPage.Title }}
+          {{ $is := eq .Identifier $currentPage.Params.menuIdentifier }}
           <div class="menu-item">
-            <li {{ if eq $currentPage.Title .Name }}class="{{ $currentPage.Params.color }}-border"{{ end }}>
+            <li {{ if $is }}class="{{ $currentPage.Params.color }}-border"{{ end }}>
               <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>
           </div>

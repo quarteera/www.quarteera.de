@@ -6,4 +6,5 @@ image: project.png
 accent: false
 summary: "Short project summary"
 draft: false
+menuIdentifier: projects
 ---

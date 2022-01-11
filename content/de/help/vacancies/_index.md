@@ -7,6 +7,7 @@ alt: "some alt text"
 summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
 draft: false
 color: purple
+menuIdentifier: help
 ---
 
 DE Offene stellen hier

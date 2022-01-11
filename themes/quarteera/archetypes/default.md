@@ -8,4 +8,5 @@ summary: "Short project summary"
 draft: false
 color:
 alt:
+menuIdentifier: help
 ---

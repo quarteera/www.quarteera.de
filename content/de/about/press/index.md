@@ -6,6 +6,7 @@ image: project.png
 alt: "some alt text"
 draft: false
 color: yellow
+menuIdentifier: about
 ---
 
 ## Some first level title

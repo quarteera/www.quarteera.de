@@ -8,6 +8,7 @@ alt: "some image"
 draft: false
 accent: false
 color: green
+menuIdentifier: projects
 ---
 
 RU: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.

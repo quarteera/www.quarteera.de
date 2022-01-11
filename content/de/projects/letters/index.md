@@ -8,6 +8,7 @@ summary: Тут идет какой-то текст с коротким опис
 draft: false
 accent: true
 color: green
+menuIdentifier: projects
 ---
 
 DE: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.

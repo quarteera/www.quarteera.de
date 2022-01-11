@@ -5,6 +5,7 @@ weight: 0 # Order in which to show this project on the home page
 image:
 draft: false
 color: purple
+menuIdentifier: help
 ---
 
 RU Как нам помочь? Текст бы сюда какой-то

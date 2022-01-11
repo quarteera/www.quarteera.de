@@ -6,6 +6,7 @@ image:
 draft: false
 accent: false
 color: green
+menuIdentifier: projects
 ---
 
 DE: То, над чем мы сейчас работаем.
