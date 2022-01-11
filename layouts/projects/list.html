@@ -5,7 +5,7 @@
       <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
       <p>{{ .Summary }}</p>
     </div>
-    {{ range .Pages.ByWeight }}
+    {{ range .Pages.ByWeight.Reverse }}
       {{ if eq .Params.accent true }}
         <a href="{{ .Permalink }}" class="accent-section {{ .Params.color }}-dashed-border">
           <h3>{{ .Title }}</h3>
@@ -33,9 +33,9 @@
           {{ end }}
           <div>
             {{ if .Params.summary }}
-              <p>{{ .Params.summary }}</p>
+              <p class="text">{{ .Params.summary }}</p>
             {{ else }}
-              <p>{{ .Summary }}</p>
+              <p class="text">{{ .Summary }}</p>
             {{ end }}
           </div>
         </a>
@@ -50,9 +50,9 @@
           <div>
             <h4>{{ .Title }}</h4>
             {{ if .Params.summary }}
-              <p>{{ .Params.summary | truncate 200 }}</p>
+              <p class="text">{{ .Params.summary | truncate 200 }}</p>
             {{ else }}
-              <p>{{ .Summary | truncate 200 }}</p>
+              <p class="text">{{ .Summary | truncate 200 }}</p>
             {{ end }}
           </div>
         </a>
@@ -67,9 +67,9 @@
             <h4>{{ .Title }}</h4>
           </div>
           {{ if .Params.summary }}
-            <p>{{ .Params.summary | truncate 200 }}</p>
+            <p class="text">{{ .Params.summary | truncate 200 }}</p>
           {{ else }}
-            <p>{{ .Summary | truncate 200 }}</p>
+            <p class="text">{{ .Summary | truncate 200 }}</p>
           {{ end }}
         </a>
       {{ end }}

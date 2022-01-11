@@ -27,6 +27,7 @@ h4 {
 }
 
 a, .desktop-language { cursor: pointer; }
+img { border-radius: .25rem; }
 
 .disable { display: none; }
 .rotate { transform: rotate(180deg); }
@@ -238,12 +239,32 @@ a, .desktop-language { cursor: pointer; }
   max-width: 800px;
   padding: 1rem;
   margin-bottom: 1rem;
+  width: 100%;
 
+  h4 { margin-bottom: .5rem; }
+  .text { margin-bottom: 0; }
   div {
     @include column;
     margin-left: 1rem;
     justify-content: center;
   }
+}
+
+.regular-section-help {
+  @include row;
+  @include reset-a-style;
+  max-width: 800px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  align-items: center;
+
+  .text { margin-bottom: 0; }
+}
+
+.help-list-image {
+  height: .75rem;
+  margin-right: .25rem;
 }
 
 .accent-section-mobile, .regular-section-mobile { display: none; }
@@ -267,9 +288,9 @@ nav {
 
 .content {
   background-color: $background-color;
+  flex: 1;
   position: relative;
   z-index: 0;
-  min-height: 80vh;
 
   p, ul {
     line-height: 1.25rem;
@@ -295,8 +316,10 @@ nav {
 }
 
 body {
+  @include column;
   color: $primary-font-color;
   font: 100% $regular-font;
+  min-height: 100vh;
 
   .home-page {
     @include max-width;
@@ -321,7 +344,11 @@ body {
     }
   }
 
-  .image { width: 100%; }
+  .image {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+  }
 
   .page-heading {
     margin-bottom: 2rem;
@@ -436,7 +463,6 @@ body {
 @media screen and (max-width:768px) {
   .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
   .accent-section, .regular-section, .plant { display: none; }
-  .content { min-height: 46vh; }
 
   html {
     overflow-x: hidden;
@@ -445,6 +471,7 @@ body {
     .header {
       padding: 0 1rem;
       height: 12vh;
+      width: 100%;
 
       .burger { display: flex; }
       .desktop-language, .language-popup { display: none; }
