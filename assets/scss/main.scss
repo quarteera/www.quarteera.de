@@ -105,32 +105,32 @@ a, .desktop-language { cursor: pointer; }
 }
 
 .blue-links {
-  a:link { color: $dark-blue; }
+  a:hover, a:active, a:link { color: $dark-blue; }
   a:visited { color: $blue; }
 }
 
 .green-links {
-  a:link { color: $dark-green; }
+  a:hover, a:active, a:link { color: $dark-green; }
   a:visited { color: $green; }
 }
 
 .orange-links {
-  a:link { color: $dark-orange; }
+  a:hover, a:active, a:link { color: $dark-orange; }
   a:visited { color: $orange; }
 }
 
 .red-links {
-  a:link { color: $dark-red; }
+  a:hover, a:active, a:link { color: $dark-red; }
   a:visited { color: $red; }
 }
 
 .purple-links {
-  a:link { color: $dark-purple; }
+  a:hover, a:active, a:link { color: $dark-purple; }
   a:visited { color: $purple; }
 }
 
 .yellow-links {
-  a:link { color: $dark-yellow; }
+  a:hover, a:active, a:link { color: $dark-yellow; }
   a:visited { color: $yellow; }
 }
 
@@ -213,6 +213,36 @@ a, .desktop-language { cursor: pointer; }
   margin-right: 1rem;
 }
 
+.dots-container { display: none; }
+
+.accent-section {
+  @include reset-a-style;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.25rem 3.375rem;
+  max-width: 1024px;
+  margin-bottom: 1rem;
+
+  img { border-radius: 4px; }
+}
+
+.regular-section {
+  @include row;
+  @include reset-a-style;
+  max-width: 800px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  div {
+    @include column;
+    margin-left: 1rem;
+    justify-content: center;
+  }
+}
+
+.accent-section-mobile, .regular-section-mobile { display: none; }
+
 nav {
   @include max-width;
   @include row;
@@ -255,32 +285,6 @@ body {
   }
 
   .image { width: 100%; }
-
-  .accent-section {
-    @include reset-a-style;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 1.25rem 3.375rem;
-    max-width: 1024px;
-    margin-bottom: 1rem;
-
-    img { border-radius: 4px; }
-  }
-
-  .regular-section {
-    @include row;
-    @include reset-a-style;
-    max-width: 800px;
-    padding: 1rem;
-    margin-bottom: 1rem;
-
-    div {
-      @include column;
-      margin-left: 1rem;
-      justify-content: center;
-    }
-  }
 
   .page-heading {
     margin-bottom: 2rem;
@@ -477,7 +481,7 @@ body {
     flex-wrap: wrap;
   }
   .footer-section {
-    min-width: 45%;
+    width: 45%;
     margin-bottom: 1rem;
   }
 
@@ -499,5 +503,48 @@ body {
       align-items: center;
       margin-bottom: 1rem;
     }
+  }
+
+  .page-heading {
+    h1:before, h1:after { background: none; }
+    padding: 1rem;
+    width: 100%;
+  }
+
+  .accent-section, .regular-section { display: none; }
+
+  .regular-section-mobile {
+    @include reset-a-style;
+    display: block;
+    padding: 1rem;
+    margin: 1rem 1rem 0 1rem;
+
+    img {
+      width: 25%;
+      height: 25%;
+      margin-right: 1rem;
+    }
+
+    div {
+      @include row;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .accent-section-mobile {
+    @include column;
+    @include reset-a-style;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem 1rem 0 1rem;
+  }
+
+  .dots-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+    margin: 1rem auto;
+    width: 70%;
   }
 }

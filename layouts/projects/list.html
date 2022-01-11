@@ -1,6 +1,7 @@
 {{ define "main" }}
   <div class="projects-page">
     <div class="page-heading">
+      {{- partial "dots.html" (dict "context" . "style" .Params.color) -}}
       <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
       <p>{{ .Summary }}</p>
     </div>
@@ -22,6 +23,22 @@
             {{ end }}
           {{ end }}
         </a>
+        <a href="{{ .Permalink }}" class="accent-section-mobile {{ .Params.color }}-dashed-border">
+          <h3>{{ .Title }}</h3>
+          {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+            {{ $image := .Resources.GetMatch (.Params.image) }}
+            {{ with $image }}
+              <img class="image" src="{{ $image.RelPermalink }}" atl="{{ .Params.alt }}"/>
+            {{ end }}
+          {{ end }}
+          <div>
+            {{ if .Params.summary }}
+              <p>{{ .Params.summary }}</p>
+            {{ else }}
+              <p>{{ .Summary }}</p>
+            {{ end }}
+          </div>
+        </a>
       {{ else }}
         <a href="{{ .Permalink }}" class="regular-section {{ .Params.color }}-dashed-border">
           {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
@@ -31,13 +48,29 @@
             {{ end }}
           {{ end }}
           <div>
-            <h3>{{ .Title }}</h3>
+            <h4>{{ .Title }}</h4>
             {{ if .Params.summary }}
               <p>{{ .Params.summary | truncate 200 }}</p>
             {{ else }}
               <p>{{ .Summary | truncate 200 }}</p>
             {{ end }}
           </div>
+        </a>
+        <a href="{{ .Permalink }}"  class="regular-section-mobile {{ .Params.color }}-dashed-border">
+          <div>
+            {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+              {{ $img := .Resources.GetMatch (.Params.image) }}
+              {{ with $img }}
+                <img class="image" src="{{ ( $img.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+              {{ end }}
+            {{ end }}
+            <h4>{{ .Title }}</h4>
+          </div>
+          {{ if .Params.summary }}
+            <p>{{ .Params.summary | truncate 200 }}</p>
+          {{ else }}
+            <p>{{ .Summary | truncate 200 }}</p>
+          {{ end }}
         </a>
       {{ end }}
     {{ end }}
