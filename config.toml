@@ -13,19 +13,19 @@ defaultContentLanguage = 'ru'
       name = 'О нас'
       url = '/about'
       weight = 0
-      class = 'yellow'
+      pre = 'yellow'
       identifier = 'about'
     [[languages.ru.menu.main]]
       name = 'Проекты'
       url = '/projects'
       weight = 1
-      class = 'green'
+      pre = 'green'
       identifier = 'projects'
     [[languages.ru.menu.main]]
       name = 'Поддержать'
       url = '/help'
       weight = 2
-      class = 'purple'
+      pre = 'purple'
       identifier = 'help'
     [[languages.ru.menu.footer]]
       name = 'Пресса'
@@ -49,19 +49,19 @@ defaultContentLanguage = 'ru'
       name = 'Über uns'
       url = '/about'
       weight = 0
-      class = 'yellow'
+      pre = 'yellow'
       identifier = 'about'
     [[languages.de.menu.main]]
       name = 'Projekte'
       url = '/projects'
       weight = 1
-      class = 'green'
+      pre = 'green'
       identifier = 'projects'
     [[languages.de.menu.main]]
       name = 'Uns helfen'
       url = '/help'
       weight = 2
-      class = 'purple'
+      pre = 'purple'
       identifier = 'help'
     [[languages.de.menu.footer]]
       name = 'Press'

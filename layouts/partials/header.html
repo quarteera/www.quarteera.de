@@ -18,7 +18,7 @@
       <ul class="main-menu">
         {{ range .Site.Menus.main }}
           {{ $is := eq .Identifier $currentPage.Params.menuIdentifier }}
-          <div class="menu-item">
+          <div class="menu-item mobile-{{ .Pre }}-background">
             <li {{ if $is }}class="{{ $currentPage.Params.color }}-border"{{ end }}>
               <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>

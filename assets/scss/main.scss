@@ -482,6 +482,12 @@ body {
 }
 
 @media screen and (max-width:768px) {
+  .mobile-blue-background { background: $blue; }
+  .mobile-green-background { background: $green; }
+  .mobile-orange-background { background: $orange; }
+  .mobile-red-background { background: $red; }
+  .mobile-purple-background { background: $purple; }
+  .mobile-yellow-background { background: $yellow; }
   .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
@@ -534,10 +540,6 @@ body {
             display: flex;
             justify-content: center;
           }
-
-          .menu-item:nth-child(1) { background-color: $yellow; }
-          .menu-item:nth-child(2) { background-color: $green; }
-          .menu-item:nth-child(3) { background-color: $purple; }
         }
       }
 
