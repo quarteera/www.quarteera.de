@@ -8,6 +8,7 @@ const navSlide = () => {
     nav.classList.toggle('nav-active');
     openIcon.classList.toggle('disable');
     closeIcon.classList.toggle('disable');
+    document.body.classList.toggle('disable-overflow');
   })
 }
 const selectLanguage = () => {
@@ -20,6 +21,9 @@ const selectLanguage = () => {
     icon.classList.toggle('rotate');
   })
 }
+// disable animation on page load:
+// https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only
+document.body.classList.remove('preload');
 
 navSlide();
 selectLanguage();

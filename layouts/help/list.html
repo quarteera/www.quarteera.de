@@ -44,10 +44,10 @@
       {{ if eq .Params.list true }}
         {{ range .Pages.ByWeight }}
           <a href="{{ .Permalink }}" class="regular-section-help {{ .Params.color }}-dashed-border">
-            {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
-              {{ $image := .Resources.GetMatch (.Params.image) }}
-              {{ with $image }}
-                <img class="help-list-image" src="{{ $image.RelPermalink }}" atl="{{ .Params.alt }}"/>
+            {{ if and ( isset .Params "icon" ) ( ne ( trim .Params.icon " " ) "" )  }}
+              {{ $icon := .Resources.GetMatch (.Params.icon) }}
+              {{ with $icon }}
+                <img class="help-list-icon" src="{{ $icon.RelPermalink }}"/>
               {{ end }}
             {{ end }}
             <h4>{{ .Title }}</h4>
