@@ -72,5 +72,6 @@
       {{ end }}
     {{ end }}
   {{ end }}
+  {{- partial "dashed-decor.html" (dict "context" . "style" .Params.color) -}}
   {{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
 {{ end }}

@@ -16,4 +16,5 @@
     </div>
     {{ .Content }}
   </div>
+  {{- partial "dashed-decor.html" (dict "context" . "style" .Params.color) -}}
 {{ end }}
