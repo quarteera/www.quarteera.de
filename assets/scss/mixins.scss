@@ -41,3 +41,8 @@
   padding: .5rem 1.25rem;
   text-decoration: none;
 }
+
+@mixin inherit-font {
+  font-family:inherit;
+  font-size: inherit;
+}

@@ -1,0 +1,60 @@
+{{ define "main" }}
+  <div class="single-page {{ .Params.color}}-links">
+    <div class="single-page-summary">
+      {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+        <div class="column">
+          {{ $image := .Resources.GetMatch (.Params.image) }}
+          {{ with $image }}
+            <img class="main-image" src="{{ ( $image.Fill "405x405 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
+          {{ end }}
+        </div>
+      {{ end }}
+      <div class="column text">
+        <h1>{{ .Title }}</h1>
+        <p class="summary">{{ .Params.summary }}</p>
+      </div>
+    </div>
+    {{ .Content }}
+    <div class="form">
+      <div class="selection1 form-section">
+        <label for="title-select">{{ .Params.selectTitle }}</label>
+        <select class="{{ .Params.color }}-solid-border" name="titles" id="title-select">
+          <option value="">--{{ .Params.selectOption }}--</option>
+          <option value="ms">Ms</option>
+          <option value="mrs">Mrs</option>
+          <option value="mr">Mr</option>
+        </select>
+      </div>
+      <div class="input form-section">
+        <label for="name">{{ .Params.inputName}}</label>
+        <input class="{{ .Params.color }}-solid-border"  type="text" id="name" name="name" required minlength="4" maxlength="18" size="10">
+      </div>
+
+      <div class="input form-section">
+        <label for="name">{{ .Params.inputLastName}}</label>
+        <input class="{{ .Params.color }}-solid-border"  type="text" id="lastName" name="lastName" required minlength="4" maxlength="18" size="10">
+      </div>
+
+      <div class="checkbox form-section">
+        <label for="selectSomething">{{ .Params.select }}</label>
+        <div class="checkbox-container">
+          <input class="{{ .Params.color }} {{ .Params.color }}-solid-border" type="checkbox" id="selectSomething" checked>
+          <input class="{{ .Params.color }} {{ .Params.color }}-solid-border" type="checkbox" id="selectSomething">
+          <input class="{{ .Params.color }} {{ .Params.color }}-solid-border" type="checkbox" id="selectSomething" checked>
+        </div>
+      </div>
+
+      <div class="select form-section">
+        <select class="{{ .Params.color }}-solid-border" name="titles" id="title-select">
+          <option value="">--{{ .Params.selectOption }}--</option>
+          <option value="option1">{{ .Params.dropDownOption1 }}</option>
+          <option value="option2">{{ .Params.dropDownOption2 }}</option>
+          <option value="option3">{{ .Params.dropDownOption3 }}</option>
+        </select>
+      </div>
+
+      <button class="{{ .Params.color }}-button" type="button">{{ .Params.send }}</button>
+    </div>
+  </div>
+  {{- partial "dashed-decor.html" (dict "context" . "style" .Params.color) -}}
+{{ end }}

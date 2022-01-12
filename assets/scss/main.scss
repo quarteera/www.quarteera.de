@@ -49,6 +49,13 @@ img { border-radius: .25rem; }
 .purple-dashed-border{ border: 1px dashed $purple; }
 .yellow-dashed-border { border: 1px dashed $yellow; }
 
+.blue-solid-border { border: 1px solid $blue; }
+.green-solid-border { border: 1px solid $green; }
+.orange-solid-border { border: 1px solid $orange; }
+.red-solid-border { border: 1px solid $red; }
+.purple-solid-border{ border: 1px solid $purple; }
+.yellow-solid-border { border: 1px solid $yellow; }
+
 .blue-dots:after, .blue-dots:before { background: $blue; }
 .green-dots:after, .green-dots:before { background: $green; }
 .orange-dots:after, .orange-dots:before { background: $orange; }
@@ -92,6 +99,9 @@ img { border-radius: .25rem; }
 .purple-dashed { stroke: $purple; }
 .red-dashed { stroke: $red; }
 .yellow-dashed { stroke: $yellow; }
+
+.blue, .green, .orange, .red, .yellow { filter: grayscale(1); }
+.purple { filter: hue-rotate(50deg); }
 
 .blue path {
   fill: $blue;
@@ -472,6 +482,7 @@ body {
     }
 
     a:hover, a:active { text-decoration: underline;}
+    nav { align-items: baseline; }
 
     .q-svg-footer {
       svg {
@@ -480,6 +491,65 @@ body {
         display: inline-block;
       }
     }
+  }
+}
+
+.form-section {
+  min-width: 70%;
+  margin-bottom: 1.75rem;
+}
+
+.form {
+  margin-top: 2rem;
+
+  label {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: .75rem;
+  }
+
+  option { @include inherit-font; }
+
+  .selection1 {
+    @include column;
+    align-items: baseline;
+  }
+
+  .input { @include column; }
+
+  input[type=text], select {
+    @include inherit-font;
+    padding: .5rem .75rem;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+
+  select { min-width: 50%; }
+
+  input[type=checkbox] {
+    @include inherit-font;
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+
+  .checkbox {
+    @include column;
+
+    .checkbox-container {
+      @include row;
+      justify-content: space-between;
+      width: 70%;
+    }
+  }
+
+  button {
+    /* remove default behavior */
+    appearance:none;
+    -webkit-appearance:none;
+    @include button;
+    font-family:inherit;
+    font-size: inherit;
+    margin: 0 0 1rem 0;
   }
 }
 
@@ -499,7 +569,7 @@ body {
     width: -webkit-fill-available;
     margin: 0 1rem 1rem 1rem;
   }
-
+  .form-section { width: 100%; }
   html {
     font-size: 16px;
 
