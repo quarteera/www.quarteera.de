@@ -377,10 +377,12 @@ body {
   .header-logo { margin: 0; }
   .calendar { margin: 1rem; }
   .regular-section-help {
-    flex-direction: column;
     margin: 0 1rem 1rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
+  }
+  .regular-section-help:first-child {
+    margin-left: .25rem;
   }
   .footer, .single-page { padding: 1rem; }
   .nav-links {
