@@ -28,7 +28,7 @@
           {{ if .Site.IsMultiLingual }}
             <ul class="hamburger-languages">
               {{ range $.AllTranslations }}
-                <li class="mobile-language{{ if eq .Language $.Site.Language }}active-language{{ end }}">
+                <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">
                   <a href="{{ .Permalink }}">
                     {{ .Language.LanguageName }}
                   </a>
