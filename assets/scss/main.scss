@@ -10,7 +10,6 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
-  position: absolute;
 }
 
 html {
@@ -313,6 +312,8 @@ img { border-radius: .25rem; }
 
 .accent-section-mobile, .regular-section-mobile { display: none; }
 
+.menu-item { margin-right: 1rem; }
+
 nav {
   @include max-width;
   @include row;
@@ -446,10 +447,7 @@ body {
     ul {
       @include row;
 
-      li {
-        margin-left: 2rem;
-        list-style: none;
-      }
+      li { list-style: none; }
     }
 
     .q-svg-header {
@@ -615,13 +613,14 @@ body {
 
       .menu-item, .language-selector {
         padding: 1.25rem 0;
-        margin: 0;
+        margin-left: 0;
+        margin-right: 0;
         display: flex;
         justify-content: center;
       }
     }
   }
-
+  .mobile-language { margin: 0; }
   html {
     font-size: 16px;
 
