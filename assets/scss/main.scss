@@ -109,29 +109,53 @@ img { border-radius: .25rem; }
 .blue, .green, .orange, .red, .yellow { filter: grayscale(1); }
 .purple { filter: hue-rotate(50deg); }
 
-.blue path {
+.blue-stroke path {
   fill: $blue;
   stroke: $blue;
 }
-.green path {
+.green-stroke path {
   fill: $green;
   stroke: $green;
 }
-.orange path {
+.orange-stroke path {
   fill: $orange;
   stroke: $orange;
 }
-.red path {
+.red-stroke path {
   fill: $red;
   stroke: $red;
 }
-.purple path {
+.purple-stroke path {
   fill: $purple;
   stroke: $purple;
 }
-.yellow path {
+.yellow-stroke path {
   fill: $yellow;
   stroke: $yellow;
+}
+
+.blue-background-decor {
+  background-image: url("/images/background/blue.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.green-background-decor {
+  background-image: url("/images/background/green.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.purple-background-decor {
+  background-image: url("/images/background/purple.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.yellow-background-decor {
+  background-image: url("/images/background/yellow.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
 
 .blue-links {
@@ -577,6 +601,7 @@ body {
   .mobile-yellow-background { background: $yellow; }
   .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
+  .blue-background-decor, .green-background-decor, .orange-background-decor, .purple-background-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
   .calendar { margin: 1rem; }

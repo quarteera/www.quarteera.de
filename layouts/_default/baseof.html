@@ -6,7 +6,7 @@
   <body class="preload">
     <div class="body">
       {{- partial "header.html" . -}}
-      <div id="content" class="content">
+      <div id="content" class="content {{ .Params.color }}-background-decor">
         {{- block "main" . }}{{- end }}
       </div>
       {{- partial "footer.html" . -}}
