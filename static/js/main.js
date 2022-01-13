@@ -3,12 +3,13 @@ const navSlide = () => {
   const nav = document.querySelector('.nav-links');
   const openIcon = document.querySelector('.open-icon');
   const closeIcon = document.querySelector('.close-icon');
+  const body = document.querySelector('.body');
 
   burger.addEventListener('click', () => {
     nav.classList.toggle('nav-active');
     openIcon.classList.toggle('disable');
     closeIcon.classList.toggle('disable');
-    document.body.classList.toggle('disable-overflow');
+    body.classList.toggle('disable-overflow');
   })
 }
 const selectLanguage = () => {
