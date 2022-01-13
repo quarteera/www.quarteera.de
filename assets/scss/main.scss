@@ -10,6 +10,7 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
+  position: absolute;
 }
 
 html {
@@ -35,7 +36,10 @@ a, .desktop-language { cursor: pointer; }
 img { border-radius: .25rem; }
 
 .disable { display: none; }
-.disable-overflow { overflow: hidden; }
+.disable-overflow {
+  position: fixed;
+  overflow: hidden;
+}
 .rotate { transform: rotate(180deg); }
 
 .blue-border { border-bottom: 2px solid $blue; }
@@ -587,7 +591,7 @@ body {
   .form-section { width: 100%; }
   .nav-links {
     @include column;
-    position: absolute;
+    position: fixed;
     right: 0px;
     height: 88vh;
     top: 12vh;
