@@ -1,7 +1,7 @@
 ---
-title: "Form"
+title: "Mitglied Werden"
 date: 2022-01-07T11:53:49+01:00
-draft: true
+draft: false
 color: purple
 layout: form
 title: DE title
