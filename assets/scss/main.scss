@@ -11,8 +11,6 @@ body { overflow-x: hidden; }
 
 html {
   font-size: 24px;
-  overflow: break-word;
-  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5 {
@@ -347,6 +345,15 @@ nav {
   overflow: hidden;
 }
 
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 2;
+
+  a { @include reset-a-style; }
+}
+
 body {
   @include column;
   color: $primary-font-color;
@@ -438,15 +445,6 @@ body {
         height: 2.75rem;
         display: inline-block;
       }
-    }
-
-    .nav-links {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      z-index: 2;
-
-      a { @include reset-a-style; }
     }
 
     .burger {
@@ -578,6 +576,39 @@ body {
     width: -webkit-fill-available;
   }
   .form-section { width: 100%; }
+  .nav-links {
+    @include column;
+    position: absolute;
+    right: 0px;
+    height: 88vh;
+    top: 12vh;
+    background-color: white;
+    width: 100%;
+    transform: translateX(100%);
+    transition: transform 0.5s ease-in;
+    overflow: hidden;
+
+    .social {
+      padding: .5rem;
+      margin: 0;
+      width: 100%;
+      justify-content: center;
+      border-top: 1px solid $grey;
+    }
+
+    .main-menu {
+      @include column;
+      width: 100%;
+
+      .menu-item, .language-selector {
+        padding: 1.25rem 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+
   html {
     font-size: 16px;
 
@@ -589,40 +620,6 @@ body {
       .burger { display: flex; }
       .desktop-language, .language-popup { display: none; }
       .hamburger-languages { display: flex; }
-
-      .nav-links {
-        @include column;
-        position: absolute;
-        right: 0px;
-        height: 88vh;
-        top: 12vh;
-        background-color: white;
-        width: 100%;
-        transform: translateX(100%);
-        transition: transform 0.5s ease-in;
-        overflow: hidden;
-
-        .social {
-          padding: .5rem;
-          margin: 0;
-          width: 100%;
-          justify-content: center;
-          border-top: 1px solid $grey;
-        }
-
-        .main-menu {
-          @include column;
-          width: 100%;
-
-          .menu-item, .language-selector {
-            padding: 1.25rem 0;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-          }
-        }
-      }
-
       .nav-active { transform: translateX(0); }
     }
     .language-selector {
