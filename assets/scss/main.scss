@@ -372,12 +372,6 @@ body {
 }
 
 @media screen and (max-width:768px) {
-  .mobile-blue-background { background: $blue; }
-  .mobile-green-background { background: $green; }
-  .mobile-orange-background { background: $orange; }
-  .mobile-red-background { background: $red; }
-  .mobile-purple-background { background: $purple; }
-  .mobile-yellow-background { background: $yellow; }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
@@ -388,6 +382,7 @@ body {
     padding: .5rem;
     width: -webkit-fill-available;
   }
+  .footer { padding: 1rem; }
   .nav-links {
     @include column;
     position: fixed;
