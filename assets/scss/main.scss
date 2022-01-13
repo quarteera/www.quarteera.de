@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5 {
   font-family: $title-font;
   color: $primary-font-color;
   margin-bottom: 1.5rem;
+  word-break: break-all;
 }
 
 h1 { font-size: 2.75rem; }
@@ -189,11 +190,13 @@ img { border-radius: .25rem; }
   @include button;
   background-color: $blue;
 }
+.blue-button:hover { background-color: $dark-blue; }
 .purple-button {
   @include button;
   background-color: $purple;
   margin-right: 1rem;
 }
+.purple-button:hover { background-color: $dark-purple; }
 
 .single-page {
   @include max-width;
@@ -541,15 +544,15 @@ body {
     }
   }
 
-  button {
-    /* remove default behavior */
-    appearance:none;
-    -webkit-appearance:none;
+  a {
     @include button;
+    color: white;
     font-family:inherit;
     font-size: inherit;
     margin: 0 0 1rem 0;
   }
+
+  a:hover { color: white; }
 }
 
 .calendar {
