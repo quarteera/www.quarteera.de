@@ -12,6 +12,7 @@ body { overflow-x: hidden; }
 html {
   font-size: 24px;
   overflow: break-word;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5 {
@@ -553,6 +554,11 @@ body {
   }
 }
 
+.calendar {
+  height: 50vh;
+  border: 1px dotted $grey;
+}
+
 @media screen and (max-width:768px) {
   .mobile-blue-background { background: $blue; }
   .mobile-green-background { background: $green; }
@@ -564,10 +570,12 @@ body {
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
+  .calendar { margin: 1rem; }
   .regular-section-help {
+    flex-direction: column;
+    margin: 0 1rem 1rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
-    margin: 0 1rem 1rem 1rem;
   }
   .form-section { width: 100%; }
   html {

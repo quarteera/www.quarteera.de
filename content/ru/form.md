@@ -1,5 +1,5 @@
 ---
-title: "Форма"
+title: "Присоединиться"
 date: 2022-01-07T11:53:49+01:00
 draft: tRUe
 color: purple

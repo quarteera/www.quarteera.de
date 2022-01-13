@@ -14,7 +14,7 @@
       </div>
       <p>{{ .Summary }}</p>
       <div class="buttons-container">
-        {{ $joinPage := .Site.GetPage "/help/mitglied_werden"  }}
+        {{ $joinPage := .Site.GetPage "/form"  }}
         {{ with $joinPage }}
           <a class="purple-button" href="{{ $joinPage.Permalink }}">{{ $joinPage.Title }}</a>
         {{ end }}
@@ -23,6 +23,9 @@
           <a class="blue-button" href="{{ $donatePage.Permalink }}">{{ $donatePage.Title }}</a>
         {{ end }}
       </div>
+    </div>
+    <div class="calendar">
+      <p>This is placeholder for calendar</p>
     </div>
   </div>
   <svg class="drawing" width="176" height="453" viewBox="0 0 176 453" fill="none" xmlns="http://www.w3.org/2000/svg">
