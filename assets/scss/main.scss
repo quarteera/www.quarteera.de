@@ -247,8 +247,8 @@ img { border-radius: .25rem; }
 }
 
 .form-page {
-  max-width: 1024px;
-  padding: 4rem 2rem;
+  @include max-width;
+  padding: 4rem 0;
 }
 
 .main-image {
@@ -601,7 +601,7 @@ body {
   .mobile-yellow-background { background: $yellow; }
   .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
-  .blue-background-decor, .green-background-decor, .orange-background-decor, .purple-background-decor { display: none; }
+  .blue-background-decor, .green-background-decor, .orange-background-decor, .purple-background-decor { background-image:none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
   .calendar { margin: 1rem; }
@@ -787,6 +787,7 @@ body {
   .logo { margin-right: 1rem; }
   .partner-logos { margin: 1rem; }
   .page-heading { margin: 1rem 0 .5rem 0; }
+  .form-page { margin: 0 1rem; }
 }
 // disable animation on page load:
 // https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only
