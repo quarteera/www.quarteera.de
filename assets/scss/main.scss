@@ -430,7 +430,6 @@ body {
 
   .header {
     @include row;
-    @include max-width;
     height: auto;
 
     ul {
