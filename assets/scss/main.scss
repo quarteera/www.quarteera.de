@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'colors';
+@import 'form';
 @import 'mixins';
 
 * {
@@ -86,11 +87,6 @@ img { border-radius: .25rem; }
     height: 8rem;
     overflow: hidden;
   }
-}
-
-.form-page {
-  @include max-width;
-  padding: 4rem 0;
 }
 
 .main-image {
@@ -370,65 +366,6 @@ body {
   }
 }
 
-.form-section {
-  min-width: 70%;
-  margin-bottom: 1.75rem;
-}
-
-.form {
-  margin-top: 2rem;
-
-  label {
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: .75rem;
-  }
-
-  option { @include inherit-font; }
-
-  .selection1 {
-    @include column;
-    align-items: baseline;
-  }
-
-  .input { @include column; }
-
-  input[type=text], select {
-    @include inherit-font;
-    padding: .5rem .75rem;
-    display: inline-block;
-    box-sizing: border-box;
-  }
-
-  select { min-width: 50%; }
-
-  input[type=checkbox] {
-    @include inherit-font;
-    height: 1.5rem;
-    width: 1.5rem;
-  }
-
-  .checkbox {
-    @include column;
-
-    .checkbox-container {
-      @include row;
-      justify-content: space-between;
-      width: 70%;
-    }
-  }
-
-  a {
-    @include button;
-    color: white;
-    font-family:inherit;
-    font-size: inherit;
-    margin: 0 0 1rem 0;
-  }
-
-  a:hover { color: white; }
-}
-
 .calendar {
   height: 50vh;
   border: 1px dotted $grey;
@@ -451,7 +388,6 @@ body {
     padding: .5rem;
     width: -webkit-fill-available;
   }
-  .form-section { width: 100%; }
   .nav-links {
     @include column;
     position: fixed;
@@ -627,7 +563,6 @@ body {
   .logo { margin-right: 1rem; }
   .partner-logos { margin: 1rem; }
   .page-heading { margin: 1rem 0 .5rem 0; }
-  .form-page { margin: 0 1rem; }
 }
 // disable animation on page load:
 // https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only
