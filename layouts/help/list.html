@@ -43,7 +43,7 @@
       <h3 class="desktop-only">{{ .Title }}</h3>
       {{ if eq .Params.list true }}
         {{ range .Pages.ByWeight }}
-          <a href="{{ .Permalink }}" class="regular-section-help {{ .Params.color }}-dashed-border">
+          <a href="{{ .Permalink }}" class="regular-list-item {{ .Params.color }}-dashed-border">
             {{ if and ( isset .Params "icon" ) ( ne ( trim .Params.icon " " ) "" )  }}
               {{ $icon := .Resources.GetMatch (.Params.icon) }}
               {{ with $icon }}

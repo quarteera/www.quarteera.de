@@ -154,7 +154,7 @@ img { border-radius: .25rem; }
   }
 }
 
-.regular-section-help {
+.regular-section-help, .regular-list-item {
   @include row;
   @include reset-a-style;
   background-color: white;
@@ -164,7 +164,7 @@ img { border-radius: .25rem; }
   width: 100%;
   align-items: center;
 
-  .text { margin-bottom: 0; }
+  .text { margin: 0 0 0 1rem; }
 }
 
 .help-list-icon {
@@ -376,12 +376,13 @@ body {
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
   .calendar { margin: 1rem; }
-  .regular-section-help {
+  .regular-section-help, .regular-list-item {
     margin: 0 1rem 1rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
   }
-  .regular-section-help:first-child {
+  .regular-section-help { flex-direction: column; }
+  .regular-list-item:first-child {
     margin-left: .25rem;
   }
   .footer, .single-page { padding: 1rem; }
