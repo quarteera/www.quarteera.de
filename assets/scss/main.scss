@@ -382,7 +382,7 @@ body {
     padding: .5rem;
     width: -webkit-fill-available;
   }
-  .footer { padding: 1rem; }
+  .footer, .single-page { padding: 1rem; }
   .nav-links {
     @include column;
     position: fixed;
