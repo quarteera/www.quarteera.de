@@ -247,6 +247,18 @@ nav {
   }
 }
 
+.social {
+  display: flex;
+  align-items: center;
+  margin-left: 2rem;
+
+  .inline-svg {
+    width: 1rem;
+    margin-right: 1rem;
+    color: $primary-font-color;
+  }
+}
+
 body {
   @include column;
   color: $primary-font-color;
@@ -280,18 +292,6 @@ body {
     h1:after {
       @include dot;
       margin-left: .75rem;
-    }
-  }
-
-  .social {
-    display: flex;
-    align-items: center;
-    margin-left: 2rem;
-
-    .inline-svg {
-      width: 1rem;
-      margin-right: 1rem;
-      color: $primary-font-color;
     }
   }
 
@@ -386,6 +386,12 @@ body {
     margin-left: .25rem;
   }
   .footer, .single-page { padding: 1rem; }
+  .social {
+    .inline-svg {
+      width: 2rem;
+      margin-right: 1.5rem;
+    }
+  }
   .nav-links {
     @include column;
     position: fixed;
