@@ -366,15 +366,80 @@ body {
 }
 
 .calendar {
-  height: 50vh;
-  border: 1px dotted $grey;
+
+  .item{
+    @include row;
+    margin-bottom: 1rem;
+  }
+
+  .date {
+    @include column;
+    align-items: center;
+    margin: 1.5rem;
+    min-width: 6.5rem;
+    justify-content: center;
+  }
+
+  .calendar-date {
+    font-size: 3rem;
+  }
+
+  .calendar-month {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+
+  .details {
+    @include column;
+    flex: 1;
+    justify-content: space-between;
+  }
+  .time-location {
+    @include row;
+    padding: .75rem 1.5rem;
+    justify-content: space-between;
+    width: 100%;
+
+    p { margin: 0; }
+  }
+
+  h3 {
+    margin: 0;
+    padding: 1.5rem;
+  }
+
+  h4 {
+    text-align: center;
+  }
 }
 
 @media screen and (max-width:768px) {
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
-  .calendar { margin: 1rem; }
+  .calendar {
+    margin-top: 6rem;
+
+    .item {
+      flex-direction: column;
+    }
+
+    h3 {
+      padding: .75rem 0;
+      text-align: center;
+    }
+
+    .time-location {
+      flex-direction: column-reverse;
+      padding: 0rem;
+
+      p {
+        width: 100%;
+        text-align: center;
+        padding: .75rem 0;
+      }
+    }
+  }
   .regular-section-help, .regular-list-item {
     margin: 0 1rem 1rem 1rem;
     padding: .5rem;
@@ -481,7 +546,7 @@ body {
 
   .single-page-summary {
     flex-direction: column;
-    
+
     h1 { text-align: center; }
     .column {
       @include column;
@@ -556,7 +621,7 @@ body {
 
   .drawing {
     position: absolute;
-    top: 10rem;
+    top: 4.5rem;
     left: 50%;
     z-index: -1;
     margin-left: 6rem;

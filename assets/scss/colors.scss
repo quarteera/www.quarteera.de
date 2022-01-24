@@ -15,6 +15,31 @@
 .purple-dashed-border{ border: 1px dashed $purple; }
 .yellow-dashed-border { border: 1px dashed $yellow; }
 
+.blue-dashed-bottm-border { border-bottom: none;  }
+.green-dashed-bottom-border { border-bottom: none; }
+.orange-dashed-bottom-border { border-bottom: none; }
+.red-dashed-bottom-border { border-bottom: none; }
+.purple-dashed-bottom-border{ border-bottom: none; }
+.yellow-dashed-bottom-border { border-bottom: none; }
+
+.blue-dashed-left-border { border-left: 1px dashed $blue; }
+.blue-dashed-top-border { border-top: 1px dashed $blue; }
+
+.green-dashed-left-border { border-left: 1px dashed $green; }
+.green-dashed-top-border { border-top: 1px dashed $green; }
+
+.orange-dashed-left-border { border-left: 1px dashed $orange; }
+.orange-dashed-top-border { border-top: 1px dashed $orange; }
+
+.red-dashed-left-border { border-left: 1px dashed $red; }
+.red-dashed-top-border { border-top: 1px dashed $red; }
+
+.purple-dashed-left-border { border-left: 1px dashed $purple; }
+.purple-dashed-top-border { border-top: 1px dashed $purple; }
+
+.yellow-dashed-left-border { border-left: 1px dashed $yellow; }
+.yellow-dashed-top-border { border-top: 1px dashed $yellow; }
+
 .blue-solid-border { border: 1px solid $blue; }
 .green-solid-border { border: 1px solid $green; }
 .orange-solid-border { border: 1px solid $orange; }
@@ -65,6 +90,13 @@
 .purple-dashed { stroke: $purple; }
 .red-dashed { stroke: $red; }
 .yellow-dashed { stroke: $yellow; }
+
+.blue-text { color: $blue; }
+.green-text { color: $green; }
+.orange-text { color: $orange; }
+.purple-text { color: $purple; }
+.red-text { color: $red; }
+.yellow-text{ color: $yellow; }
 
 .blue, .green, .orange, .red, .yellow { filter: grayscale(1); }
 .purple { filter: hue-rotate(50deg); }
@@ -169,4 +201,40 @@
   .mobile-yellow-background { background: $yellow; }
   .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
   .blue-background-decor, .green-background-decor, .yellow-background-decor, .purple-background-decor { background-image:none; }
+
+  .blue-dashed-bottom-border { border-bottom: 1px dashed $blue; }
+  .blue-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $blue;
+  }
+
+  .green-dashed-bottom-border { border-bottom: 1px dashed $green; }
+  .green-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $green;
+  }
+
+  .orange-dashed-bottom-border { border-bottom: 1px dashed $orange; }
+  .orange-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $orange;
+  }
+
+  .red-dashed-bottom-border { border-bottom: 1px dashed $red; }
+  .red-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $red;
+  }
+
+  .purple-dashed-bottom-border { border-bottom: 1px dashed $purple; }
+  .purple-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $purple;
+  }
+
+  .yellow-dashed-bottom-border { border-bottom: 1px dashed $yellow; }
+  .yellow-dashed-left-border {
+    border-left: none;
+    border-top: 1px dashed $yellow;
+  }
 }
