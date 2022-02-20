@@ -1,18 +1,42 @@
 ---
-title: "Второй проект" # Title of your project
+title: Развитие студенческого квир-движения в России.
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
-image: project.png
-summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
-alt: "some alt text"
+image: Banners_rectangle_option1.png
+summary: Проект является продолжением проекта "Просвещение на тему ЛГБТК+ в университетах России", выполненного Quarteera совместно с екатеринбургским Ресурсным центром для ЛГБТ в 2020 году. 
+alt: Развитие студенческого квир-движения в России
 draft: false
 accent: false
 color: green
 menuIdentifier: projects
 ---
 
-RU: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.
+RU: 
+<b>Название проекта:</b> Развитие студенческого квир-движения в России.<br>
+<b>Сроки:</b> 01.08.2021 - 31.12.2021.<br>
+<b>Участники-партнёры:</b> несколько ЛГБТК+ объединений из разных регионов России. <br>
+<b>Финансирование:</b> МИД Германии в рамках программы Civil Society Cooperation по поддержке и развитию гражданского общества в странах “Восточного партнёрства” и России. <br>
+Проект является продолжением проекта "Просвещение на тему ЛГБТК+ в университетах России", выполненного Quarteera совместно с екатеринбургским Ресурсным центром для ЛГБТ в 2020 году. 
+<br></br>
+<b>Цели проекта:</b> 
+обмен опытом в вопросах создания и функционирования квир-групп в университетах,
+создание возможностей для поддержки квир-групп в университетах России, в том числе с привлечением других партнеров и фондов ЕС,
+усиление позиций локальных квир-групп,
+просветительская работа на местах в российских ВУЗах,
+налаживание диалога между квир-студентами.
+<br></br>
+<b>Результаты проекта:</b> 
+Квартира провела 3 гибридных мероприятий, направленных на обучение российских партнеров. Основные темы: управление проектами в рамках международного сотрудничества, возможности получения финансирования в европейских фондах, история создания и опыт функционирования квир-представительств в Германии.  
+Проведено большое количество совместных онлайн-встреч, по обмену идеями, информацией и опытом, а также совместному решению проблем. 
+Партнеры на местах провели 11 образовательных мероприятий и 1 исследование. 
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Партнеры прошли обучение по организации эффективных и безопасных мероприятий в Zoom. Квартира обеспечила партнерам на весь 2022 г. доступ к специальному партнерскому аккаунту в Zoom с расширенным функционалом. 
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Между партнерами налажены крепкие рабочие и личные связи, которые позволят совместно продолжать деятельность по развитию студенческого квир-движения в России.
+Аудитория, с которой работают наши партнеры, существенно расширилась.
+Созданы предпосылки для дальнейших проектов в рамках этой и других целей.
+
+<b>Публикации по проекту:</b>
+<a href="https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html" target="_blank">Репортаж “Миру - мир, России - квир” на радио COSMO (14.12.2021)</a>
+<a href="http://www.quarteera.de/projekte/uni-queer-2021" target="_blank">Краткая история квир-рефератов (25.12.2021)</a>
+Пресс-релиз (в подготовке) 
