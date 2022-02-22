@@ -1,5 +1,5 @@
 ---
-title: Cтуденческое квир-движение.
+title: Квир-группы при университетах
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
 image: uniquer2021_352_352.png
