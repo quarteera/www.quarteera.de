@@ -1,9 +1,9 @@
 ---
-title: "Третий проект" # Title of your project
+title: "Квартира помогает Украине" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
 image: project.png
-summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
+summary: "Мы были глубоко шокированы военным вторжением в Украину и не могли остаться в стороне. Мы помогаем ЛГБТК+ людям из Украины, бегущим в Германию. За несколько недель мы построили эффективную систему, основанную исключительно на волонтерских ресурсах."
 alt: "some image"
 draft: false
 accent: false
@@ -11,8 +11,14 @@ color: green
 menuIdentifier: projects
 ---
 
-RU: Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким.
+Что Квартира предлагает (описание процесса): 
+- приехать в Берлин (самостоятельно, в крайних/особых случаях - организовать трансфер)
+- помочь с перемещением по городу
+- предоставить временное проживание - от 2-3 дней до недели
+- помочь с регистрацией и получением соцпомощи и страховки
+- проконсультировать по общим и около юридическим вопросам
+- оказать психологическую поддержку (психо-социальное консультирование)
+- оказать неотложную материальную поддержку (питание, связь, одежда, гигиена, лекарства и пр.)
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+В настоящий момент у нас под опекой около 200 человек, включая 35 детей, а также 20 животных. 
