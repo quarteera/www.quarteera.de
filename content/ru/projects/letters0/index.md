@@ -2,7 +2,7 @@
 title: "Подкаст “Квир-беседы”" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 0 # Order in which to show this project on the home page
-image: project.png
+image: Queer-Gespräche-logo.png
 summary: "Проект стартовал в 2022 году и продлится весь год. Выполняется при поддержке немецкого фонда Магнуса Хиршфельда (Bundesstiftung Magnus Hirschfeld)."
 alt: "some alt text"
 draft: false
