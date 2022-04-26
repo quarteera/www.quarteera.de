@@ -5,7 +5,7 @@ draft: false
 image:
 ---
 
-Christopher Schreiber\
+Светлана Шайтанова\
 Geschäftsführer Öffentlichkeitsarbeit
 
 Lesben- und Schwulenverband Berlin-Brandenburg e.V.\
@@ -13,4 +13,4 @@ Kleiststraße 35\
 10787 Berlin
 
 Telefon: 030 – 22 50 22 15\
-E-Mail: christopher.schreiber@lsvd.de
+E-Mail: svetlana.shaytanova@quarteera.de
