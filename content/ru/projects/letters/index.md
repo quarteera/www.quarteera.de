@@ -1,10 +1,10 @@
 ---
-title: "Первый проект" # Title of your project
+title: "Разнообразие heißt Vielfalt" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 100 # Order in which to show this project on the home page
 image: project.png
 alt: "some alt text"
-summary: "„Разнообразие heißt Vielfalt“ это типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию."
+summary: "Типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию."
 accent: true
 draft: false
 color: green
