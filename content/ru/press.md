@@ -15,6 +15,7 @@ Kleiststraße 35\
 Telefon: 030 – 22 50 22 15\
 E-Mail: svetlana.shaytanova@quarteera.de
 
+
 ## Квартира в Прессе
 01.03.2022  [Interview mit Quarteera - Verein für russischsprachige LGBTQIA+](https://rdl.de/beitrag/unterst-tzung-f-r-queere-menschen-aus-der-ukraine)
 
