@@ -33,6 +33,6 @@ E-Mail: svetlana.shaytanova@quarteera.de
 
 22.02.2022	[Ukrainer in Berlin sorgen sich um](https://www.morgenpost.de/berlin/article234641581/Ukrainer-in-Berlin-sorgen-sich-um-Verwandte-in-der-Heimat.html) 
 
-25.02.2022	[Tagesspiegel PlusDas sagen Russen in Berlin: „Das ist ein einseitig vom Zaun gebrochener Krieg“](https://plus.tagesspiegel.de/berlin/das-sagen-russen-in-berlin-das-ist-ein-einseitig-vom-zaun-gebrochener-krieg-404707.html)
+25.02.2022	Der Tagesspiegel [Das sagen Russen in Berlin: „Das ist ein einseitig vom Zaun gebrochener Krieg“](https://plus.tagesspiegel.de/berlin/das-sagen-russen-in-berlin-das-ist-ein-einseitig-vom-zaun-gebrochener-krieg-404707.html)
 
 28.02.2022	[Hilfe für queere Ukrainer](https://www.faz.net/aktuell/gesellschaft/queere-ukrainer-haben-angst-vor-verfolgung-quarteera-will-helfen-17841049.html)
