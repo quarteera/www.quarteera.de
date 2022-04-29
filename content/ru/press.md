@@ -28,6 +28,8 @@ E-Mail: svetlana.shaytanova@quarteera.de
 
 17.03.2022	[Newsletter Tagesspiegel Queerspiegel](https://nl.tagesspiegel.de/form.action?agnCTOKEN=9mxNq9NCGTnmiE3GNqudPRTWQdUGhewx&agnFN=fullview&agnUID=D.B.DJd9.CkwI.CCJrY.A.09G16_qw4lpNG4dTzftTwpwoKbACSGepEGaCRkMuqiiS_1QWHknozDbXNuJDiB_jPefIWiKfjUTLKZYmI0eg0Q&utm_source=queerspiegel)
 
+16.03.2022	[Gespräch mit einer queeren Geflüchteten aus der Ukraine „Der Krieg hat unsere Pläne zerstört“](https://m.tagesspiegel.de/gesellschaft/queerspiegel/gespraech-mit-einer-queeren-gefluechteten-aus-der-ukraine-der-krieg-hat-unsere-plaene-zerstoert/28169594.html)
+
 14.03.2022	[В Берлине активно помогают украинским ЛГБТК+ беженцам](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/quarteera-100.html)
 
 10.03.2022	[Wie geht es LGBT in der Ukraine?](https://youtu.be/aiHyWG5SyCo) - taz Queer Talk
