@@ -14,3 +14,24 @@ Kleiststraße 35\
 
 Telefon: 030 – 22 50 22 15\
 E-Mail: svetlana.shaytanova@quarteera.de
+
+## Квартира в Прессе
+01.03.2022  [Interview mit Quarteera - Verein für russischsprachige LGBTQIA+](https://rdl.de/beitrag/unterst-tzung-f-r-queere-menschen-aus-der-ukraine)
+
+03.03.2022	[Newsletter Tagesspiegel Queerspiegel](https://nl.tagesspiegel.de/form.action?agnCTOKEN=9mxNq9NCGTnmiE3GNqudPRTWQdUGhewx&agnFN=fullview&agnUID=D.B.DIr-.CkwI.CB3xj.A.IQS48ZSC_qG2A02E6BI8mQBvSdpcObGeRb_KHNpgd4a5Vuk2Qkkb2j1ef_sWuJPs1JzMKytyN822ijlO3nE1Qw&utm_source=queerspiegel)
+
+06.03.2022	[Große Hilfswelle für queere Ukrainer*innen](https://www.queer.de/detail.php?article_id=41363)
+
+08.03.2022	[“I Have To Leave. Right Now”: 5 Women On Fleeing The War In Ukraine](https://www.refinery29.com/en-gb/2022/03/10891565/young-women-fleeing-ukraine)
+
+10.03.2022	[Wie geht es LGBT in der Ukraine?](https://youtu.be/aiHyWG5SyCo) - taz Queer Talk
+
+14.03.2022	[В Берлине активно помогают украинским ЛГБТК+ беженцам](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/quarteera-100.html)
+
+17.03.2022	[Newsletter Tagesspiegel Queerspiegel](https://nl.tagesspiegel.de/form.action?agnCTOKEN=9mxNq9NCGTnmiE3GNqudPRTWQdUGhewx&agnFN=fullview&agnUID=D.B.DJd9.CkwI.CCJrY.A.09G16_qw4lpNG4dTzftTwpwoKbACSGepEGaCRkMuqiiS_1QWHknozDbXNuJDiB_jPefIWiKfjUTLKZYmI0eg0Q&utm_source=queerspiegel)
+
+22.02.2022	[Ukrainer in Berlin sorgen sich um](https://www.morgenpost.de/berlin/article234641581/Ukrainer-in-Berlin-sorgen-sich-um-Verwandte-in-der-Heimat.html) 
+
+25.02.2022	[Tagesspiegel PlusDas sagen Russen in Berlin: „Das ist ein einseitig vom Zaun gebrochener Krieg“](https://plus.tagesspiegel.de/berlin/das-sagen-russen-in-berlin-das-ist-ein-einseitig-vom-zaun-gebrochener-krieg-404707.html)
+
+28.02.2022	[Hilfe für queere Ukrainer](https://www.faz.net/aktuell/gesellschaft/queere-ukrainer-haben-angst-vor-verfolgung-quarteera-will-helfen-17841049.html)
