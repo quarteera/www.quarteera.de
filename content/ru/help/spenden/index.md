@@ -34,7 +34,7 @@ bei der Deutschen Kreditbank AG in Berlin
 А еще Вы можете за пожертвования заказать Квартирную брошюру "Мифы и факты о геях, лесбиянках и бисексуалах" (104 страницы на русском языке), наши открытки и наклейки или наши браслеты ВЗАИМОПОДДЕРЖКА.
 
 {{< figure src="000qfacts.jpeg" class="article-image" >}}
-{{< figure src="000otkr.jpeg" class="article-image" >}}
+{{< figure src="000otkr.png" class="article-image" >}}
 {{< figure src="2s.jpeg" class="article-image" >}}
 {{< figure src="1s.jpeg" class="article-image" >}}
 
