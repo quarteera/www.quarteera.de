@@ -6,7 +6,7 @@ image:
 ---
 
 Светлана Шайтанова\
-Geschäftsführer Öffentlichkeitsarbeit
+Pressesprecherin
 
 Telefon: 05592 9277 – 37\
 E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
