@@ -8,12 +8,8 @@ image:
 Светлана Шайтанова\
 Geschäftsführer Öffentlichkeitsarbeit
 
-Lesben- und Schwulenverband Berlin-Brandenburg e.V.\
-Kleiststraße 35\
-10787 Berlin
-
-Telefon: 030 – 22 50 22 15\
-E-Mail: svetlana.shaytanova@quarteera.de
+Telefon: 05592 9277 – 37\
+E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
 
 
 ## Квартира в Прессе
