@@ -24,5 +24,5 @@ menuIdentifier: projects
 
 ## В коллаборации с
 
-{{< figure src="logo.png" class="article-logo" >}}
+{{< figure src="150410_Logo_AWS_4c_300dpi.png" class="article-logo" >}}
 {{< figure src="BPP_gefoerdert.png" class="article-logo" >}}
