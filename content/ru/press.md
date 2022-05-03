@@ -6,14 +6,14 @@ image:
 ---
 
 Светлана Шайтанова\
-Pressesprecherin
+Пресс-спикерка
 
 Telefon: 05592 9277 – 37\
 E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
 
 
 ## Квартира в Прессе
-#### 2022 год
+### 2022 год
 06.04.2022	[„Eine große Tragödie": Queere Geflüchtete aus der Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
 
 01.04.2022 ABC News [Trans Ukrainians fleeing hate, war](https://www.youtube.com/watch?v=VxSVu5MFpO4)
@@ -44,3 +44,4 @@ E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera
 
 22.02.2022	[Ukrainer in Berlin sorgen sich um](https://www.morgenpost.de/berlin/article234641581/Ukrainer-in-Berlin-sorgen-sich-um-Verwandte-in-der-Heimat.html) 
 
+### 2021 год
