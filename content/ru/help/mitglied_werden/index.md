@@ -20,12 +20,14 @@ Auszubildende, DoktorandInnen, Arbeitslose, Hartz IV-EmpfängerInnen, RentnerInn
 Hier kannst Du Dich mit unserer Satzung vertraut machen.
 
 Um Mitglied zu werden, [fülle bitte den Mitgliedschaftsantrag aus](https://github.com/quarteera/www.quarteera.de/blob/natasha-content/content/ru/help/mitglied_werden/Mitgliedschaftsantrag.pdf). Ausgefüllter Antrag kannst Du beim Vorstand persönlich abgeben (z.B. beim Dienstagstreffen) oder per Post schicken. 
+
 Unsere Anschrift lautet:\
 Quarteera e.V.\
 Postfach 58 05 36\
 10414 Berlin
 
-Hast Du vor, den Mitgliedschaftsbeitrag per Überweisung entrichten, überweise bitte Dein erster Jahresbeitrag umgehend auf folgendes Konto
+Hast Du vor, den Mitgliedschaftsbeitrag per Überweisung entrichten, überweise bitte Dein erster Jahresbeitrag umgehend auf folgendes Konto.
+
 Konto-Nr.: 102 001 31 89\
 BLZ:         120 300 00\
 IBAN:        DE08 1203 0000 1020 0131 89\
