@@ -27,3 +27,5 @@ menuIdentifier: projects
 - стать нашим [Волонтером](http://quarteera.de/v),
 - стать нашим [Хостом](https://forms.monday.com/forms/3a804d649a50f8f3d31cb63c533f8d16?r=use1) (тем, кто предлагает нашим подопечным временное или постоянное жилье),
 - стать нашим [Донором](/help/spenden) (пожертвовать деньги). 
+
+{{< figure src="help_quarteera.de_560.png" class="article-image" >}} 
