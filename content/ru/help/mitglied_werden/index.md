@@ -19,7 +19,7 @@ Auszubildende, DoktorandInnen, Arbeitslose, Hartz IV-EmpfängerInnen, RentnerInn
 
 Hier kannst Du Dich mit unserer Satzung vertraut machen.
 
-Um Mitglied zu werden, [fülle bitte den Mitgliedschaftsantrag aus](https://github.com/quarteera/www.quarteera.de/blob/natasha-content/content/ru/help/mitglied_werden/Mitgliedschaftsantrag.pdf). Ausgefüllter Antrag kannst Du beim Vorstand persönlich abgeben (z.B. beim Dienstagstreffen) oder per Post schicken. 
+Um Mitglied zu werden, [fülle bitte den Mitgliedschaftsantrag aus](/ru/help/mitglied_werden/Mitgliedschaftsantrag.pdf). Ausgefüllter Antrag kannst Du beim Vorstand persönlich abgeben (z.B. beim Dienstagstreffen) oder per Post schicken. 
 
 Unsere Anschrift lautet:\
 Quarteera e.V.\
