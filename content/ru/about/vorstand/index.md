@@ -1,7 +1,7 @@
 ---
 title: "Правление" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 200 # Order in which to show this project on the home page
 image: project.png
 alt: "some alt text"
 summary: "Правление Квартиры осуществляет стратегическое управление организацией, определяет приоритеты и ставит тактические цели, отвечает за кадровые вопросы."
