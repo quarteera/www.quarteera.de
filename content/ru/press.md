@@ -10,3 +10,5 @@ image:
 
 Telefon: 05592 9277 – 37\
 E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
+
+[Архив упоминаний Квартиры в прессе](https://deploy-preview-6--quarteera-site-dev.netlify.app/about/press/).

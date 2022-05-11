@@ -11,6 +11,10 @@ menuIdentifier: about
 ---
 
 ## Квартира в Прессе
+
+### Если вы представитель СМИ и заинтересованы в сотрудничестве с Квартирой: 
+[Свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
+
 ### 2022 год
 06.04.2022	[„Eine große Tragödie": Queere Geflüchtete aus der Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
 
