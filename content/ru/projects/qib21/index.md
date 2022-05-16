@@ -1,7 +1,7 @@
 ---
 title: Квир-группы при университетах
 date: 2022-01-06T16:38:20+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 30 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Проект является продолжением проекта "Просвещение на тему ЛГБТК+ в университетах России". 
 alt: Развитие студенческого квир-движения в России
@@ -44,10 +44,9 @@ menuIdentifier: projects
 
 ### Публикации по проекту: ###
 * [Репортаж “Миру - мир, России - квир” на радио COSMO (14.12.2021)](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
-* [Краткая история квир-рефератов (25.12.2021)](http://www.quarteera.de/projekte/uni-queer-2021)
+* [Краткая история квир-рефератов (25.12.2021)](https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/qib21_geschichte/)
 * Пресс-релиз (в подготовке) 
 
 ## При поддержке:
-
 [{{< figure src="auswärtiges_amt.png" class="article-logo" >}}](https://www.auswaertiges-amt.de/de/)
 [{{< figure src="civil_society_cooperation.png" class="article-logo" >}}](https://civilsocietycooperation.net/)

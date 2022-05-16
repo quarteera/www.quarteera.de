@@ -55,10 +55,10 @@ Cтраница создана при поддержке Quarteera. [https://www
 
 СОЗДАТЬ СТРАНИЦУ Читать "Вопросы и ответы" 
 
-#### Брошюра министерства миграции ФРГ о статусе беженца 
-[The stages of the German asylum procedure. An overview of the individual procedural stepsand the legal basis. PDF на английском](https://www.bamf.de/SharedDocs/Anlagen/EN/AsylFluechtlingsschutz/Asylverfahren/das-deutsche-asylverfahren.pdf)
+#### Брошюра министерства миграции ФРГ о статусе беженца ####
+[The stages of the German asylum procedure. An overview of the individual procedural stepsand the legal basis](https://www.bamf.de/SharedDocs/Anlagen/EN/AsylFluechtlingsschutz/Asylverfahren/das-deutsche-asylverfahren.pdf).PDF на английском
 
-#### [Брошюра "Значение интервью в процессе рассмотрения ходатайства опредоставлении убежища. Полезная информация для ищущих убежища в Германии". PDF на русском](https://www.asyl.net/fileadmin/user_upload/publikationen/infoblatt_anhoerung/Infoblatt_Asyl_2016_russ.pdf)
+#### [Брошюра "Значение интервью в процессе рассмотрения ходатайства опредоставлении убежища. Полезная информация для ищущих убежища в Германии"](https://www.asyl.net/fileadmin/user_upload/publikationen/infoblatt_anhoerung/Infoblatt_Asyl_2016_russ.pdf). PDF на русском
 
 ПЕРЕНЕСТИ В НЕМЕЦКУЮ ВЕРСИЮ
 ### [F.A.Q. - Asyl für LGBTI in Deutschland](СОЗДАТЬ СТРАНИЦУ?)
@@ -100,4 +100,4 @@ FSJ в культуре (младше 26 лет) - [fsjkultur.de/russian.html](h
 ДОБАВИТЬ ССЫЛКУ НА ФАЙЛ Наши волонтерки подготовили информацию о заключении однополого брака в Германии и Дании PDF 
 
 #### Однополый онлайн-брак в Юте (США)
-Экспертное мнение Квартиры о действительности однополых онлайн-браков в Германии
+Экспертное мнение Quarteera о действительности однополых онлайн-браков в Германии

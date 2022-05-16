@@ -2,20 +2,22 @@
 title: "Пресса" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 0 # Order in which to show this project on the home page
-image: project.png
+image: press.png
 alt: "some alt text"
-summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
+summary: "Мы активно сотрудничаем с мировыми СМИ. Наши цели - способствовать видимости русскоязычных ЛГБТК+ в Германии и информированности о ЛГБТК+ среди русскоязычных людей."
 draft: false
 color: yellow
 menuIdentifier: about
 ---
 
-## Квартира в Прессе
+## Quarteera в Прессе
 
-### Если вы представитель СМИ и заинтересованы в сотрудничестве с Квартирой: 
-[Свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
+### Если вы представитель СМИ и заинтересованы в работе с Quarteera,### [свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
 
 ### 2022 год
+
+09.05.2022  [Вклад русскоязычной ЛГБТ-активистки достоин премии](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
+
 06.04.2022	[„Eine große Tragödie": Queere Geflüchtete aus der Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
 
 01.04.2022 ABC News [Trans Ukrainians fleeing hate, war](https://www.youtube.com/watch?v=VxSVu5MFpO4)

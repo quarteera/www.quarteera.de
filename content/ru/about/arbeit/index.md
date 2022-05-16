@@ -1,14 +1,16 @@
 ---
-title: "Работа Quarteera" # Title of your project
+title: "Деятельность Quarteera" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 200 # Order in which to show this project on the home page
 image: project.png
 alt: "some alt text"
-summary: "У Quarteera есть четыре основных направления работы."
+summary: "Формируем сообщество, развиваем гражданское общество, поддерживаем искусство, занимаемся политическим просвещением."
 draft: false
 color: yellow
 menuIdentifier: about
 ---
+
+У Quarteera есть четыре основных направления деятельности.
 
 ## 1. Сообщество
 
