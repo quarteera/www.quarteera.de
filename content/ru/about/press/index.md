@@ -12,9 +12,9 @@ menuIdentifier: about
 
 ## Quarteera в Прессе
 
-### Если вы представитель СМИ и заинтересованы в работе с Quarteera,### [свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
+Если вы представитель СМИ и заинтересованы в работе с Quarteera, [свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
 
-### 2022 год
+#### 2022 год
 
 09.05.2022  [Вклад русскоязычной ЛГБТ-активистки достоин премии](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
 
@@ -48,5 +48,5 @@ menuIdentifier: about
 
 22.02.2022	[Ukrainer in Berlin sorgen sich um](https://www.morgenpost.de/berlin/article234641581/Ukrainer-in-Berlin-sorgen-sich-um-Verwandte-in-der-Heimat.html) 
 
-### 2021 год
+#### 2021 год
 14.12.2021 [Репортаж “Миру - мир, России - квир” на радио COSMO](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
