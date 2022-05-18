@@ -11,28 +11,26 @@ menuIdentifier: help
 accent: true
 ---
 
+Супер! Мы вам очень рады!
 
-Супер! Мы очень рады вам!
+Годовой членский взнос составляет 12 евро или по льготной цене 6 евро. Плата всегда вносится за весь год вперед. Пониженная ставка распространяется на учащихся, студентов, стажеров, докторантов, безработных, получателей Hartz IV, пенсионеров и тяжелобольных. Вы можете оплатить членский взнос удобным для вас способом - __прямым дебетом__, а также банковским переводом или наличными.
 
-Mitgliedschaftsbeitrag beträgt bei uns 12 Euro bzw. ermäßigt 6 Euro jahrlich. Der Beitrag ist immer für das ganzes Jahr im Voraus fählig. Der ermäßigter Beitragssatz gilt bei Vorlage eines Nachweises für SchülerInnen, StudentInnen,
-Auszubildende, DoktorandInnen, Arbeitslose, Hartz IV-EmpfängerInnen, RentnerInnen und Schwerbeschädigte. Beitrag kannst du bequem per Lastschrift aber auch per Überweisung oder im bar zahlen.
+Вы можете ознакомиться с нашим уставом.
 
-Hier kannst Du Dich mit unserer Satzung vertraut machen.
+Чтобы оформить членство, заполните, пожалуйста, [форму заявления](/ru/help/mitglied_werden/Mitgliedschaftsantrag.pdf). Заполненную форму можно передать в правление лично (например, на заседании во вторник) или отправить по почте.
 
-Um Mitglied zu werden, [fülle bitte den Mitgliedschaftsantrag aus](/ru/help/mitglied_werden/Mitgliedschaftsantrag.pdf). Ausgefüllter Antrag kannst Du beim Vorstand persönlich abgeben (z.B. beim Dienstagstreffen) oder per Post schicken. 
-
-Unsere Anschrift lautet:\
+Наш адрес:\
 Quarteera e.V.\
 Postfach 58 05 36\
 10414 Berlin
 
-Hast Du vor, den Mitgliedschaftsbeitrag per Überweisung entrichten, überweise bitte Dein erster Jahresbeitrag umgehend auf folgendes Konto.
+Если вы намерены оплатить членский взнос банковским переводом, пожалуйста, переведите ваш первый ежегодный взнос сразу же на следующий счет.
 
 Konto-Nr.: 102 001 31 89\
-BLZ:         120 300 00\
-IBAN:        DE08 1203 0000 1020 0131 89\
-BIC:          BYLADEM1001\
+BLZ:       120 300 00\
+IBAN:      DE08 1203 0000 1020 0131 89\
+BIC:       BYLADEM1001\
 bei der Deutschen Kreditbank AG
 
-Und vergiss bitte das Wichtigste nicht - komm zu uns. Wir freuen uns Dich kennen zu lernen!
-
+И, пожалуйста, не забывайте о самом главном - приходите и присоединяйтесь к нам. 
+Мы будем рады познакомиться с вами поближе!

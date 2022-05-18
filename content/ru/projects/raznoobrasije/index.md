@@ -11,7 +11,7 @@ color: green
 menuIdentifier: projects
 ---
 
-##  Название проекта: ## „Разнообразие heißt Vielfalt“. 
+##  Название проекта: „Разнообразие heißt Vielfalt“. 
 
 **Сроки:** сентябрь.2019 - июнь.2022.
 
@@ -41,7 +41,7 @@ menuIdentifier: projects
 ### Дополнительные материалы: 
 [Сайт проекта „Разнообразие heißt Vielfalt“](http://raznoobrasije.org/)
 
-## В коллаборации с
+###  При поддержке:
 
 [{{< figure src="150410_Logo_AWS_4c_300dpi.png" class="article-logo" >}}](https://www.waldschloesschen.org/de/)
 [{{< figure src="BPP_gefoerdert.png" class="article-logo" >}}](https://www.bpb.de/)
