@@ -4,11 +4,31 @@ date: 2022-01-06T16:51:38+01:00
 weight: 200 # Order in which to show this project on the home page
 image: join.jpeg
 alt:
-summary: Хотите стать членом большой и дружной организации, участвовать в мероприятиях, знакомиться с новыми людьми?
+summary: "Willst Du Mitglied bei Quarteera werden? Super! Wir freuen uns auf Dich."
 draft: false
 color: purple
 menuIdentifier: help
 accent: true
 ---
 
-DE Хотите стать членом большой и дружной организации, участвовать в мероприятиях, знакомиться с новыми людьми?
+
+Mitgliedschaftsbeitrag beträgt bei uns 12 Euro bzw. ermäßigt 6 Euro jahrlich. Der Beitrag ist immer für das ganzes Jahr im Voraus fählig. Der ermäßigter Beitragssatz gilt bei Vorlage eines Nachweises für SchülerInnen, StudentInnen,
+Auszubildende, DoktorandInnen, Arbeitslose, Hartz IV-EmpfängerInnen, RentnerInnen und Schwerbeschädigte. Beitrag kannst du bequem per Lastschrift aber auch per Überweisung oder im bar zahlen.
+
+Hier kannst Du Dich mit unserer Satzung vertraut machen.
+
+Um Mitglied zu werden, fülle bitte den Mitgliedschaftsantrag aus. Ausgefüllter Antrag kannst Du beim Vorstand persönlich abgeben (z.B. beim Dienstagstreffen) oder per Post schicken. Unsere Anschrift lautet:
+Quarteera e.V.
+Postfach 58 05 36
+10414 Berlin
+
+Hast Du vor, den Mitgliedschaftsbeitrag per Überweisung entrichten, überweise bitte Dein erster Jahresbeitrag umgehend auf folgendes Konto
+Konto-Nr.:  102 001 31 89
+BLZ:        120 300 00
+IBAN:       DE08 1203 0000 1020 0131 89
+BIC:        BYLADEM1001
+bei der Deutschen Kreditbank AG.
+
+Und vergiss bitte das Wichtigste nicht - komm zu uns. Wir freuen uns Dich kennen zu lernen!
+
+Mitgliedschaftsantrag.pdf (1100k) ДОБАВИТЬ ФАЙЛ И ССЫЛКУ
