@@ -43,6 +43,7 @@ menuIdentifier: projects
 Созданы предпосылки для дальнейших проектов в рамках этой и других целей.
 
 ### Публикации по проекту:
+* [Как получить немецкий грант на квир-проект (13.11.2021)](https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/qib21_deutsche_fonds/)
 * [Репортаж “Миру - мир, России - квир” на радио COSMO (14.12.2021)](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
 * [Краткая история квир-рефератов (25.12.2021)](https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/qib21_geschichte/)
 * Пресс-релиз (в подготовке) 
