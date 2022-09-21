@@ -1,8 +1,10 @@
 ---
-title: "Квартира"
+title: "Quarteera"
 date: 2022-01-07T11:53:49+01:00
 draft: false
 image:
 ---
+"Quarteera e. V. ist der Verein russischsprachiger LGBTQ* und ihrer Freunde. Seit 2011 setzen wir uns für die Sichtbarkeit russischsprachiger LGBTQ*-Menschen in Deutschland, insbesondere unter der russischsprachigen Bevölkerung, ein und fördern das Bewusstsein für LGBTQ* unter russischsprachigen Menschen.
+Unsere Aufgabe besteht darin, der Mehrfachdiskriminierung von russischsprachigen LGBTQ*-Menschen (aufgrund ihrer Herkunft, sexueller und geschlechtlicher Identität) entgegenzuwirken).
 
-Quarteera e.V. ist der erste bundesweite Verein russischsprachiger LSBTQ* Migrant*innen, der sich seit 2011 für die Sichtbarkeit der russischsprachigen LSBTQ* in Deutschland und insbesondere unter der russischsprachigen Bevölkerung sowie für die Sensibilisierung zu LSBTQ* unter russischsprachigen Mitmenschen einsetzt. Quarteera e.V. sieht seine Aufgabe darin, der mehrfachen Diskriminierung von russischsprachigen LSBTQ* (aufgrund ihrer Herkunft und Sexualität) entgegenzuwirken.
+Wir bauen eine Gemeinschaft auf, entwickeln die Zivilgesellschaft, fördern die Kunst und engagieren uns im Bereich der politischen Bildung.
