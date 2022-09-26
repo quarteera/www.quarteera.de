@@ -4,12 +4,12 @@ date: 2022-01-06T16:51:38+01:00
 weight: 0 # Order in which to show this project on the home page
 image:
 alt: "some alt text"
-summary: "Тут идет какой-то текст с коротким описанием проекта, который может быть и длинным, и которотким."
+summary: "Quarteera e. V. — ist der deutschlandweite erste Verein russischsprachiger LGBTQ+ Migrant*innen, der sich seit 2011 für die Sichtbarkeit russischsprachiger LGBTQ+ Menschen in Deutschland, insbesondere unter der russischsprachigen Bevölkerung, einsetzt und das Bewusstsein für LGBTQ+ unter russischsprachigen Menschen fördert. Quarteera sieht seine Aufgabe darin, der Mehrfachdiskriminierung von russischsprachigen LGBTQ+ Menschen (aufgrund ihrer Herkunft, sexueller und geschlechtlicher Identität) entgegenzuwirken)"
 draft: false
 color: yellow
 menuIdentifier: about
 ---
 
-DE „Разнообразие heißt Vielfalt“ это типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию. Провышение квалификации русскоязычных активист_ок в сфере гражданского образования с целью поддержки и развития русскоязычного ЛГБТИК+ сообщества в Германии. Мы хотим предоставить активист_кам возможность самостоятельно повышать осведомленность общества о своих интересах, создавать устойчивые общественные структуры и профессионально работать в сфере гражданского образования. Основным направлением проекта является повышение осведомлённости о сексуальных и гендерных идентичностях среди русскоговорящего населения Германии.
-
+DE „Разнообразие heißt Vielfalt“ ist ein Modellprojekt im Rahmen des Programms „Modernisierung und Ausbau der Trägerstrukturen der politischen Erwachsenenbildung – Stärkung und Diversifizierung“ der Bundeszentrale für politische Bildung. Ziel des Projekts ist es , die russischsprachigen queeren Akteur*innen in politischer Bildung zu professionalisieren und stärken, damit sie eigenständig für die Sensibilisierung ihrer Interessen auftreten, nachhaltige Strukturen aufbauen und qualifizierte politische Bildungsarbeit in der russischsprachigen Community durchführen können. Ein Schwerpunkt ist die Sensibilisierung zur Vielfalt von sexueller und geschlechtlicher Selbstbestimmung innerhalb der russischsprachiger Bevölkerung Deutschlands.
+ 
 ## Arbeitsgruppen

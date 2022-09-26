@@ -10,7 +10,6 @@ Arkonaplatz 5\
 10435 Berlin
 
 ## Verantwortlich für diese Seite und den Inhalt sind:
-
 Vorstandvorsitzende: Evelina Chayka
 
 ### Kontakt:

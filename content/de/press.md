@@ -1,16 +1,14 @@
 ---
-title: "Press"
+title: "Kontakt für Medienvertreter*innen"
 date: 2022-01-07T11:53:49+01:00
 draft: false
 image:
 ---
 
-Christopher Schreiber\
-Geschäftsführer Öffentlichkeitsarbeit
+Svetlana Shaytanova\
+Pressesprecherin
 
-Lesben- und Schwulenverband Berlin-Brandenburg e.V.\
-Kleiststraße 35\
-10787 Berlin
+Telefon: 05592 9277 – 37\
+E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
 
-Telefon: 030 – 22 50 22 15\
-E-Mail: christopher.schreiber@lsvd.de
+[Wir in den Medien](https://deploy-preview-6--quarteera-site-dev.netlify.app/about/press/).
