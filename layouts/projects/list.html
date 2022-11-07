@@ -1,0 +1,81 @@
+{{ define "main" }}
+  <div class="projects-page">
+    <div class="page-heading">
+      {{- partial "dots.html" (dict "context" . "style" .Params.color) -}}
+      <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
+      <p>{{ .Summary }}</p>
+    </div>
+    {{ range .Pages.ByWeight.Reverse }}
+      {{ if eq .Params.accent true }}
+        <a href="{{ .Permalink }}" class="accent-section {{ .Params.color }}-dashed-border">
+          <h3>{{ .Title }}</h3>
+          <div>
+            {{ if .Params.summary }}
+              <p>{{ .Params.summary }}</p>
+            {{ else }}
+              <p>{{ .Summary }}</p>
+            {{ end }}
+          </div>
+          {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+            {{ $image := .Resources.GetMatch (.Params.image) }}
+            {{ with $image }}
+              <img class="image" src="{{ ( $image.Fill "1064x400 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            {{ end }}
+          {{ end }}
+        </a>
+        <a href="{{ .Permalink }}" class="accent-section-mobile {{ .Params.color }}-dashed-border">
+          <h3>{{ .Title }}</h3>
+          {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+            {{ $image := .Resources.GetMatch (.Params.image) }}
+            {{ with $image }}
+              <img class="image" src="{{ ( $image.Fill "285x285 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            {{ end }}
+          {{ end }}
+          <div>
+            {{ if .Params.summary }}
+              <p class="text">{{ .Params.summary }}</p>
+            {{ else }}
+              <p class="text">{{ .Summary }}</p>
+            {{ end }}
+          </div>
+        </a>
+      {{ else }}
+        <a href="{{ .Permalink }}" class="regular-section {{ .Params.color }}-dashed-border">
+          {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+            {{ $image := .Resources.GetMatch (.Params.image) }}
+            {{ with $image }}
+              <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            {{ end }}
+          {{ end }}
+          <div>
+            <h4>{{ .Title }}</h4>
+            {{ if .Params.summary }}
+              <p class="text">{{ .Params.summary | truncate 200 }}</p>
+            {{ else }}
+              <p class="text">{{ .Summary | truncate 200 }}</p>
+            {{ end }}
+          </div>
+        </a>
+        <a href="{{ .Permalink }}"  class="regular-section-mobile {{ .Params.color }}-dashed-border">
+          <div>
+            {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+              {{ $img := .Resources.GetMatch (.Params.image) }}
+              {{ with $img }}
+                <img class="image" src="{{ ( $img.Fill "80x80 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+              {{ end }}
+            {{ end }}
+            <h4>{{ .Title }}</h4>
+          </div>
+          {{ if .Params.summary }}
+            <p class="text">{{ .Params.summary | truncate 200 }}</p>
+          {{ else }}
+            <p class="text">{{ .Summary | truncate 200 }}</p>
+          {{ end }}
+        </a>
+      {{ end }}
+    {{ end }}
+    <h4 class="page-heading">{{ .Params.ourPartners }}</h4>
+    {{- partial "partners.html" -}}
+  </div>
+  {{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
+{{ end }}

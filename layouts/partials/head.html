@@ -1,0 +1,14 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&family=Rubik:wght@300;400;800&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, minimum-scale=1">
+    {{ $scss := resources.Get "scss/main.scss" }}
+    {{ $style := $scss | resources.ToCSS }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+    <link rel="stylesheet" type="text/css" src="https://github.com/necolas/normalize.css/blob/master/normalize.css">
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+</head>

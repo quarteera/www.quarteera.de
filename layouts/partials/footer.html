@@ -1,0 +1,24 @@
+<footer class="footer">
+  <nav>
+    {{ range .Site.Sections }}
+      <div class="footer-section">
+        <a href="{{ .Permalink }}"><h4>{{ .Title }}</h5></a>
+        {{ range first 3 .Pages.ByDate.Reverse }}
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+    <div class="footer-section">
+      {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    <div class="footer-social">
+      {{ $homePage := .Site.GetPage "/" }}
+      <a class="q-svg-footer" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
+        {{- partial "q-logo-black.html" . -}}
+      </a>
+      {{- partial "social.html" . -}}
+    </div>
+  </nav>
+</footer>
