@@ -2,7 +2,7 @@
 title: "Помогаем Украине" # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 200 # Order in which to show this project on the home page
-image: help_ukraine.png
+image: Ukraine_photo.jpg
 summary: "Помогаем ЛГБТК+ людям из Украины, бегущим в Германию. Мы были глубоко шокированы военным вторжением в Украину и не могли остаться в стороне. За несколько дней мы построили эффективную систему, основанную исключительно на волонтерских ресурсах."
 alt: "some image"
 draft: false
