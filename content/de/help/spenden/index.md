@@ -22,7 +22,7 @@ oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif
 
 Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 300 Euro (200 Euro bis 1.1.2021) legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 
-Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, helfen wir natürlich auch gerne weiter.
+Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, nehmen Sie bitte mit uns Kontakt auf.
 
 Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-mail [info@quarteera.de](mailto:info@quarteera.de) zur Verfügung.
 
