@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-date: 2022-01-07T11:53:49+01:00
+date: 2022-12-03T11:53:49+01:00
 draft: false
 image:
 ---
