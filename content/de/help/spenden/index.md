@@ -9,25 +9,27 @@ draft: false
 color: purple
 menuIdentifier: help
 ---
-Spendenkonto
-Quarteera e. V.\
 
-Kontonummer: 1020013189\
-Bankleitzahl: 12030000\
+**Unser Spendenkonto lautet:**
+
+Empfänger: Quarteera e. V.\
 IBAN: DE08120300001020013189\
 BIC: BYLADEM1001\
-bei der Deutschen Kreditbank AG in Berlin 
-oder mit [PayPal](https://www.paypal.com/donate?token=WBSPy2Ayix_z_rjfm_nEIX2nirYZjX17oWpIyzqMfBdWDYStJdsSohFQKcmQJ2z8mLISY1McFkikX19e).
+bei der Deutschen Kreditbank AG in Berlin\
+Verwendungszweck: Spende
 
-Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und vereinfachte Spendenbestätigung (siehe unten) Ihrer Steuererklärung bei.
+oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
 
-Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, nehmen Sie bitte mit uns Kontakt auf.
+Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 
-Bei Fragen wenden Sie sich bitte an l[info@quarteera.de](mailto:info@quarteera.de) 
+Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, helfen wir natürlich auch gerne weiter.
+
+Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-mail [info@quarteera.de](mailto:info@quarteera.de) zur Verfügung.
 
 ### Aktuelle Projekte, die dringende Unterstützung brauchen:
--    Aufklärungsarbeit für russischsprachige Community in Deutschland,
--  Unterstützung von russischsprachigen LGBTQ*-Migrant*innen,
+- Aufklärungsarbeit für russischsprachige Community in Deutschland,
+- Unterstützung und Beratung von russischsprachigen LGBTQ*-Migrant*innen und Geflüchteten,
+- Aufbau eines Community-Zentrum für russischsprachige LGBTQ*-Migrant*innen
 - Laufende Projekte.
 
 Außerdem können Sie Quarteeras Broschüre ["Mythen und Fakten über Schwule, Lesben und Bisexuelle](http://www.quarteera.de/blog/broshura)” (auf Russisch, 104 Seiten) gegen ein Spende bestellen, sowie unsere Postkarten und Aufkleber oder auch ВЗАИМОПОДДЕРЖКА-Armbänder.
