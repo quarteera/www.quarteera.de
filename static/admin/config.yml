@@ -1,15 +1,166 @@
 backend:
-  name: git-gateway
-  branch: dev # Branch to update (optional; defaults to master)
-#  name: test-repo
+#  name: git-gateway
+#  branch: dev # Branch to update (optional; defaults to master)
+  name: test-repo
 media_folder: static/img
 public_folder: /img
 slug:
   encoding: 'ascii'
   clean_accents: true
 collections:
+  - name: 'pages-ru'
+    label: 'Разделы'
+    files:
+      - label: 'Главная'
+        name: 'home-ru'
+        file: 'content/ru/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'О нас'
+        name: 'about-ru'
+        file: 'content/ru/about/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "yellow" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "about" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Поддержать'
+        name: 'help-ru'
+        file: 'content/ru/help/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 2 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "purple" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "help" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Миграция'
+        name: 'migration-ru'
+        file: 'content/ru/migration/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 4 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "red" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "migration" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Проекты'
+        name: 'projects-ru'
+        file: 'content/ru/projects/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "Наши партнеры", name: "ourPartners", widget: "string", default: "Наши партнеры" }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "green" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "projects" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Пресса'
+        name: 'press-ru'
+        file: 'content/ru/press.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages-de'
+    label: 'Seites'
+    files:
+      - label: 'Main'
+        name: 'home-de'
+        file: 'content/de/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Über uns'
+        name: 'about-de'
+        file: 'content/de/about/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "yellow" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "about" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Unterstützen'
+        name: 'help-de'
+        file: 'content/de/help/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 2 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "purple" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "help" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Migration'
+        name: 'migration-de'
+        file: 'content/de/migration/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 4 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "red" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "migration" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Projekte'
+        name: 'projects-de'
+        file: 'content/de/projects/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "Unsere Partner", name: "ourPartners", widget: "string", default: "Unsere Partner" }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: "color", name: "color", widget: "hidden", default: "green" }
+          - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "projects" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Presse'
+        name: 'press-de'
+        file: 'content/de/press.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Alt', name: 'alt', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+#about collection
   - name: 'about-ru'
-    label: 'ru/About'
+    label: 'О нас'
     folder: 'content/ru/about'
     path: '{{slug}}/index'
     create: true
@@ -18,11 +169,135 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: "draft", name: "draft", widget: "hidden", default: "false" }
       - { label: "color", name: "color", widget: "hidden", default: "yellow" }
       - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "about" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'about-de'
+    label: 'Über uns'
+    folder: 'content/de/about'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "yellow" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "about" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+#help collection
+  - name: 'help-ru'
+    label: 'Поддержать'
+    folder: 'content/ru/help'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "purple" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "help" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'help-de'
+    label: 'Unterstützen'
+    folder: 'content/de/help'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "purple" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "help" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+#migration collection
+  - name: 'migration-ru'
+    label: 'Миграция'
+    folder: 'content/ru/migration'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "red" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "migration" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'migration-de'
+    label: 'Migration'
+    folder: 'content/de/migration'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "red" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "migration" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+#migration collection
+  - name: 'projects-ru'
+    label: 'Проекты'
+    folder: 'content/ru/projects'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "green" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "projects" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'projects-de'
+    label: 'Projekte'
+    folder: 'content/de/projects'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "green" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "projects" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
