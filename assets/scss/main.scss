@@ -132,7 +132,8 @@ img { border-radius: .25rem; }
   max-width: 1024px;
   margin-bottom: 1rem;
 
-  img { border-radius: 4px; }
+  img { border-radius: 4px; width: 100%;}
+
 }
 
 .regular-section {
@@ -291,7 +292,6 @@ body {
   .image {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    width: 100%;
   }
 
   nav {

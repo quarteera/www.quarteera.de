@@ -11,6 +11,7 @@ collections:
   - name: 'about-ru'
     label: 'ru/About'
     folder: 'content/ru/about'
+    path: '{{slug}}/index'
     create: true
     editor:
       preview: true
