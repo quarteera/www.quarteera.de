@@ -1,18 +1,27 @@
 backend:
   name: git-gateway
   branch: dev # Branch to update (optional; defaults to master)
+#  name: test-repo
 media_folder: static/img
 public_folder: /img
+slug:
+  encoding: 'ascii'
+  clean_accents: true
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'about-ru'
+    label: 'ru/About'
+    folder: 'ru/content/about'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number', default: 0 }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: "draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "color", name: "color", widget: "hidden", default: "yellow" }
+      - { label: "menuIdentifier", name: "menuIdentifier", widget: "hidden", default: "about" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
