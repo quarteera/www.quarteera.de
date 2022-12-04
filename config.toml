@@ -22,9 +22,15 @@ defaultContentLanguage = 'ru'
       pre = 'green'
       identifier = 'projects'
     [[languages.ru.menu.main]]
+      name = 'Миграция'
+      url = '/migration'
+      weight = 2
+      pre = 'red'
+      identifier = 'migration'
+    [[languages.ru.menu.main]]
       name = 'Поддержать'
       url = '/help'
-      weight = 2
+      weight = 3
       pre = 'purple'
       identifier = 'help'
     [[languages.ru.menu.footer]]
@@ -58,14 +64,20 @@ defaultContentLanguage = 'ru'
       pre = 'green'
       identifier = 'projects'
     [[languages.de.menu.main]]
+      name = 'Migration'
+      url = '/migration'
+      weight = 2
+      pre = 'red'
+      identifier = 'migration'
+    [[languages.de.menu.main]]
       name = 'Uns helfen'
       url = '/help'
-      weight = 2
+      weight = 3
       pre = 'purple'
       identifier = 'help'
     [[languages.de.menu.footer]]
       name = 'Press'
-      url = '/press'
+      url = '/de/press'
       weight = 0
     [[languages.de.menu.footer]]
       name = 'Impressum'
