@@ -1,7 +1,7 @@
 ---
 title: "О нас" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 1 # Order in which to show this project on the home page
 image:
 alt: "some alt text"
 summary: "Quarteera e. V. — первое общегерманское объединение русскоязычных ЛГБТК+ мигрантов*ок, которое с 2011 года выступает за видимость русскоязычных ЛГБТК+ в Германии, в особенности среди русскоязычного населения, а также за повышение информированности о ЛГБТК+ среди русскоязычных людей./

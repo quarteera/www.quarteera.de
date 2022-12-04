@@ -1,8 +1,9 @@
 ---
 title: "Impressum"
-date: 2022-01-06T19:31:52+01:00
+date: 2022-12-03T19:31:52+01:00
 draft: false
 image:
+aliases: [/impressum]
 ---
 
 Quarteera e. V.\
