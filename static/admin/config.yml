@@ -10,7 +10,7 @@ slug:
 collections:
   - name: 'about-ru'
     label: 'ru/About'
-    folder: 'ru/content/about'
+    folder: 'content/ru/about'
     create: true
     editor:
       preview: true
