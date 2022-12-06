@@ -22,6 +22,10 @@
         {{ with $joinPage }}
           <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.Title }}</a>
         {{ end }}
+        {{ $contactPage := .Site.GetPage "/about/Contact"  }}
+        {{ with $contactPage }}
+        <a class="green-button" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+        {{ end }}
       </div>
       <div class="calendar">
         <div class="item red-dashed-border">
