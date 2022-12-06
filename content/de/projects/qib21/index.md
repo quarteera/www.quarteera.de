@@ -18,7 +18,7 @@ menuIdentifier: projects
  **Teilnehmende Partner:** Verschiedene LGBTQ*-Vereinigungen aus unterschiedlichen Regionen Russlands.
 
 **Finanzierung:** Auswärtiges Amt der Bundesrepublik Deutschland im Rahmen des Programms Civil Society Cooperation zur Unterstützung und Entwicklung der Zivilgesellschaft in Ländern der “Östlichen Partnerschaft” und Russland.
-Das vorliegende Projekt stellt eine Fortsetzung des Projekts „Aufklärung über LSBTIQ an Hochschulen in Russland“ dar. Dieses wurde von Quarteera im Jahr 2020 in Zusammenarbeit mit dem Jekaterinburger Ressourcenzentrum für LGBTQ* umgesetzt.
+Das vorliegende Projekt stellt eine Fortsetzung des Projekts „Aufklärung über LSBTIQ an Hochschulen in Russland“ dar. Dieses wurde von Quarteera im Jahr 2020 in Zusammenarbeit mit dem Jekaterinburger Ressourcenzentrum für LGBTQ\* umgesetzt.
 
 ## Projektziele: 
 
@@ -41,7 +41,7 @@ Zwischen den Partnern wurden enge persönliche und Arbeitsbeziehungen geknüpft,
 Die Voraussetzungen für weitere Projekte im Rahmen dieser und anderer Zielsetzungen sind geschaffen worden.
 ### Veröffentlichungen zum Projekt:
 * [Reportage "Frieden für die Welt, Queer für Russland" bei Radio COSMO (14.12.2021)](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
-* [Kurze Geschichte von Queer-Referaten (25.12.2021)](https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/qib21_geschichte/)
+* [Kurze Geschichte von Queer-Referaten (25.12.2021)](/de/projects/qib21_geschichte/)
 * Pressemitteilung (in Vorbereitung)
 
 ### Unterstützt durch:
