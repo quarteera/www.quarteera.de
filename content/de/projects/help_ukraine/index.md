@@ -35,7 +35,7 @@ Mi: 10:00 - 13:00
 Do: 15:00 - 18:00 Uhr
 Fr: 10:00-13:00 Uhr
 
-Sie können sich auch an uns per [E-Mail] (mailto:help@quarteera.de) wenden, wenn Sie Fragen oder Anregungen haben.
+Sie können sich auch an uns per [E-Mail](mailto:help@quarteera.de) wenden, wenn Sie Fragen oder Anregungen haben.
 
 ### Bisherige Ergebnisse unserer Arbeit:
 - 700 Menschen haben unsere Hilfe erhalten
@@ -44,12 +44,12 @@ Sie können sich auch an uns per [E-Mail] (mailto:help@quarteera.de) wenden, wen
 - 200 Freiwillige nahmen am Projekt teil
 
 ### Auch Sie können mithelfen:
-- werden Sie unser*e [Freiwillige*r] (http://quarteera.de/v),
+- werden Sie unser*e [Freiwillige*r](/de/help/vacancies/volunteer/),
 - werden Sie unser*e [Gastgeber*in](https://forms.monday.com/forms/3a804d649a50f8f3d31cb63c533f8d16?r=use1) (um den Ankommenden eine vorübergehende oder dauerhafte Unterkunft anzubieten),
-- werden Sie unser*e [Spender*in](/help/spenden) (Geld spenden).
+- werden Sie unser*e [Spender*in](/de/help/spenden) (Geld spenden).
 
 ### Wenn Sie Pressevertreter*in und an einer Zusammenarbeit mit Quarteera interessiert sind:
-[Kontaktieren Sie uns] (https://deploy-preview-6--quarteera-site-dev.netlify.app/press/).
+[Kontaktieren Sie uns](/de/press/).
 
 ### Wenn Sie aus der Ukraine kommen, könnten diese Materialien nützlich für Sie sein:
-- [Abschnitt “Migration”] (https://deploy-preview-6--quarteera-site-dev.netlify.app/about/migration/)
+- [Abschnitt “Migration”](/de/migration/)

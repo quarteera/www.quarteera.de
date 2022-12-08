@@ -22,11 +22,11 @@ Der zweite Arbeitsbereich betrifft die Berichterstattung über die Situation que
 
 ### Liste der umgesetzten Projekte:
 
-- 2021, [Entwicklung der studentischen Queer-Bewegung in Russland] (https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/qib2021/).
-- 2020, [LGBTQ*-Aufklärung an russischen Universitäten] (https://qib20.quarteera.de/).
+- 2021, [Entwicklung der studentischen Queer-Bewegung in Russland](/projects/qib21/).
+- 2020, [LGBTQ*-Aufklärung an russischen Universitäten](https://qib20.quarteera.de/).
 - 2018, [Treffen mit russischsprachigen LGBTIQ*-Aktivist*innen und LGBTQ*-freundlichen Blogger*innen](https://qib18.quarteera.de/).
-- 2017, [Treffen mit jungen Aktivist*innen aus Ländern der östlichen Partnerschaft und Russland] (https://qib17.quarteera.de/).
-- 2016, [Treffen mit Eltern von LGBTQ*-Personen aus dem postöstlichen Raum] (http://quarteera.tilda.ws/).
+- 2017, [Treffen mit jungen Aktivist*innen aus Ländern der östlichen Partnerschaft und Russland](https://qib17.quarteera.de/).
+- 2016, [Treffen mit Eltern von LGBTQ*-Personen aus dem postöstlichen Raum](http://quarteera.tilda.ws/).
 
 ## 3. Kunst
 
@@ -65,6 +65,6 @@ Der diesjährige Marzahn Pride entfernt sich vom extern vergebenen und einengend
 
 ### Quarteera hilft der Ukraine
 
-Am 24. Februar 2022 hat Putin einen Angriffskrieg gegen die Ukraine begonnen und seitdem hat sich das Leben von Millionen Menschen verändert. Wir sind einer von ihnen. Da wir eine der wenigen großen russischsprachigen LGBTQ*-Organisationen in Deutschland sind, haben wir erkannt, dass wir die notwendigen Ressourcen haben, um LGBTQ*-Menschen aus der Ukraine zu helfen. Darauf haben sich seit den ersten Kriegstagen alle unsere Bemühungen konzentriert. In sehr kurzer Zeit haben wir [ein effektives System erstellt] (https://deploy-preview-6--quarteera-site-dev.netlify.app/projects/help_ukraine/), das ausschließlich auf freiwilligen Ressourcen basiert. Wir helfen Menschen bei der Anreise nach Berlin, der Wohnungssuche, der Versorgung mit den notwendigen Dingen des täglichen Lebens, der Lebensmittelbeschaffung sowie rechtlicher und psychologischer Beratung. 
+Am 24. Februar 2022 hat Putin einen Angriffskrieg gegen die Ukraine begonnen und seitdem hat sich das Leben von Millionen Menschen verändert. Wir sind einer von ihnen. Da wir eine der wenigen großen russischsprachigen LGBTQ*-Organisationen in Deutschland sind, haben wir erkannt, dass wir die notwendigen Ressourcen haben, um LGBTQ*-Menschen aus der Ukraine zu helfen. Darauf haben sich seit den ersten Kriegstagen alle unsere Bemühungen konzentriert. In sehr kurzer Zeit haben wir [ein effektives System erstellt](/projects/help_ukraine/), das ausschließlich auf freiwilligen Ressourcen basiert. Wir helfen Menschen bei der Anreise nach Berlin, der Wohnungssuche, der Versorgung mit den notwendigen Dingen des täglichen Lebens, der Lebensmittelbeschaffung sowie rechtlicher und psychologischer Beratung. 
 
 (УТОЧНИТЬ ЦИФРЫ) Insgesamt haben wir seit Kriegsbeginn fast 300 Menschen und 27 Haustieren geholfen, die aus der Ukraine nach Deutschland kamen.

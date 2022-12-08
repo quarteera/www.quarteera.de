@@ -13,9 +13,9 @@ menuIdentifier: projects
 
 ## Der Podcast "Queer-Gespräche " mit Konstantin Kropotkin
 
-** Laufzeit:** Januar 2022 bis Dezember 2022.
+**Laufzeit:** Januar 2022 bis Dezember 2022.
 
-** Finanzierung:** Magnus Hirschfeld Stiftung (Bundesstiftung Magnus Hirschfeld).
+**Finanzierung:** Magnus Hirschfeld Stiftung (Bundesstiftung Magnus Hirschfeld).
 
 ### Projektziele:
 In seinem neuen Podcast spricht Konstantin Kropotkin mit queeren Geflüchteten aus der ehemaligen Sowjetunion. Wer sind sie? Woher kommen sie? Warum haben sie ihr Heimatland verlassen? Haben sie in Deutschland gefunden, wonach sie gesucht haben? Es ist ein Versuch, das Phänomen der LGBTQ*-Migration durch die Perspektive persönlicher dokumentarischer Berichte zu verstehen.
