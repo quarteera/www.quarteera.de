@@ -18,8 +18,8 @@ menuIdentifier: projects
 **Finanzierung:** Getragen wird das Projekt von der Stiftung Akademie Waldschlösschen in Kooperation mit Quarteera e.V.
 
 ### Projektziele:
--Die Professionalisierung von russischsprachigen Aktivist*innen im Bereich der politischen Bildung als Förderung und Entwicklung der russischsprachigen LGBTQ*-Community in Deutschland. 
-- Die Schaffung der Möglichkeit für Aktivist*innen, sich eigenständig für die Sensibilisierung für ihre Interessen in der Gesellschaft einzusetzen, nachhaltige gesellschaftliche Strukturen zu schaffen und qualifizierte politische Bildungsarbeit zu betreiben.. 
+-Die Professionalisierung von russischsprachigen Aktivist\*innen im Bereich der politischen Bildung als Förderung und Entwicklung der russischsprachigen LGBTQ\*-Community in Deutschland. 
+- Die Schaffung der Möglichkeit für Aktivist\*innen, sich eigenständig für die Sensibilisierung für ihre Interessen in der Gesellschaft einzusetzen, nachhaltige gesellschaftliche Strukturen zu schaffen und qualifizierte politische Bildungsarbeit zu betreiben.. 
 - Die Förderung des Bewusstseins für sexuelle und geschlechtliche Identitäten unter der russischsprachigen Bevölkerung in Deutschland. 
 
 ### Die Strategie der Projektdurchführung:  
@@ -29,10 +29,10 @@ menuIdentifier: projects
 
 
 ### Zielgruppen:
--Initiativen, Organisationen, Gruppen der Zivilgesellschaft der russischsprachigen Community
--Russischsprachige Menschen, insbesondere Eltern.
--Bildungseinrichtungen (russischsprachige Schulen und Kitas)
-- Psycholog*innen, Sozialpädagog*innen, Sprachmittler*innen, Dolmetscher*innen, Integrationsfachkräfte
+- Initiativen, Organisationen, Gruppen der Zivilgesellschaft der russischsprachigen Community
+- Russischsprachige Menschen, insbesondere Eltern.
+- Bildungseinrichtungen (russischsprachige Schulen und Kitas)
+- Psycholog\*innen, Sozialpädagog\*innen, Sprachmittler\*innen, Dolmetscher\*innen, Integrationsfachkräfte
 - Russischsprachige Medienschaffende
 - Multiplikator*innen der queeren Community
 

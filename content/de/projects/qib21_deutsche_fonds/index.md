@@ -20,9 +20,9 @@ Die wichtigsten davon sind:
 
 - Das **Deutsche Außenministerium** ([Auswärtiges Amt](https://www.auswaertiges-amt.de/de/)) hat zum Beispiel das Projekt "Entwicklung der queeren Studierendenbewegung in Russland" gefördert, bei dem Quarteera e.V. die deutsche Seite und Studierendengruppen aus Russland die russische Seite vertreten haben.
 
-- **Programm [Erasmus+] (https://www.erasmusplus.de/)**, welches von der Europäischen Union finanziert wird, sodass das Partnerland nicht nur Deutschland, sondern auch ein anderer EU-Mitgliedstaat sein kann.
-- Die [Stiftung West-Östliche Begegnungen] (https://www.stiftung-woeb.de/).
-- ** Stiftung "Erinnerung, Verantwortung und Zukunft "** (["Erinnerung, Verantwortung und Zukunft"](https://www.stiftung-evz.de/)).
+- **Programm [Erasmus+](https://www.erasmusplus.de/)**, welches von der Europäischen Union finanziert wird, sodass das Partnerland nicht nur Deutschland, sondern auch ein anderer EU-Mitgliedstaat sein kann.
+- Die [Stiftung West-Östliche Begegnungen](https://www.stiftung-woeb.de/).
+- **Stiftung "Erinnerung, Verantwortung und Zukunft"** (["Erinnerung, Verantwortung und Zukunft"](https://www.stiftung-evz.de/)).
 - **Institut für Auslandsbeziehungen** ([Institut für Auslandsbeziehungen](https://www.ifa.de/en/)).
 
 Der Grad der deutschen Beteiligung kann unterschiedlich sein. Es gibt Projekte, die vor allem von deutscher Seite initiiert und durchgeführt werden. Andererseits gibt es auch Projekte, bei denen die russische Seite das Projekt selbst konzipiert, sowie ausarbeitet und die deutsche Seite es nur unterstützt.
@@ -34,7 +34,7 @@ Zum Beispiel:
 
 Sie können sich auch ohne eine Partnerorganisation bei STEP Travel Grants und Travel Grants/Goethe Institut bewerben und eine Finanzierung der Reisen erhalten, die Sie zum Erreichen Ihres Ziels benötigen.
 
-- Auch eine formell nicht registrierte Gruppe oder Initiative kann einen Zuschuss beantragen. Die Geldgeber*innen sind sich bewusst, dass es in Russland rechtliche Hindernisse für Queeren Aktivismus gibt und haben dafür Verständnis.
+- Auch eine formell nicht registrierte Gruppe oder Initiative kann einen Zuschuss beantragen. Die Geldgeber\*innen sind sich bewusst, dass es in Russland rechtliche Hindernisse für Queeren Aktivismus gibt und haben dafür Verständnis.
 
 **Schritt zwei** Finden Sie ein geeignetes Stipendium und verpassen Sie nicht die Frist für die Antragstellung. Alle Organisationen haben ihre eigenen Verfahren. So verfügt das Außenministerium über regelmäßige Programme und stellt jedes Jahr ein bestimmtes Budget für Projekte im Rahmen der Entwicklung einer demokratischen Gesellschaft in den Ländern der Östlichen Partnerschaft und Russland bereit. Im Gegensatz dazu hat die Stiftung "Erinnerung, Verantwortung und Zukunft" jedes Mal andere Programme und Fristen. Wir empfehlen Ihnen daher, sich in die Mailingliste der Stiftungen einzutragen oder deren Websites zu verfolgen, um sich rechtzeitig über die angekündigten Ausschreibungen zu informieren.
 

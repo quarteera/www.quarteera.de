@@ -183,14 +183,22 @@
 .blue-button {
   @include button;
   background-color: $blue;
+  margin-right: 1rem;
 }
 .blue-button:hover { background-color: $dark-blue; }
+
 .purple-button {
   @include button;
   background-color: $purple;
   margin-right: 1rem;
 }
 .purple-button:hover { background-color: $dark-purple; }
+
+.green-button {
+  @include button;
+  background-color: $green;
+}
+.green-button:hover { background-color: $dark-green; }
 
 @media screen and (max-width:768px) {
   .mobile-blue-background { background: $blue; }
