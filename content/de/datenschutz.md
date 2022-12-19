@@ -389,4 +389,4 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 ## 31. Bestehen einer automatisierten Entscheidungsfindung
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
-Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Externer Datenschutzbeauftragter Passau](http://www.quarteera.de/datenschutz#:~:text=Externer%20Datenschutzbeauftragter%20Passau) tätig ist, in Kooperation mit dem [Anwalt für Datenschutzrecht](http://www.quarteera.de/datenschutz#:~:text=Anwalt%20f%C3%BCr%20Datenschutzrecht) Christian Solmecke erstellt.
+Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Externer Datenschutzbeauftragter Passau](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit dem [Anwalt für Datenschutzrecht](https://www.wbs-law.de/it-recht/datenschutzrecht/) Christian Solmecke erstellt.
