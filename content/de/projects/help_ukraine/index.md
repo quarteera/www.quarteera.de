@@ -22,18 +22,7 @@ menuIdentifier: projects
 - Durchführung von basalen Deutschkursen,
 - Organisation kultureller Veranstaltungen, Bildungsaktivitäten und Feste.
 
-In unserem Communityzentrum können Sie sich von einer Sozialarbeiterin persönlich beraten lassen.
-
-Adresse:
-Arkonaplatz 5
-10435 Berlin
-
-Öffnungszeiten:
-Mo: 15.00 bis 18.00 Uhr
-Di: geschlossen
-Mi: 10:00 - 13:00
-Do: 15:00 - 18:00 Uhr
-Fr: 10:00-13:00 Uhr
+In unserem [Beratungszentrum](/de/about/contact/) können Sie sich von einer Sozialarbeiterin persönlich beraten lassen.
 
 Sie können sich auch an uns per [E-Mail](mailto:help@quarteera.de) wenden, wenn Sie Fragen oder Anregungen haben.
 
