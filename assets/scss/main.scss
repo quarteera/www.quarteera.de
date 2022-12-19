@@ -46,8 +46,13 @@ img { border-radius: .25rem; }
   position: absolute;
   bottom: 0;
   left: 50%;
-  z-index: -1;
+  z-index: 0;
   margin-left: -45rem;
+  opacity: 0.7;
+}
+
+.plant-home {
+  bottom: -243px;
 }
 
 .page-decor {
@@ -370,8 +375,18 @@ body {
 
 .calendar {
 
-  .item{
+  padding: 3rem 0;
+  background-color: $background-color;
+  border-top: 1px dashed #C2C2C2;
+
+  .calendar-content {
+    @include max-width;
+    @include center;
+  }
+
+  .item {
     @include row;
+    width: 40rem;
     margin-bottom: 1rem;
   }
 
@@ -384,7 +399,7 @@ body {
   }
 
   .calendar-date {
-    font-size: 3rem;
+    font-size: 3.1rem;
   }
 
   .calendar-month {
@@ -397,18 +412,31 @@ body {
     flex: 1;
     justify-content: space-between;
   }
+
   .time-location {
     @include row;
     padding: .75rem 1.5rem;
     justify-content: space-between;
     width: 100%;
 
-    p { margin: 0; }
+    p {
+      margin: 0;
+    }
+  }
+
+  a {
+    @include reset-a-style;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    text-align: center;
   }
 
   h3 {
     margin: 0;
     padding: 1.5rem;
+    font-weight: normal;
   }
 
   h4 {
@@ -609,6 +637,7 @@ body {
   }
 
   .purple-button { margin-bottom: 1rem; }
+  .blue-button { margin-bottom: 1rem; }
   .heading-with-dots {
     flex-direction: column;
     align-items: flex-start;
