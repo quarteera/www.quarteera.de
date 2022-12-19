@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="projects-page">
+  <div class="page-heading">
+    {{- partial "dots.html" (dict "context" . "style" .Params.color) -}}
+    <h1 class="{{ .Params.color }}-dots">{{ .Title }}</h1>
+  </div>
+
+  <div class="page-content">
+    <p>{{ .Content }}</p>
+  </div>
+  {{ .Scratch.Set "calendarLimit" 1000 }}
+  {{- partial "calendar.html" . -}}
+
+
+</div>
+{{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
+{{ end }}
