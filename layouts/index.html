@@ -14,17 +14,17 @@
       </div>
       <p>{{ .Summary }}</p>
       <div class="buttons-container">
-        {{ $joinPage := .Site.GetPage "/form"  }}
+        {{ $joinPage := .Site.GetPage "/help/vacancies/volunteer"  }}
         {{ with $joinPage }}
-          <a class="purple-button" href="{{ $joinPage.RelPermalink }}">{{ $joinPage.Title }}</a>
+          <a class="purple-button" href="{{ $joinPage.RelPermalink }}">{{ $joinPage.LinkTitle }}</a>
         {{ end }}
         {{ $donatePage := .Site.GetPage "/help/spenden"  }}
         {{ with $joinPage }}
-          <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.Title }}</a>
+          <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.LinkTitle  }}</a>
         {{ end }}
         {{ $contactPage := .Site.GetPage "/about/Contact"  }}
         {{ with $contactPage }}
-        <a class="green-button" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+        <a class="green-button" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.LinkTitle  }}</a>
         {{ end }}
       </div>
       <div class="calendar">
