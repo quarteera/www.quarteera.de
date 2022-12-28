@@ -9,6 +9,7 @@ command = "hugo -b $DEPLOY_URL"
 command = "hugo -b $URL"
 
 [[redirects]]
-from = "/*"
-to = "www.quarteera.de/:splat"
+from = "/xxx"
+to = "www.quarteera.de/"
 status = 404
+force=true
