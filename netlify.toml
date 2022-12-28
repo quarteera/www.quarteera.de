@@ -12,4 +12,3 @@ command = "hugo -b $URL"
 from = "/*"
 to = "/404.html?:splat"
 status = 404
-force = true
