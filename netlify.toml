@@ -7,9 +7,3 @@ command = "hugo -b $DEPLOY_URL"
 
 [context.production]
 command = "hugo -b $URL"
-
-[[redirects]]
-from = "/xxx"
-to = "/index.html"
-status = 404
-force=true
