@@ -10,5 +10,5 @@ command = "hugo -b $URL"
 
 [[redirects]]
 from = "/*"
-to = "/404.html?:splat"
+to = "www.quarteera.de/:splat"
 status = 404
