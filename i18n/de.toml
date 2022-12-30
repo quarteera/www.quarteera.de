@@ -5,4 +5,4 @@ other = 'Kalendar'
 other = 'Смотреть все → '
 
 [error404]
-other = 'Ошибка'
+other = 'Fehler'
