@@ -83,6 +83,14 @@ img { border-radius: .25rem; }
     @include center;
     margin-bottom: 2rem;
   }
+
+  .article-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .article-image figcaption {
+    font-size: small;
+  }
   .article-logo{ @include center; }
   .article-logo img {
     border-radius: 50%;
