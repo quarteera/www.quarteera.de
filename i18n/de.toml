@@ -3,3 +3,6 @@ other = 'Kalendar'
 
 [calendar-all]
 other = 'Смотреть все → '
+
+[error404]
+other = 'Ошибка'
