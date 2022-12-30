@@ -9,7 +9,7 @@ command = "hugo -b $DEPLOY_URL"
 command = "hugo -b $URL"
 
 [[redirects]]
-from = "/xxx"
+from = "/yyy"
 to = "/index.html"
 status = 404
 force=true
