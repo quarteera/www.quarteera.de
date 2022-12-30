@@ -4,5 +4,11 @@ other = 'Kalendar'
 [calendar-all]
 other = 'Смотреть все → '
 
-[error404]
-other = 'Fehler'
+[header404]
+other = 'OOups'
+
+[maintext404]
+other = 'Diese Seite existiert nicht'
+
+[secondtext404]
+other = 'Bild und text hinzufügen'
