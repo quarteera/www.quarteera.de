@@ -1,7 +1,7 @@
 ---
 title: Краткая история квир-рефератов
 date: 2022-01-06T16:38:20+01:00
-weight: -1 # Order in which to show this project on the home page
+weight: 13 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Данный материал был создан в рамках проекта “Развитие студенческого квир-движения в России“ в 2021 году. 
 alt: Развитие студенческого квир-движения в России
