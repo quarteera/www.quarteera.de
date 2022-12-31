@@ -1,7 +1,7 @@
 ---
 title: Квир-группы при университетах
 date: 2022-01-06T16:38:20+01:00
-weight: 30 # Order in which to show this project on the home page
+weight: 12 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Проект является продолжением проекта 2020 г. "Просвещение на тему ЛГБТК+ в университетах России". 
 alt: Развитие студенческого квир-движения в России
