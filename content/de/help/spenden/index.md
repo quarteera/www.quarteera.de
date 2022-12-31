@@ -8,6 +8,7 @@ summary: "Viele interessante und wichtige Projekte h√§ngen von Spenden ab und k√
 draft: false
 color: purple
 menuIdentifier: help
+aliases: [/Spenden-sind-willkommen]
 ---
 
 **Unser Spendenkonto lautet:**
