@@ -8,6 +8,7 @@ summary: "Многие интересные и важные проекты за�
 draft: false
 color: purple
 menuIdentifier: help
+aliases: [/pozertvovania]
 ---
 
 **Счет для пожертвований:**

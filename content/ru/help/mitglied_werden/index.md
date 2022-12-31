@@ -9,6 +9,7 @@ draft: false
 color: purple
 menuIdentifier: help
 accent: true
+aliases: [/mitglied-werden]
 ---
 
 Супер! Мы вам очень рады!
