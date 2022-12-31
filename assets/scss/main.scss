@@ -12,6 +12,7 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
+  min-width: 1530px;
 }
 
 html {
@@ -52,7 +53,7 @@ img { border-radius: .25rem; }
 }
 
 .plant-home {
-  bottom: -243px;
+  bottom: 0;
 }
 
 .page-decor {
@@ -453,6 +454,9 @@ body {
 }
 
 @media screen and (max-width:768px) {
+  .body {
+    min-width: 32rem;
+  }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
@@ -461,6 +465,7 @@ body {
 
     .item {
       flex-direction: column;
+      width: 30rem;
     }
 
     h3 {
@@ -661,7 +666,7 @@ body {
 
   .drawing {
     position: absolute;
-    top: 4.5rem;
+    top: 13rem;
     left: 50%;
     z-index: -1;
     margin-left: 6rem;

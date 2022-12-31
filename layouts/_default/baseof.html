@@ -8,13 +8,14 @@
       {{- partial "header.html" . -}}
       <div id="content" class="content {{ .Params.color }}-background-decor">
         {{- block "main" . }}{{- end }}
+
+        {{ if .Page.IsHome }}
+          {{ .Scratch.Set "calendarLimit" 3 }}
+          {{- partial "calendar.html" . -}}
+          {{- partial "plant-home.html" . -}}
+        {{ end }}
       </div>
 
-      {{ if .Page.IsHome }}
-         {{ .Scratch.Set "calendarLimit" 3 }}
-         {{- partial "calendar.html" . -}}
-         {{- partial "plant-home.html" . -}}
-      {{ end }}
 
       {{- partial "footer.html" . -}}
       {{- partial "script.html" . -}}

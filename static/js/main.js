@@ -28,3 +28,16 @@ document.body.classList.remove('preload');
 
 navSlide();
 selectLanguage();
+
+const set404Url = () => {
+  const oldUrl = document.getElementById('old-site-link');
+  if (oldUrl) {
+    const url = window.location.href;
+    const paramsString = url.substring(url.lastIndexOf('quarteera.de') + 12);
+    let oldUrlText = "http://old.quarteera.de" + paramsString;
+    oldUrl.setAttribute("href", oldUrlText);
+    oldUrl.innerHTML = oldUrlText;
+  }
+};
+
+window.onload = set404Url;
