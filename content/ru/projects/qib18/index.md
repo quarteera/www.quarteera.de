@@ -1,10 +1,10 @@
 ---
-title: "Молодежный слет русскоговорящих ЛГБТ-активистов/ок" # Title of your project
+title: "Встреча русскоязычных видеоблогеров и видеоблогерок " # Title of your project
 date: 2022-01-06T16:38:20+01:00
 weight: 3 # Order in which to show this project on the home page
 image: foto.jpg
 alt: "some alt text"
-summary: "С 18 по 27 августа 2017 года в Берлине Quarteera e. V. провела образовательный проект «Квартирник-2017» для ЛГБТ-активистов и активисток из Молдовы, Беларуси, Украины и России."
+summary: "Встреча русскоговорящих видеоблогерок и видеоблогеров прошла в Берлине с 24 по 30 июля 2018 года."
 accent: false
 draft: false
 color: green
