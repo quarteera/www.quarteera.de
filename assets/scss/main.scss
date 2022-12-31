@@ -455,7 +455,7 @@ body {
 
 @media screen and (max-width:768px) {
   .body {
-    min-width: 32rem;
+    min-width: auto;
   }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
@@ -465,7 +465,7 @@ body {
 
     .item {
       flex-direction: column;
-      width: 30rem;
+      width: 20rem;
     }
 
     h3 {
