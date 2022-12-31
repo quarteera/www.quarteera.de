@@ -5,8 +5,8 @@ weight: 1 # Order in which to show this project on the home page
 image:
 alt: "some alt text"
 draft: false
-color: yellow
-menuIdentifier: about
+color: green
+menuIdentifier: none
 ---
 Quarteera e. V. — первое общегерманское объединение русскоязычных ЛГБТК+ мигрантов*ок, которое с 2011 года выступает за видимость русскоязычных ЛГБТК+ в Германии, в особенности среди русскоязычного населения, а также за повышение информированности о ЛГБТК+ среди русскоязычных людей. 
 

@@ -1,14 +1,19 @@
-{{ $posts := (where .Site.RegularPages "Section" "calendar") }}
+{{ $posts := (where .Site.RegularPages.ByDate "Section" "calendar") }}
+{{ $futurePosts := (where $posts "Date" ">=" now) }}
 {{ $postCount := len $posts }}
 {{ if gt $postCount 0 }}
 <div class="calendar">
     <div class="calendar-content">
-        <h2>{{ i18n "calendar" }}</h2>
         {{ $limit := .Scratch.Get "calendarLimit" }}
-        {{ range $index, $page := first $limit (where .Site.RegularPages.ByDate.Reverse "Section" "calendar" ) }}
-        {{ $color := cond (eq $index 0) "red" ( cond (eq $index 1) "orange" "yellow" ) }}
+
+        {{ if lt $limit 4 }}
+            <h2>{{ i18n "calendar" }}</h2>
+        {{ end }}
+
+        {{ range $index, $page := first $limit $futurePosts }}
+        {{ $color := cond (eq $index 0) "red" ( cond (eq $index 1) "orange" (cond (gt $page.Date now) "yellow" "blue") ) }}
         <a href="{{ .Permalink }}">
-            <div class="item red-dashed-border">
+            <div class="item {{ $color }}-dashed-border">
                 <div class="date {{ $color }}-text">
                     <p class="calendar-date">{{ .Params.day }}</p>
                     <p class="calendar-month">{{ .Params.month }}</p>
@@ -24,7 +29,7 @@
         </a>
         {{ end }}
 
-        {{ if lt $limit 4 }}
+        {{ if and (lt $limit 4) (gt $postCount 3) }}
             {{ $calendarPage := .Site.GetPage "/calendar"  }}
             {{ with $calendarPage }}
               <h4><a href="{{ $calendarPage.RelPermalink }}">{{ i18n "calendar-all" }}</a></h4>
