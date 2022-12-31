@@ -12,4 +12,4 @@ ourPartners: Unsere Partner
 
 In der Regel führt Quarteera Projekte mit finanzieller Unterstützung und mit Unterstützung bei der Öffentlichkeitsarbeit von Partnern durch. Zu den Partnern gehören sowohl deutsche Stiftungen und Organisationen in Zusammenarbeit mit Aktivist*innen und gemeinnützigen Organisationen aus Russland und den GUS-Staaten.
 
-In den 11 Jahren des Bestehens der Organisation haben wir mehr als XX Projekte abgeschlossen.
+In den 11 Jahren des Bestehens der Organisation haben wir mehr als 25 Projekte abgeschlossen.
