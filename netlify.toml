@@ -9,9 +9,16 @@ command = "hugo -b $DEPLOY_URL"
 command = "hugo -b $URL"
 
 [[redirects]]
-from = "/xxx"
-to = "https://qib17.quarteera.de"
+from = "/projects/marzahn_pride/"
+to = "https://www.marzahn-pride.de/"
 status = 301
+force = true
+
+[[redirects]]
+from = "/de/projects/marzahn_pride/"
+to = "https://www.marzahn-pride.de/de"
+status = 301
+force = true
 
 [[redirects]]
 from = "/de/*"
