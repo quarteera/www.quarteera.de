@@ -9,6 +9,54 @@ command = "hugo -b $DEPLOY_URL"
 command = "hugo -b $URL"
 
 [[redirects]]
+from = "/projects/marzahn_pride/"
+to = "https://www.marzahn-pride.de/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/de/projects/marzahn_pride/"
+to = "https://www.marzahn-pride.de/de"
+status = 301
+force = true
+
+[[redirects]]
+from = "/projects/qib17/"
+to = "https://qib17.quarteera.de/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/de/projects/qib17/"
+to = "https://qib17.quarteera.de/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/projects/qib18/"
+to = "https://qib18.quarteera.de/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/de/projects/qib18/"
+to = "https://qib18.quarteera.de/de.html"
+status = 301
+force = true
+
+[[redirects]]
+from = "/projects/qib16/"
+to = "http://quarteera.tilda.ws/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/de/projects/qib16/"
+to = "http://quarteera.tilda.ws/"
+status = 301
+force = true
+
+[[redirects]]
 from = "/de/*"
 to = "/de/404.html"
 status = 404
