@@ -1,6 +1,6 @@
 ---
 title: "Head of Marketing & Advocacy" # Title of your project
-date: 2022-01-06T16:51:38+01:00
+date: 2022-12-29T16:51:38+01:00
 weight: 0 # Order in which to show this project on the home page
 image: project.png
 draft: false
@@ -10,7 +10,7 @@ color: purple
 
 **Ab sofort** suchen wir **Head of Marketing & Advocacy (m/f/d)**, um diese Richtung der Arbeit in der Organisation aufzubauen und zu stärken. Die Stelle umfasst **40 St. wöchentlich** und ist vorerst bis **31.12.2023** befristet.
 
-**Standort: Berlin** \
+**Standort: Berlin**
 
 **Deine Aufgaben als Head of Marketing & Advocacy umfassen:**
 
