@@ -9,7 +9,7 @@ accent: false
 draft: false
 color: green
 menuIdentifier: projects
-aliases: [projekte/aufklaerungsarbeit]
+aliases: [/projekte/aufklaerungsarbeit]
 ---
 Wir freuen uns sehr, Ihnen diese neue Ausgabe der Publikation über das LGBTQ\*-Leben in den Ländern der Ex-UdSSR zu präsentieren. Die erste Version dieser Broschüre wurde vor neun Jahren, im Jahr 2012, veröffentlicht. Damals sahen wir einen großen Bedarf an solchen Informationen. Schließlich gibt es nicht viel, was ein\*e internationale\*r Leser\*in über die Situation von queeren Communities in Armenien, Aserbaidschan, Kirgisistan und anderen postsowjetischen Räumen finden kann. Man kann etwas über queeres Leben in den westlichen Ländern des ehemaligen Sowjetimperiums finden, wie z.B. der Ukraine, Belarus oder Litauen. Aber über den Kaukasus und Zentralasien ist kaum etwas zu lesen. Man könnte versucht sein, zu denken, dass es dort überhaupt kein queeres Leben und keinen Aktivismus gibt. Und das wäre furchtbar falsch. Wie diese Publikation zeigt, leben und lieben in all diesen Ländern LGBTQ\*-Menschen und kämpfen für ihre Rechte.
 
