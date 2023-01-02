@@ -29,4 +29,4 @@ Broschüre ist in den Bibliotheken erhältlich.
 
 ISBN 978-3-00-068446-3
 
-[Broschüre als PDF herunterladen >>>](http://quarteera.de/Quarteera_Die%20Situation_von_LGBTQ.pdf)
+[Broschüre als PDF herunterladen >>>](https://quarteera.de/files/Quarteera_Die%20Situation_von_LGBTQ.pdf)

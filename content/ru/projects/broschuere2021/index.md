@@ -14,4 +14,4 @@ menuIdentifier: projects
 
 Брошюра доступна в библиотеках Германии. ISBN 978-3-00-068446-3.
 
-[Скачать брошюру в формате PDF >>>](http://quarteera.de/Quarteera_Die%20Situation_von_LGBTQ.pdf)
+[Скачать брошюру в формате PDF >>>](https://quarteera.de/files/Quarteera_Die%20Situation_von_LGBTQ.pdf)
