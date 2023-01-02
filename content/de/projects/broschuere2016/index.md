@@ -18,7 +18,7 @@ Bestellen können Sie die Broschüre unter [info@quarteera.de](mailto:info@quar
 Empfohlene Summe – 3€ pro Broschüre. Sie können aber unsere Arbeit gerne mit 5€, 10€, 20€ usw unterstützen. \
 Information für [Spenden](https://www.quarteera.de/de/help/spenden).
 
-Ausserdem können Sie unsere Broschüre auch kostenlos aus PDF [herunterladen](https://quarteera.de/MythenUndFakten.pdf)
+Ausserdem können Sie unsere Broschüre auch kostenlos aus PDF [herunterladen](https://quarteera.de/files/MythenUndFakten.pdf)
 
 Ausserdem haben wir auch neue Postkarten und Aufkleber herausgebracht, mit Motiven aus der Broschure, illustriert von Eva Revolver. 6 verschiedene Postkarten und 3 Aufkleber mit Paaren, die sich umarmen bzw küssen.
 
