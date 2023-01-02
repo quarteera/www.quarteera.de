@@ -27,10 +27,15 @@ Unser Community-Zentrum ist für Sie da. Wenn Sie Ihre Veranstaltung bei uns dur
 Oderberger Straße 60 \
 10435 Berlin
 
-**Offene Sprechstunden der Sozialberatung in unserem Community-Zentrum** \
+Telefon: 030/28655588 \
+Fax: 030/28655589
+
+**Sprechstunden der Sozialberatung in unserem Beratungsbüro** \
 Mo: von 15 Uhr bis 18 Uhr \
 Mi: von 10 Uhr bis 13 Uhr \
 Do: von 15 Uhr bis 18 Uhr 
+
+**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
 
 Darüber hinaus findet Sozial-, Rechts- und psychologische Beratung nach Vereinbarung. Vereinbaren Sie bitte einen Termin [E-Mail](mailto:help@quarteera.de). 
 
@@ -45,7 +50,8 @@ Di: von 15:00 bis 20:00 \
 Fr: von 15:00 bis 20:00 
 
 **Sozialberatung:**  \
-von 15:00 bis 17:00 
+von 15:00 bis 17:00 \
+**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
 
 **Veranstaltungen:** \
 von 18:00 bis 20:00 
