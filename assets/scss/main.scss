@@ -465,7 +465,8 @@ body {
 
     .item {
       flex-direction: column;
-      width: 20rem;
+      margin: 1rem 1rem 0 1rem;
+      width: calc(100vw - 2rem);
     }
 
     h3 {
@@ -609,7 +610,7 @@ body {
     display: block;
     padding: 1rem;
     margin: 0 1rem 1rem 1rem;
-
+    width: calc(100% - 2rem);
     img {
       width: 30%;
       height: 30%;
@@ -676,6 +677,11 @@ body {
   .logo { margin-right: 1rem; }
   .partner-logos { margin: 1rem; }
   .page-heading { margin: 1rem 0 .5rem 0; }
+  .page-content {
+    margin: 1rem 0 .5rem 0;
+    padding: 0 1rem 1rem 1rem;
+  }
+
 }
 // disable animation on page load:
 // https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only
