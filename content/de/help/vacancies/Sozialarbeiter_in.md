@@ -3,7 +3,7 @@ title: "Stellenausschreibung Sozialarbeiter*in bzw. Sozialrechtsberater*in" # Ti
 date: 2022-12-02T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: project.png
-draft: false
+draft: true
 menuIdentifier: help
 color: purple
 ---

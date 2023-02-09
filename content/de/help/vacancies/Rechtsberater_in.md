@@ -45,7 +45,7 @@ Die Stelle, derzeit im Umfang von **10 Stunden pro Woche**, ist zunächst für *
 
 Verlängerung und/oder Stundenerweiterung sind möglich. 
 
-Wir freuen uns auf Deine aussagekräftige Bewerbung (Lebenslauf, Motivationsschreiben und relevante Zeugnisse) bis zum 30. November 2022 per E-Mail an: [bewerbung@quarteera.de](bewerbung@quarteera.de)
+Wir freuen uns auf Deine aussagekräftige Bewerbung (Lebenslauf, Motivationsschreiben und relevante Zeugnisse) per E-Mail an: [bewerbung@quarteera.de](bewerbung@quarteera.de)
 
 Wir behalten es uns vor bereits vor Ablauf der Bewerbungsfrist geeignete Kandidat*innen einzuladen. Die Bewerbungsgespräche finden zeitnah in Berlin oder online statt.
 
