@@ -1,7 +1,7 @@
 {{ $posts := (where .Site.RegularPages.ByDate "Section" "calendar") }}
 {{ $futurePosts := (where $posts "Date" ">=" now) }}
 {{ $postCount := len $posts }}
-{{ if gt $postCount 0 }}
+{{ if and (eq $postCount nil) (gt $postCount 0) }}
 <div class="calendar">
     <div class="calendar-content">
         {{ $limit := .Scratch.Get "calendarLimit" }}
@@ -36,6 +36,13 @@
             {{ end }}
         {{ end }}
 
+    </div>
+</div>
+{{ else }}
+<div class="calendar">
+    <div class="calendar-content">
+        <iframe width="680" height="382" src="https://www.youtube-nocookie.com/embed/T_ZwDwspgeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
     </div>
 </div>
 {{ end }}
