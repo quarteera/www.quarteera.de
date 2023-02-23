@@ -2,12 +2,14 @@
 title: "Волонтерство в Квартире" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 0 # Order in which to show this project on the home page
-image: project.png
+image: volunteer.png
 draft: false
 menuIdentifier: help
 color: purple
 linktitle: Присоединиться
 ---
+
+{{< figure src="volunteer.png" class="article-image" caption="волонтерство в Квартире">}}
 
 Спасибо большое за ваш интерес к волонтерской деятельности и желание помогать Quarteera.
 
