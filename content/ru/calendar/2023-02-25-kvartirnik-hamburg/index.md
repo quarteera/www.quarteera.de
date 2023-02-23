@@ -5,7 +5,7 @@ date: 2023-02-25T19:00:00+01:00
 day: 25
 month: февраля
 time: 15:00
-image: 20230225hamburg.JPG
+image: 
 draft: false
 place: Glashüttenstraße, 2, 20357 Hamburg
 ---
