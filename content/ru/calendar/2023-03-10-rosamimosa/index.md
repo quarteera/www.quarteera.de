@@ -1,6 +1,6 @@
 ---
 title: Квир фем фестиваль ROSAMIMOSA
-publishdate : 2023-02-27T16:00:00+01:00
+publishdate : 2023-02-27T13:00:00+01:00
 date: 2023-03-10T16:00:00+01:00
 day: 10
 month: марта
