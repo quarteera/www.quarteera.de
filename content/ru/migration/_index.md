@@ -3,7 +3,7 @@ title: Миграция
 date: 2022-01-06T16:51:38+01:00
 weight: 4
 alt: some alt textf
-image: 276001555_1645644882.jpeg
+image: migration.png
 draft: false
 color: red
 menuIdentifier: migration
