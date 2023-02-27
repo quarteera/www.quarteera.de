@@ -174,7 +174,7 @@ img { border-radius: .25rem; }
   background-color: white;
   max-width: 800px;
   padding: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
   width: 100%;
   align-items: center;
 
@@ -469,11 +469,6 @@ body {
       width: calc(100vw - 2rem);
     }
 
-    h3 {
-      padding: .75rem 0;
-      text-align: center;
-    }
-
     .time-location {
       flex-direction: column-reverse;
       padding: 0rem;
@@ -485,8 +480,14 @@ body {
       }
     }
   }
+
+  h3 {
+    padding: .75rem 0 0;
+    text-align: center;
+  }
+  
   .regular-section-help, .regular-list-item {
-    margin: 0 1rem 1rem 1rem;
+    margin: 0 1rem 2rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
   }
