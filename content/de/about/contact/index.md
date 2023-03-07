@@ -35,7 +35,10 @@ Mo: von 15 Uhr bis 18 Uhr \
 Mi: von 10 Uhr bis 13 Uhr \
 Do: von 15 Uhr bis 18 Uhr 
 
-**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
+**Wichtige Informationen zur Beratung**
+
+❌ 08.03.2023 ist ein Feiertag in Berlin, an diesem Tag findet keine Sprechstunde statt
+
 
 Darüber hinaus findet Sozial-, Rechts- und psychologische Beratung nach Vereinbarung. Vereinbaren Sie bitte einen Termin [E-Mail](mailto:help@quarteera.de). 
 
