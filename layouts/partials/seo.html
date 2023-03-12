@@ -1,20 +1,31 @@
 <link rel="shortcut icon" href="/favicon32.png" type="image/png">
 <link rel="shortcut icon" href="/favicon64.png" type="image/png">
 <link rel="shortcut icon" href="/favicon128.png" type="image/png">
-<link rel="canonical" href="https://www.quarteera.de/">
-<link rel="alternate" hreflang="x-default" href="https://www.quarteera.de/" />
-<link rel="alternate" hreflang="de" href="https://www.quarteera.de/de" />
-<link rel="alternate" hreflang="ru" href="https://www.quarteera.de/" />
-<meta name="description" content="Quarteera e. V. — это сообщество ЛГБТК+ людей, живущих в Германии и общающихся на русском языке. Наша задача — противодействовать множественной дискриминации квир-людей с миграционным опытом."/>
+<link rel="canonical" href="{{ .Page.Permalink }}">
+{{- if .Site.IsMultiLingual -}}
+{{ range first 1 .AllTranslations }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+{{- end -}}
+{{ range $.Translations }}
+<link rel="alternate" hreflang="{{ .Language.LanguageName}}" href="{{ .Permalink }}" />
+<meta property="og:locale:alternate" content="{{ if eq .Language.LanguageName "RU" }}ru_RU{{ else }}de_DE{{ end }}"/>
+{{- end -}}
+{{ end }}
+<meta property="og:locale" content="{{ if eq .Language.LanguageName "RU" }}ru_RU{{ else }}de_DE{{ end }}"/>
 <meta name="keywords" content="LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo CSD Marzahn Pride Berlin"/>
 <meta property="og:type" content="website"/>
-<meta property="og:site_name" content="Quarteera"/>
-<meta property="og:description" content="Quarteera e. V. - это сообщество ЛГБТК+ людей, живущих в Германии и общающихся на русском языке. "/>
-<meta property="og:title" content="Quarteera e. V."/>
+<meta property="og:site_name" content="{{ .Site.Title}} | {{ .Title }}"/>
+<meta property="og:title" content="{{ .Site.Title}} | {{ .Title }}"/>
 <meta property="og:url" content="https://www.quarteera.de/"/>
-<meta property="og:site_name" content="https://www.quarteera.de/"/>
-<meta property="og:locale" content="ru_RU"/>
-<meta property="og:locale:alternate" content="de_DE" />
+<meta property="og:site_name" content="{{ .Site.Title}}"/>
+{{  if eq .Site.Language.LanguageName "DE" }}
+<meta property="og:description" content="Quarteera e. V. - Vereinigung von LGBTQ+ Personen, die in Deutschland leben und Russich sprechen. "/>
+<meta name="description" content="Quarteera e. V. — Vereinigung von LGBTQ+ Personen, die in Deutschland leben und Russich sprechen. Unsere Mission — der Diskriminierung von Queeren Personen mit Migrationshintergrund entgegenzuwirken."/>
+{{ end }}
+{{ if eq .Site.Language.LanguageName "RU" }}
+<meta property="og:description" content="Quarteera e. V. - это сообщество ЛГБТК+ людей, живущих в Германии и общающихся на русском языке. "/>
+<meta name="description" content="Quarteera e. V. — это сообщество ЛГБТК+ людей, живущих в Германии и общающихся на русском языке. Наша задача — противодействовать множественной дискриминации квир-людей с миграционным опытом."/>
+{{ end }}
 <meta property="fb:pages" content="188048734548939"/>
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
