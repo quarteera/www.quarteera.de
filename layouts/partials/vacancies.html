@@ -1,0 +1,3 @@
+{{ if and (eq ($.Param "add_scripts.vacancy") "Volljurist") (eq .Site.Language.LanguageName "DE")}}
+    {{- partial "vacancies/volljurist.html" . -}}
+{{ end }}
