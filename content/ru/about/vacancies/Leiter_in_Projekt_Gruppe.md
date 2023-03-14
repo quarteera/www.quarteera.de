@@ -2,10 +2,10 @@
 title: "Leiter:in des Bereichs Fördermittelakquise und Projektmanagement" # Title of your project
 date: 2023-02-09T16:51:38+01:00
 weight: 3 # Order in which to show this project on the home page
-image: project.png
+image: vacancies.png
 draft: false
-menuIdentifier: help
-color: purple
+menuIdentifier: about
+color: yellow
 ---
 
 **Ab sofort** suchen wir **Leiter:in des Bereichs Fördermittelakquise und Projektmanagement (m/f/d)**, um diese Richtung der Arbeit in der Organisation aufzubauen und zu stärken. Die Stelle umfasst **40 St. wöchentlich** und ist vorerst bis **31.12.2023** befristet.
