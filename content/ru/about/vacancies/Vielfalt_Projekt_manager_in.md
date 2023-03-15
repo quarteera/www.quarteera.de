@@ -2,10 +2,10 @@
 title: "Projektkoordinator:in Vielfalt vor Ort" # Title of your project
 date: 2023-02-09T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
-image: project.png
+image: vacancies.png
 draft: false
-menuIdentifier: help
-color: purple
+menuIdentifier: about
+color: yellow
 ---
 
 **Ab sofort** suchen wir **Projektkoordinator:in im Bereich politische Bildung mit Schwerpunkt LSBTQ+ und Migration ab sofort in Vollzeit**  zunächst bis 31.12.2023 befristet.
