@@ -2,10 +2,10 @@
 title: "Volljurist*in mit Russischkenntnissen (Schwerpunkt Migration und Flucht)" # Title of your project
 date: 2023-02-09T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
-image: project.png
+image: vacancies.png
 draft: false
-menuIdentifier: help
-color: purple
+color: yellow
+menuIdentifier: about
 ---
 **Ab sofort** suchen wir **eine\*n Volljurist\*in** zur Unterstützung unseres Beratungsteams.
 

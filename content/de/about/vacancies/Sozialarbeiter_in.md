@@ -2,10 +2,10 @@
 title: "Stellenausschreibung Sozialarbeiter*in bzw. Sozialrechtsberater*in" # Title of your project
 date: 2022-12-02T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
-image: project.png
+image: vacancies.png
 draft: true
-menuIdentifier: help
-color: purple
+color: yellow
+menuIdentifier: about
 ---
 
 Wir suchen **ab sofort** eine\*n Sozialarbeiter\*in bzw. Sozialrechtsberater\*in für unser Beratungszentrum in
