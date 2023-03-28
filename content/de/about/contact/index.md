@@ -1,7 +1,7 @@
 ---
 title: "Unsere Büros" # Title of your project
 date: 2022-12-03T16:51:38+01:00
-weight: 160 # Order in which to show this project on the home page
+weight: 10 # Order in which to show this project on the home page
 image: 
 alt: "Büro"
 summary: Unsere Adressen und Öffnungszeiten
@@ -34,8 +34,6 @@ Fax: 030/28655589
 Mo: von 15 Uhr bis 18 Uhr \
 Mi: von 10 Uhr bis 13 Uhr \
 Do: von 15 Uhr bis 18 Uhr 
-
-**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
 
 Darüber hinaus findet Sozial-, Rechts- und psychologische Beratung nach Vereinbarung. Vereinbaren Sie bitte einen Termin [E-Mail](mailto:help@quarteera.de). 
 
