@@ -44,15 +44,8 @@ Boizenburger Str. 52-54 \
 12619 Berlin
 
 **Öffnungszeiten:** \
-Di: von 15:00 bis 20:00 \
-Fr: von 15:00 bis 20:00 
-
-**Sozialberatung:**  \
-von 15:00 bis 17:00 \
-**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
-
-**Veranstaltungen:** \
-von 18:00 bis 20:00 
+Di: von 18:00 bis 20:00 \
+Fr: von 18:00 bis 20:00
 
 ## Postanschrift ##
 
