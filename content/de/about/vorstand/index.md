@@ -11,19 +11,19 @@ menuIdentifier: about
 ---
 ## Vorstandsmitglieder (Herbst 2022 - Herbst 2023)
  
-Nurmukhametov, Denis\
-Vorstandsmitglied, Schatzmeister\
+**Nurmukhametov, Denis**\
+Vorstandsmitglied, Schatzmeister
  
-Ogurtsova, Ekaterina\
-Vorstandsmitglied, Schatzmeisterin\
+**Ogurtsova, Ekaterina**\
+Vorstandsmitglied, Schatzmeisterin
 
-Paramonov, Dmitrij\
-Vorstandsvorsitzende\
+**Paramonov, Dmitrij**\
+Vorstandsvorsitzende
 
-Shaytanova, Svetlana\
-Vorstandvorsitzende\
+**Shaytanova, Svetlana**\
+Vorstandvorsitzende
 
-Troshkov, Ilia\
-Vorstandvorsitzende\
+**Troshkov, Ilia**\
+Vorstandvorsitzende
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [vorstand@quarteera.de](mailto:vorstand@quarteera.de). 

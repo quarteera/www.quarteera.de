@@ -10,4 +10,4 @@ color: yellow
 menuIdentifier: about
 ---
 
-Unsere offenen Stellen: 
+Наши открытые позиции (на немецком): 

@@ -1,7 +1,7 @@
 {{ $posts := (where .Site.RegularPages.ByDate "Section" "calendar") }}
 {{ $futurePosts := (where $posts "Date" ">=" now) }}
 {{ $postCount := len $posts }}
-{{$futurePosts}}
+
 {{ if or (eq $futurePosts nil) (lt $futurePosts 1) }}
 <div class="calendar">
     <div class="calendar-content">
