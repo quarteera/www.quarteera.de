@@ -12,17 +12,19 @@ menuIdentifier: about
 
 ## Состав действующего Правления (осень 2022 - осень 2023 гг.)
 
- 
 Денис Нурмухаметов\
 Член Правления, Казначей\
-[denis@quarteera.de](mailto:denis@quarteera.de) 
 
 Екатерина Огурцова\
 Членка Правления, Казначейка\
-[katja.ogurtsova@quarteera.de](mailto:katja.ogurtsova@quarteera.de)
+
+Дмитрий Парамонов\
+Член Правления\
+
+Илья Трошков\
+Член Правления\
 
 Светлана Шайтанова\
 Членка Правления\
-[svetlana.shaytanova@quarteera.de ](mailto:svetlana.shaytanova@quarteera.de ) 
 
 По всем вопросам и предложениям вы можете связаться с нами по адресу [vorstand@quarteera.de](mailto:vorstand@quarteera.de).
