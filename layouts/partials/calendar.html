@@ -1,7 +1,8 @@
 {{ $posts := (where .Site.RegularPages.ByDate "Section" "calendar") }}
 {{ $futurePosts := (where $posts "Date" ">=" now) }}
 {{ $postCount := len $posts }}
-{{ if or (eq $postCount nil) (lt $postCount 0) }}
+
+{{ if or (eq $futurePosts nil) (lt $futurePosts 1) }}
 <div class="calendar">
     <div class="calendar-content">
         <iframe width="680" height="382" src="https://www.youtube-nocookie.com/embed/T_ZwDwspgeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

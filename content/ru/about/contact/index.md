@@ -1,7 +1,7 @@
 ---
 title: "Наш адрес" # Title of your project
 date: 2022-12-03T16:51:38+01:00
-weight: 160 # Order in which to show this project on the home page
+weight: 10 # Order in which to show this project on the home page
 image: 
 alt: "Офис"
 summary: Адреса наших офисов и часы работы
@@ -34,8 +34,6 @@ Oderberger Straße 60 \
 Пн: с 15:00 до 18:00 \
 Ср: с 10:00 до 13:00 \
 Чт: с 15:00 до 18:00
-
-**Внимание! Дни без социальных консультаций: 01.01-16.01.2023**
 
 Кроме того проходят социальные, юридические и психологические консультации по записи. Записаться можно по [емайлу](mailto:help@quarteera.de). 
 
