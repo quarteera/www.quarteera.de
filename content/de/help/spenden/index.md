@@ -30,7 +30,7 @@ Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-m
 ### Aktuelle Projekte, die dringende Unterstützung brauchen:
 - Aufklärungsarbeit für russischsprachige Community in Deutschland,
 - Unterstützung und Beratung von russischsprachigen LGBTQ*-Migrant*innen und Geflüchteten,
-- Aufbau eines Community-Zentrum für russischsprachige LGBTQ*-Migrant*innen
+- Entwicklung eines Community-Zentrum
 - Laufende Projekte.
 
 Außerdem können Sie Quarteeras Broschüre ["Mythen und Fakten über Schwule, Lesben und Bisexuelle](http://www.quarteera.de/blog/broshura)” (auf Russisch, 104 Seiten) gegen ein Spende bestellen, sowie unsere Postkarten und Aufkleber oder auch ВЗАИМОПОДДЕРЖКА-Armbänder.
