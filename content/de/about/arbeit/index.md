@@ -39,7 +39,7 @@ Ein weiteres Arbeitsgebiet ist die Kunst russischsprachiger queerer Menschen.
 - 2021, Ausstellung "Hassverbrechen gegen LGBTIQ* in Russland», gefördert von der Rosa-Luxemburg-Stiftung.
 - 2020, Ausstellung und Podiumsdiskussion "Hassverbrechen gegen LGBTIQ* in Russland", gefördert von der Rosa-Luxemburg-Stiftung.
 Bildungsreise "Kunst als Instrument der politischen Bildung", gefördert durch das Zivilgesellschaftsforum EU-Russland.
-- 2019, Kunstprojekt "Garten" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
+- 2019, Kunstprojekt "[Garten](https://vimeo.com/433780809)" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
 
 ## 4. Politische Aufklärung
 
