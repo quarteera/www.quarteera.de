@@ -4,8 +4,8 @@ date: 2023-02-09T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
 draft: false
-color: yellow
 menuIdentifier: about
+color: yellow
 ---
 
 **Ab sofort** suchen wir **Projektkoordinator:in im Bereich politische Bildung mit Schwerpunkt LSBTQ+ und Migration ab sofort in Vollzeit**  zunächst bis 31.12.2023 befristet.
@@ -23,7 +23,7 @@ Zur  Umsetzung  des  Modellprojektes  politischer  Bildung  “Vielfalt  vor  Or
 - Vertretung des Projektes in der Öffentlichkeit und Akquise neuer Kooperationspartner
 - Sicherung der Projektwirtschaftlichkeit
 - Pflege der Kooperation mit der Stiftung Akademie Waldschlösschen
-
+ 
 **Wir erwarten von Dir:**
 
 - abgeschlossenes Studium

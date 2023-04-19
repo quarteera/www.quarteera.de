@@ -1,7 +1,7 @@
 ---
 title: "Geschichte von Quarteera" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 50 # Order in which to show this project on the home page
+weight: 150 # Order in which to show this project on the home page
 image: history.png
 alt: "some alt text"
 summary: "Wir wollen die wichtigsten Meilensteine in der Geschichte von Quarteera darstellen."
