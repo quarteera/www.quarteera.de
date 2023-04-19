@@ -22,6 +22,8 @@ Der zweite Arbeitsbereich betrifft die Berichterstattung über die Situation que
 
 ### Liste der umgesetzten Projekte:
 
+- 2022, Häusliche Gewalt in queeren Partnerschaften. 
+- 2022, [Treffen der russischsprachigen Eltern von LGBT](http://eltern2022.tilda.ws/). 
 - 2021, [Entwicklung der studentischen Queer-Bewegung in Russland](/projects/qib21/).
 - 2020, [LGBTQ*-Aufklärung an russischen Universitäten](https://qib20.quarteera.de/).
 - 2018, [Treffen mit russischsprachigen LGBTIQ*-Aktivist*innen und LGBTQ*-freundlichen Blogger*innen](https://qib18.quarteera.de/).
