@@ -67,4 +67,4 @@ Der diesjährige Marzahn Pride entfernt sich vom extern vergebenen und einengend
 
 Am 24. Februar 2022 hat Putin einen Angriffskrieg gegen die Ukraine begonnen und seitdem hat sich das Leben von Millionen Menschen verändert. Wir sind einer von ihnen. Da wir eine der wenigen großen russischsprachigen LGBTQ*-Organisationen in Deutschland sind, haben wir erkannt, dass wir die notwendigen Ressourcen haben, um LGBTQ*-Menschen aus der Ukraine zu helfen. Darauf haben sich seit den ersten Kriegstagen alle unsere Bemühungen konzentriert. In sehr kurzer Zeit haben wir [ein effektives System erstellt](/projects/help_ukraine/), das ausschließlich auf freiwilligen Ressourcen basiert. Wir helfen Menschen bei der Anreise nach Berlin, der Wohnungssuche, der Versorgung mit den notwendigen Dingen des täglichen Lebens, der Lebensmittelbeschaffung sowie rechtlicher und psychologischer Beratung. 
 
-(УТОЧНИТЬ ЦИФРЫ) Insgesamt haben wir seit Kriegsbeginn fast 300 Menschen und 27 Haustieren geholfen, die aus der Ukraine nach Deutschland kamen.
+Insgesamt haben wir seit Kriegsbeginn fast 300 Menschen und 27 Haustieren geholfen, die aus der Ukraine nach Deutschland kamen.
