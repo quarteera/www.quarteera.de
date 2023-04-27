@@ -28,7 +28,7 @@ Seit der ersten Tage des Krieges ist Quarteera aktiv an der Unterstützung von L
 
 ### 2019
 - In Zusammenarbeit mit Akademie Waldschlösschen startet das Projekt "[Разнообразие heißt Vielfallt](/projects/raznoobrasije/)"
-- Projekt "GARDEN"
+- Projekt "[GARDEN](https://vimeo.com/433780809)"
 
 ### 2018
 - Das Projekt "[Treffen von russischsprachigen LGBTQ\*-Aktivist*innen und LGBTQ\*-freundlichen Blogger*innen](https://qib18.quarteera.de/)" wird mit finanzieller Unterstütung des Auswärtigen Amtes durchgeführt.

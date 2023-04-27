@@ -22,6 +22,8 @@ Der zweite Arbeitsbereich betrifft die Berichterstattung über die Situation que
 
 ### Liste der umgesetzten Projekte:
 
+- 2022, Häusliche Gewalt in queeren Partnerschaften. 
+- 2022, [Treffen der russischsprachigen Eltern von LGBT](http://eltern2022.tilda.ws/). 
 - 2021, [Entwicklung der studentischen Queer-Bewegung in Russland](/projects/qib21/).
 - 2020, [LGBTQ*-Aufklärung an russischen Universitäten](https://qib20.quarteera.de/).
 - 2018, [Treffen mit russischsprachigen LGBTIQ*-Aktivist*innen und LGBTQ*-freundlichen Blogger*innen](https://qib18.quarteera.de/).
@@ -37,7 +39,7 @@ Ein weiteres Arbeitsgebiet ist die Kunst russischsprachiger queerer Menschen.
 - 2021, Ausstellung "Hassverbrechen gegen LGBTIQ* in Russland», gefördert von der Rosa-Luxemburg-Stiftung.
 - 2020, Ausstellung und Podiumsdiskussion "Hassverbrechen gegen LGBTIQ* in Russland", gefördert von der Rosa-Luxemburg-Stiftung.
 Bildungsreise "Kunst als Instrument der politischen Bildung", gefördert durch das Zivilgesellschaftsforum EU-Russland.
-- 2019, Kunstprojekt "Garten" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
+- 2019, Kunstprojekt "[Garten](https://vimeo.com/433780809)" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
 
 ## 4. Politische Aufklärung
 
@@ -67,4 +69,4 @@ Der diesjährige Marzahn Pride entfernt sich vom extern vergebenen und einengend
 
 Am 24. Februar 2022 hat Putin einen Angriffskrieg gegen die Ukraine begonnen und seitdem hat sich das Leben von Millionen Menschen verändert. Wir sind einer von ihnen. Da wir eine der wenigen großen russischsprachigen LGBTQ*-Organisationen in Deutschland sind, haben wir erkannt, dass wir die notwendigen Ressourcen haben, um LGBTQ*-Menschen aus der Ukraine zu helfen. Darauf haben sich seit den ersten Kriegstagen alle unsere Bemühungen konzentriert. In sehr kurzer Zeit haben wir [ein effektives System erstellt](/projects/help_ukraine/), das ausschließlich auf freiwilligen Ressourcen basiert. Wir helfen Menschen bei der Anreise nach Berlin, der Wohnungssuche, der Versorgung mit den notwendigen Dingen des täglichen Lebens, der Lebensmittelbeschaffung sowie rechtlicher und psychologischer Beratung. 
 
-(УТОЧНИТЬ ЦИФРЫ) Insgesamt haben wir seit Kriegsbeginn fast 300 Menschen und 27 Haustieren geholfen, die aus der Ukraine nach Deutschland kamen.
+Insgesamt haben wir seit Kriegsbeginn fast 300 Menschen und 27 Haustieren geholfen, die aus der Ukraine nach Deutschland kamen.
