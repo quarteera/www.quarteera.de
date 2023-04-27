@@ -1,6 +1,6 @@
 ---
 title: "Kontakt für Medienvertreter*innen"
-date: 2023-04-27T19:31:52+01:00
+date: 2023-04-27T17:31:52+01:00
 draft: false
 image:
 ---
