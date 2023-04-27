@@ -15,7 +15,7 @@ menuIdentifier: about
 Vorstandsvorsitzender
 
 **Troshkov, Ilia**\
-Vorstandvorsitzender
+Vorstandsvorsitzender
 
 **Nurmukhametov, Denis**\
 Vorstandsmitglied, Schatzmeister
