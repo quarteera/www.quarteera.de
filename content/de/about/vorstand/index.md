@@ -1,6 +1,6 @@
 ---
 title: "Vorstand" # Title of your project
-date: 2022-12-03T16:51:38+01:00
+date: 2023-04-27T16:51:38+01:00
 weight: 150 # Order in which to show this project on the home page
 image: vorstand.png
 alt: "Vorstand 2021"
@@ -9,21 +9,15 @@ draft: false
 color: yellow
 menuIdentifier: about
 ---
-## Vorstandsmitglieder (Herbst 2022 - Herbst 2023)
- 
-**Nurmukhametov, Denis**\
-Vorstandsmitglied, Schatzmeister
- 
-**Ogurtsova, Ekaterina**\
-Vorstandsmitglied, Schatzmeisterin
+## Vorstandsmitglieder (Frühling 2023 - Herbst 2023)
 
 **Paramonov, Dmitrij**\
-Vorstandsvorsitzende
-
-**Shaytanova, Svetlana**\
-Vorstandvorsitzende
+Vorstandsvorsitzender
 
 **Troshkov, Ilia**\
-Vorstandvorsitzende
+Vorstandsvorsitzender
+
+**Nurmukhametov, Denis**\
+Vorstandsmitglied, Schatzmeister
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [vorstand@quarteera.de](mailto:vorstand@quarteera.de). 
