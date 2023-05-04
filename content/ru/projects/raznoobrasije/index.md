@@ -1,7 +1,7 @@
 ---
 title: "Разнообразие" # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 50 # Order in which to show this project on the home page
+weight: 3 # Order in which to show this project on the home page
 image: raznoobrazie_new.png
 alt: "some alt text"
 summary: "Типовой проект в рамках программы «Модернизация и развитие структур гражданского образования для взрослых – усиление и диверсификация» Федерального агентства по гражданскому образованию"
