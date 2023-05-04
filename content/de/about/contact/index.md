@@ -35,6 +35,8 @@ Mo: von 15 Uhr bis 18 Uhr \
 Mi: von 10 Uhr bis 13 Uhr \
 Do: von 15 Uhr bis 18 Uhr 
 
+Achtung: Wir bearbeiten keine Anfragen an Wochenenden und gesetzlichen Feiertagen. Die Sprechstunden unserer Beratungen fallen an gesetzlichen Feiertagen aus: 07.04., 10.04., 01.05., 18.05., 29.05., 03.10., 25.12., 26.12.
+
 Darüber hinaus findet Sozial-, Rechts- und psychologische Beratung nach Vereinbarung. Vereinbaren Sie bitte einen Termin [E-Mail](mailto:help@quarteera.de). 
 
 ## Büro in Marzahn ##
@@ -44,15 +46,8 @@ Boizenburger Str. 52-54 \
 12619 Berlin
 
 **Öffnungszeiten:** \
-Di: von 15:00 bis 20:00 \
-Fr: von 15:00 bis 20:00 
-
-**Sozialberatung:**  \
-von 15:00 bis 17:00 \
-**Achtung! Tagen ohne Sozialberatung im neunen Jahr: 01.01-16.01.2023**
-
-**Veranstaltungen:** \
-von 18:00 bis 20:00 
+Di: von 18:00 bis 20:00 \
+Fr: von 18:00 bis 20:00
 
 ## Postanschrift ##
 
