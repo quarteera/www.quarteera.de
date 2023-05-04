@@ -11,7 +11,7 @@ color: green
 menuIdentifier: projects
 ---
 
-## История развития студенческого квир-движения Германии ##
+## Queere Studierendenvertretungen in Deutschland: Geschichte und Kontext ##
 
 An jeder deutschen Universität gibt es eine offizielle Vertretung oder Referat, die sich mit den Interessen queerer Studierender beschäftigen. Solche Referate sind in die allgemeinen Hochschulstrukturen integriert, werden auf allen Ebenen ernst genommen und ihre Existenz verwundert niemanden mehr. Im Jahr 2021 feierten das erste Referat für Schwule an einer deutschen Universität den 40. Geburtstag. 
  {{< figure src="qib21-geschichte-1.jpeg" class="article-image" caption="die „Erste internationale Tagung für Sexualreform auf sexualwissenschaftlicher Grundlage“ in Berlin, 1921">}}
