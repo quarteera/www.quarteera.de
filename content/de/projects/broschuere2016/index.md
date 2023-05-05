@@ -1,7 +1,7 @@
 ---
 title: "Broschüre" # Title of your project
 date: 2017-01-06T16:38:20+01:00
-weight: 5 # Order in which to show this project on the home page
+weight: 20 # Order in which to show this project on the home page
 image: logo.jpg
 alt: "Broshüre"
 summary: "Mythen und Fakten über LGB, 2016"

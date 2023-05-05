@@ -1,7 +1,7 @@
 ---
 title: "Однополый онлайн-брак в Юте (США)" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 6 # Order in which to show this project on the home page
+weight: 1 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
 summary: "Экспертное мнение Quarteera о действительности однополых онлайн-браков в Германии"

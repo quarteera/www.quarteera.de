@@ -1,7 +1,7 @@
 ---
 title: "Geflüchtetenstatus in Deutschland für LGBTQ*. Fragen und Antworten" # Title of your project
 date: 2022-12-03T16:51:38+01:00
-weight: 2 # Order in which to show this project on the home page
+weight: 30 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
 summary: "In Zusammenarbeit mit LGBT-Flüchtlingen und Anwälten beantwortet Quarteera häufig gestellte Fragen zum Thema Asyl"

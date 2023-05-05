@@ -1,7 +1,7 @@
 ---
 title: Queer-Gruppen an Universitäten
 date: 2022-01-06T16:38:20+01:00
-weight: 12 # Order in which to show this project on the home page
+weight: 60 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Das Projekt ist eine Fortführung des erfolgreichen Projekts “Aufklärung über LGBTQ* an Hochschulen in Russland” aus dem Jahr 2020. 
 alt: Entwicklung studentischer Queer-Bewegungen in Russland  
