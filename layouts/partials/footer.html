@@ -4,7 +4,7 @@
     {{ range $sections.ByWeight }}
       <div class="footer-section">
         <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
-        {{ range first 4 .Pages.ByWeight }}
+        {{ range first 4 .Pages.ByWeight.Reverse }}
             <a href="{{.Permalink}}">{{.Title}}</a>
         {{ end }}
       </div>

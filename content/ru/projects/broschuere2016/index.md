@@ -1,7 +1,7 @@
 ---
 title: "Брошюра" # Title of your project
 date: 2017-01-06T16:38:20+01:00
-weight: 5 # Order in which to show this project on the home page
+weight: 20 # Order in which to show this project on the home page
 image: logo.jpg
 alt: "Брошюра"
 summary: "Мифы и факты о ЛГБ, 2016"
