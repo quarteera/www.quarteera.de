@@ -1,7 +1,7 @@
 ---
 title: Eine kurze Geschichte der Queer-Referaten 
 date: 2022-01-06T16:38:20+01:00
-weight: 11 # Order in which to show this project on the home page
+weight: 80 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Dieses Material ist im Rahmen des Projekts „Entwicklung studentischer Queer-Bewegungen in Russland “ im Jahr 2021 entstanden.
 alt: Entwicklung studentischer Queer-Bewegungen in Russland 

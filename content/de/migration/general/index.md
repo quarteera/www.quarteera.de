@@ -1,7 +1,7 @@
 ---
 title: "Allgemeine Informationen zum Umzug nach Deutschland" # Title of your project
 date: 2022-12-02T16:51:38+01:00
-weight: 4 # Order in which to show this project on the home page
+weight: 50 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
 summary: "Nützliche Links"

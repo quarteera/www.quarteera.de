@@ -1,7 +1,7 @@
 ---
 title: "Проект против насилия в квир-партнёрствах" # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 50 # Order in which to show this project on the home page
+weight: 100 # Order in which to show this project on the home page
 image: Violence_logo.png
 alt: "some alt text"
 summary: "Кампанией #скаживтишину мы хотим начать разговор о проблеме домашнего насилия в квир-партнёрствах и снять пелену замалчивания прежде всего внутри самого ЛГБТК+ сообщества, а также среди организаций помощи"

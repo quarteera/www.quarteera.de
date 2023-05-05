@@ -1,7 +1,7 @@
 ---
 title: "Broschüre" # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 39 # Order in which to show this project on the home page
+weight: 90 # Order in which to show this project on the home page
 image: logo.png
 alt: "Broshüre"
 summary: "Die Situation von LGBTQ*-Personen in den Staaten der ehemaligen UdSSR, 2021"

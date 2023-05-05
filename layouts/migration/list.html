@@ -8,7 +8,7 @@
   <div class="page-content">
     <p>{{ .Content }}</p>
   </div>
-  {{ range .Pages.ByWeight }}
+  {{ range .Pages.ByWeight.Reverse }}
   <a href="{{ .Permalink }}"  class="regular-section {{ .Params.color }}-dashed-border">
     {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
     {{ $img := .Resources.GetMatch (.Params.image) }}
