@@ -1,7 +1,7 @@
 ---
 title: "Wir in den Medien" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 300 # Order in which to show this project on the home page
+weight: 10 # Order in which to show this project on the home page
 image: press.png
 alt: "some alt text"
 summary:  “Wir arbeiten aktiv mit Medien weltweit zusammen. Unser Ziel ist es, die Sichtbarkeit von russischsprachigen LGBTQ* in Deutschland und das Bewusstsein für LGBTQ* unter russischsprachigen Menschen zu fördern.”

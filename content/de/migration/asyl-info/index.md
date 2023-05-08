@@ -1,7 +1,7 @@
 ---
 title: "Geflüchtetenstatus in Deutschland für LGBTQ*. Links." # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 3 # Order in which to show this project on the home page
+weight: 40 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
 summary: "Weiterführende Information über Geflüchtetenstatus in Deutschland"

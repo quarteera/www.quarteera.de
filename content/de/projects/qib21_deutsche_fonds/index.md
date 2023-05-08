@@ -1,7 +1,7 @@
 ---
 title: Wie man einen deutschen Zuschuss für ein Queeres Projekt bekommt (Anleitung von Quarteera)
 date: 2022-01-06T16:38:20+01:00
-weight: 10 # Order in which to show this project on the home page
+weight: 70 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Dieses Material wurde im Rahmen des Projekts "Entwicklung studentischer Queer-Bewegungen in Russland" im Jahr 2021 erstellt.  
 alt: "some alt text"

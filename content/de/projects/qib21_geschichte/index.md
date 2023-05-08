@@ -1,7 +1,7 @@
 ---
 title: Eine kurze Geschichte der Queer-Referaten 
 date: 2022-01-06T16:38:20+01:00
-weight: 11 # Order in which to show this project on the home page
+weight: 80 # Order in which to show this project on the home page
 image: Banners_square_option1.png
 summary: Dieses Material ist im Rahmen des Projekts „Entwicklung studentischer Queer-Bewegungen in Russland “ im Jahr 2021 entstanden.
 alt: Entwicklung studentischer Queer-Bewegungen in Russland 
@@ -11,7 +11,7 @@ color: green
 menuIdentifier: projects
 ---
 
-## История развития студенческого квир-движения Германии ##
+## Queere Studierendenvertretungen in Deutschland: Geschichte und Kontext ##
 
 An jeder deutschen Universität gibt es eine offizielle Vertretung oder Referat, die sich mit den Interessen queerer Studierender beschäftigen. Solche Referate sind in die allgemeinen Hochschulstrukturen integriert, werden auf allen Ebenen ernst genommen und ihre Existenz verwundert niemanden mehr. Im Jahr 2021 feierten das erste Referat für Schwule an einer deutschen Universität den 40. Geburtstag. 
  {{< figure src="qib21-geschichte-1.jpeg" class="article-image" caption="die „Erste internationale Tagung für Sexualreform auf sexualwissenschaftlicher Grundlage“ in Berlin, 1921">}}

@@ -1,7 +1,7 @@
 ---
 title: "Статус бежен*ки в Германии для ЛГБТ. Вопросы и ответы." # Title of your project
 date: 2022-12-02T16:51:38+01:00
-weight: 2 # Order in which to show this project on the home page
+weight: 30 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
 summary: "Quarteera совместно с ЛГБТ-бежен*ками и юрист*ками подготовила подборку часто задаваемых вопросов об убежище в Германии"

@@ -1,7 +1,7 @@
 ---
 title: "Quarteeras Tätigkeit" # Title of your project
 date: 2022-01-06T16:51:38+01:00
-weight: 200 # Order in which to show this project on the home page
+weight: 30 # Order in which to show this project on the home page
 image: project.png
 alt: "some alt text"
 summary: "Wir bauen eine Gemeinschaft auf, entwickeln die Zivilgesellschaft, unterstützen die Kunst, engagieren uns im Bereich der politischen Bildung."
@@ -22,6 +22,8 @@ Der zweite Arbeitsbereich betrifft die Berichterstattung über die Situation que
 
 ### Liste der umgesetzten Projekte:
 
+- 2022, Häusliche Gewalt in queeren Partnerschaften. 
+- 2022, [Treffen der russischsprachigen Eltern von LGBT](http://eltern2022.tilda.ws/). 
 - 2021, [Entwicklung der studentischen Queer-Bewegung in Russland](/projects/qib21/).
 - 2020, [LGBTQ*-Aufklärung an russischen Universitäten](https://qib20.quarteera.de/).
 - 2018, [Treffen mit russischsprachigen LGBTIQ*-Aktivist*innen und LGBTQ*-freundlichen Blogger*innen](https://qib18.quarteera.de/).
@@ -37,7 +39,7 @@ Ein weiteres Arbeitsgebiet ist die Kunst russischsprachiger queerer Menschen.
 - 2021, Ausstellung "Hassverbrechen gegen LGBTIQ* in Russland», gefördert von der Rosa-Luxemburg-Stiftung.
 - 2020, Ausstellung und Podiumsdiskussion "Hassverbrechen gegen LGBTIQ* in Russland", gefördert von der Rosa-Luxemburg-Stiftung.
 Bildungsreise "Kunst als Instrument der politischen Bildung", gefördert durch das Zivilgesellschaftsforum EU-Russland.
-- 2019, Kunstprojekt "Garten" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
+- 2019, Kunstprojekt "[Garten](https://vimeo.com/433780809)" von Mischa Badasyan, gefördert durch die Verwaltung des Bezirks Treptow-Köpenick in Berlin.
 
 ## 4. Politische Aufklärung
 
