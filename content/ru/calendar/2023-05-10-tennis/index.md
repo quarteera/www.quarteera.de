@@ -9,8 +9,11 @@ image:
 draft: false
 place: Erich-Kästner-Straße 39, Berlin
 ---
-Приходите на Турнир c 17:00-19:00! Будут ракетки, напитки, закуски. Надеемся на хорошую погоду. 
-Площадка окала У-Бан Kienberg (Gärten der Welt) 
+Приходите на Турнир c 17:00-19:00! Будут ракетки, напитки, закуски. Надеемся на хорошую погоду.
+
+Площадка около U-Bahn Kienberg (Gärten der Welt)
+
 Место проведения
+
 “Allgemeiner Spielplatz” Erich-Kästner-Straße 39
 
