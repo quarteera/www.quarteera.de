@@ -1,7 +1,7 @@
 ---
 title: "Projekt zur regionalen Entwicklung “Meine Community vor Ort”" # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 110 # Order in which to show this project on the home page
+weight: 112 # Order in which to show this project on the home page
 image: von_Ort_logo_de.png
 summary: "Wir helfen beim Aufbau lokaler queerer Communities in verschiedenen Regionen!"
 alt: "some alt text"
