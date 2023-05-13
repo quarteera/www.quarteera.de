@@ -1,7 +1,7 @@
 ---
 title: "Проект по региональному развитию “Моё комьюнити ЗДЕСЬ”" # Title of your project
 date: 2022-01-06T16:38:20+01:00
-weight: 110 # Order in which to show this project on the home page
+weight: 112 # Order in which to show this project on the home page
 image: von_Ort_logo.png
 summary: "Помогаем развивать квир-комьюнити в разных регионах Германии! "
 alt: "some alt text"
