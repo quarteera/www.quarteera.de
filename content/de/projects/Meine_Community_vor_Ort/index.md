@@ -19,6 +19,8 @@ menuIdentifier: projects
 
 **Regionen:** Dresden (Sachsen), Hamburg, Köln (NRW), Stuttgart (Baden-Würtemberg)
 
+**Projektmanager*in:** Neko Panteleeva (ohne Pronomen / \[sie\]) regionen@quarteera.de
+
 ### Projektziele:
 Ziel unseres Projekts ist es, neuangekommene queere Personen dabei zu unterstützen, eigene Gruppen in ihren Wohnorten aufzubauen und dort Angebote zu entwickeln und anzubieten, die den Bedarfen der jeweiligen Mitglieder entsprechen. 
 
