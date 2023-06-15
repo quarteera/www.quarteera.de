@@ -7,10 +7,10 @@ month: июнь
 time: 19:30
 image:
 draft: false
-place: Stadtteilzentrum Marzahn-Mitte (Marzahner Promenade 38, 12679 Berlin) 
+place: Marzahner Promenade 38, 12679 Berlin 
 ---
 В рамках первой "Pride Week" в Марцан-Хеллерсдорфе мы обсудим открытые вопросы на небольшой панели:
-                                                       
+
 
 Что означает прайд, откуда он взялcя и как развивался?
 Почему он теперь существует и в Марцане?
@@ -34,5 +34,7 @@ place: Stadtteilzentrum Marzahn-Mitte (Marzahner Promenade 38, 12679 Berlin)
 Мероприятие будет проходить на немецком и русском языках.
 
 Не стесняйтесь, приходите и познакомьтесь с нами!
+
+Stadtteilzentrum Marzahn-Mitte (Marzahner Promenade 38, 12679 Berlin)
 
 Регистрация не требуется.
