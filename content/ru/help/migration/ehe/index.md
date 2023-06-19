@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "Наши волонтерки подготовили информацию о заключении однополого брака в Германии и Дании"
 draft: false
 color: red
-menuIdentifier: migration
+menuIdentifier: help
 ---
 
 Нашу памятку на русском языке вы найдете [здесь](/Заключениебрака.pdf).

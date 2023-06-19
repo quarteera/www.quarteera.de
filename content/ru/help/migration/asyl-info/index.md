@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "Полезная информация о статусе бежен*ки в Германии"
 draft: false
 color: red
-menuIdentifier: migration
+menuIdentifier: help
 ---
 #### Брошюра министерства миграции ФРГ о статусе беженца ####
 На английском языке \

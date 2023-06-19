@@ -76,6 +76,21 @@ img { border-radius: .25rem; }
   margin: 2rem 0;
 }
 
+.page-image {
+  @include center;
+  margin: 4rem 0 1rem;
+}
+
+.page-image img {
+  width: 35rem;
+  height: auto;
+  outline: 1px solid $dark-yellow;
+}
+
+.page-image figcaption {
+  font-size: small;
+}
+
 .single-page {
   @include max-width;
   padding: 4rem 2rem;
@@ -168,7 +183,7 @@ img { border-radius: .25rem; }
   }
 }
 
-.regular-section-help, .regular-list-item {
+.regular-section-community, .regular-list-item {
   @include row;
   @include reset-a-style;
   background-color: white;
@@ -181,7 +196,7 @@ img { border-radius: .25rem; }
   .text { margin: 0 0 0 1rem; }
 }
 
-.help-list-icon {
+.community-list-icon {
   height: .75rem;
   margin-right: .25rem;
 }
@@ -486,12 +501,12 @@ body {
     text-align: center;
   }
   
-  .regular-section-help, .regular-list-item {
+  .regular-section-community, .regular-list-item {
     margin: 0 1rem 2rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
   }
-  .regular-section-help { flex-direction: column; }
+  .regular-section-community { flex-direction: column; }
   .regular-list-item:first-child {
     margin-left: .25rem;
   }

@@ -6,7 +6,6 @@ image: volunteer.png
 alt: "some alt text"
 draft: false
 color: purple
-menuIdentifier: help
 ---
 
 Спасибо большое за ваш интерес к волонтерской деятельности и желание помогать Quarteera.

@@ -7,7 +7,6 @@ alt:
 summary: Хотите стать членом большой и дружной организации, участвовать в мероприятиях, знакомиться с новыми людьми?
 draft: false
 color: purple
-menuIdentifier: help
 accent: true
 aliases: [/mitglied-werden]
 ---

@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "В этом разделе мы собрали для вас всю основную информацию для военных бежен*ок"
 draft: false
 color: red
-menuIdentifier: migration
+menuIdentifier: help
 ---
 ## Консультации и помощь 
 

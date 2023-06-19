@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "Quarteera совместно с ЛГБТ-бежен*ками и юрист*ками подготовила подборку часто задаваемых вопросов об убежище в Германии"
 draft: false
 color: red
-menuIdentifier: migration
+menuIdentifier: help
 aliases: [/asyl-russian]
 ---
 

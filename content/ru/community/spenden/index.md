@@ -7,7 +7,6 @@ alt: "some alt text"
 summary: "Многие интересные и важные проекты зависят от пожертвований и не могут быть реализованы без них. Мы благодарим Вас за поддержку и интерес к нашей работе."
 draft: false
 color: purple
-menuIdentifier: help
 aliases: [/pozertvovania]
 ---
 

@@ -18,11 +18,11 @@
       <a href="#" id="old-site-link">http://old.quarteera.de/link</a>
     </p>
     <div class="buttons-container">
-      {{ $joinPage := .Site.GetPage "/help/vacancies/volunteer"  }}
+      {{ $joinPage := .Site.GetPage "/community/volunteer"  }}
       {{ with $joinPage }}
       <a class="purple-button" href="{{ $joinPage.RelPermalink }}">{{ $joinPage.LinkTitle }}</a>
       {{ end }}
-      {{ $donatePage := .Site.GetPage "/help/spenden"  }}
+      {{ $donatePage := .Site.GetPage "/community/spenden"  }}
       {{ with $joinPage }}
       <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.LinkTitle  }}</a>
       {{ end }}

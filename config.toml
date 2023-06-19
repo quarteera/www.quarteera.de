@@ -22,17 +22,17 @@ defaultContentLanguage = 'ru'
       pre = 'green'
       identifier = 'projects'
     [[languages.ru.menu.main]]
-      name = 'Миграция'
-      url = '/migration'
+      name = 'Получить помощь'
+      url = '/help'
       weight = 2
       pre = 'red'
-      identifier = 'migration'
+      identifier = 'help'
     [[languages.ru.menu.main]]
-      name = 'Поддержать'
-      url = '/help'
+      name = 'Комьюнити'
+      url = '/community'
       weight = 3
       pre = 'purple'
-      identifier = 'help'
+      identifier = 'community'
     [[languages.ru.menu.footer]]
       name = 'Пресса'
       url = '/press'
@@ -64,17 +64,17 @@ defaultContentLanguage = 'ru'
       pre = 'green'
       identifier = 'projects'
     [[languages.de.menu.main]]
-      name = 'Migration'
-      url = '/migration'
+      name = 'Hilfe'
+      url = '/help'
       weight = 2
       pre = 'red'
-      identifier = 'migration'
+      identifier = 'help'
     [[languages.de.menu.main]]
-      name = 'Mitmachen'
-      url = '/help'
+      name = 'Community'
+      url = '/community'
       weight = 3
       pre = 'purple'
-      identifier = 'help'
+      identifier = 'community'
     [[languages.de.menu.footer]]
       name = 'Press'
       url = '/de/press'

@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "Полезные ссылки"
 draft: false
 color: red
-menuIdentifier: migration
+menuIdentifier: help
 ---
 
 #### Официальный сайт Федерального ведомства Германии по вопросам миграции и беженцев 
