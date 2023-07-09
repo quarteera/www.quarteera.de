@@ -45,4 +45,4 @@ Oderberger Straße 60 \
 
 Время консультаций также отменяется в праздничные дни: 07.04., 10.04., 01.05., 18.05., 29.05., 03.10., 25.12., 26.12.
 
-{{< figure src="/images/map-beratung.png" class="page-image" caption="">}}
+{{< figure src="/images/beratung/map-beratung.png" class="page-image" caption="">}}

@@ -64,7 +64,7 @@ defaultContentLanguage = 'ru'
       pre = 'green'
       identifier = 'projects'
     [[languages.de.menu.main]]
-      name = 'Hilfe'
+      name = 'Hilfe bekommen'
       url = '/help'
       weight = 2
       pre = 'red'

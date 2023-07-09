@@ -7,7 +7,7 @@ alt: "some alt text"
 summary: "Viele interessante und wichtige Projekte hängen von Spenden ab und können ohne diese Gelder nicht realisiert werden. Wir bedanken uns bei Ihnen für Ihr Interesse an unserer Arbeit."
 draft: false
 color: purple
-menuIdentifier: help
+menuIdentifier: community
 aliases: [/Spenden-sind-willkommen]
 ---
 

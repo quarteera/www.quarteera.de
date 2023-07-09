@@ -7,7 +7,7 @@ alt:
 summary: Möchten Sie Mitglied eines großen und freundlichen Vereins werden, an Veranstaltungen teilnehmen und neue Menschen kennenlernen?
 draft: false
 color: purple
-menuIdentifier: help
+menuIdentifier: community
 accent: true
 ---
 
