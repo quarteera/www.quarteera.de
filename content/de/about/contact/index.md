@@ -4,7 +4,7 @@ date: 2022-12-03T16:51:38+01:00
 weight: 70 # Order in which to show this project on the home page
 image: 
 alt: "Büro"
-summary: Unsere Adressen und Öffnungszeiten
+summary: Adressen und Öffnungszeiten
 draft: false
 color: yellow
 menuIdentifier: about
