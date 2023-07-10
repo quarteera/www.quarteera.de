@@ -16,7 +16,7 @@ linktitle: Besuchen
 Arkonaplatz 5 \
 10435 Berlin
 
-Wir treffen uns jede 1. Freitag des Monats um 19:00 und nach Vereinbarung in unserem Community-Zentrum. Bitte folgen Sie unsere Ankündigungen in unseren Sozialnetzwerken.
+Wir treffen uns jeden 1. Freitag des Monats um 19:00 und nach Vereinbarung in unserem Community-Zentrum. Bitte folgen Sie unseren Ankündigungen in unseren Sozialnetzwerken.
 
 Unser Community-Zentrum ist für Sie da. Wenn Sie Ihre Veranstaltung bei uns durchführen wollen, schreiben Sie bitte per [E-Mail](mailto:info@quarteera.de). 
 
