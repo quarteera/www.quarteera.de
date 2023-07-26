@@ -57,6 +57,16 @@ status = 301
 force = true
 
 [[redirects]]
+from = "/hamburg"
+to = "https://sites.google.com/quarteera.de/quarteera-hamburg"
+status = 301
+
+[[redirects]]
+from = "/de/hamburg"
+to = "https://sites.google.com/quarteera.de/quarteera-hamburg"
+status = 301
+
+[[redirects]]
 from = "/de/*"
 to = "/de/404.html"
 status = 404
