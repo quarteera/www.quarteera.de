@@ -10,7 +10,7 @@
       </div>
     {{ end }}
     <div class="footer-section">
-      {{ range .Site.Menus.footer }}
+      {{ range .Site.Menus.footer.ByWeight }}
         <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
       {{ end }}
     </div>
