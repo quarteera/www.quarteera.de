@@ -8,7 +8,7 @@ summary: "Viele interessante und wichtige Projekte hängen von Spenden ab und k�
 draft: false
 color: purple
 menuIdentifier: community
-aliases: [/Spenden-sind-willkommen]
+aliases: [/Spenden-sind-willkommen, /donate]
 ---
 
 **Unser Spendenkonto lautet:**
@@ -19,7 +19,7 @@ BIC: BYLADEM1001\
 bei der Deutschen Kreditbank AG in Berlin\
 Verwendungszweck: Spende
 
-oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
+oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PP3MPFQ5C5VGL).
 
 Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 300 Euro (200 Euro bis 1.1.2021) legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 
