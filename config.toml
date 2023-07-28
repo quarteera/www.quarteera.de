@@ -37,7 +37,7 @@ defaultContentLanguage = 'ru'
       name = 'Пресса'
       url = '/press'
       weight = 0
-    [[languages.de.menu.footer]]
+    [[languages.ru.menu.footer]]
       name = 'Карьера'
       url = '/karriere'
       weight = 1
