@@ -8,6 +8,7 @@ summary: "Мы ищем новых коллег, коллежанок и вол�
 draft: false
 color: yellow
 menuIdentifier: about
+aliases: [/karriere]
 ---
 
 Наши открытые позиции: 

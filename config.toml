@@ -37,14 +37,18 @@ defaultContentLanguage = 'ru'
       name = 'Пресса'
       url = '/press'
       weight = 0
+    [[languages.de.menu.footer]]
+      name = 'Карьера'
+      url = '/karriere'
+      weight = 1
     [[languages.ru.menu.footer]]
       name = 'Выходные данные'
       url = '/impressum'
-      weight = 1
+      weight = 2
     [[languages.ru.menu.footer]]
       name = 'Политика конфеденциальности'
       url = '/datenschutz'
-      weight = 2
+      weight = 3
   [languages.de]
     title = 'Russischsprachige LGBT in Deutschland'
     languageName = 'DE'
@@ -80,10 +84,14 @@ defaultContentLanguage = 'ru'
       url = '/de/press'
       weight = 0
     [[languages.de.menu.footer]]
+      name = 'Karriere'
+      url = '/de/karriere'
+      weight = 1
+    [[languages.de.menu.footer]]
       name = 'Impressum'
       url = '/impressum'
-      weight = 1
+      weight = 2
     [[languages.de.menu.footer]]
       name = 'Datenschutz'
       url = '/datenschutz'
-      weight = 2
+      weight = 3

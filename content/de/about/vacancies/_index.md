@@ -8,6 +8,7 @@ summary: "Wir suchen haupt- und ehernamtliche Verstärkung für unseres Team"
 draft: false
 color: yellow
 menuIdentifier: about
+aliases: [/de/karriere]
 ---
 
 Wir suchen haupt- und ehernamtliche Verstärkung für unseres Team
