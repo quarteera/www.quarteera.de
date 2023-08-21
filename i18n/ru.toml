@@ -4,6 +4,9 @@ other = 'Календарь событий'
 [calendar-all]
 other = 'Смотреть все → '
 
+[calendar-eventbrite]
+other = 'Наша страница на eventbrite → '
+
 [header404]
 other = 'Упс'
 

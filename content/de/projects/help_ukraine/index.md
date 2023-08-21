@@ -33,12 +33,11 @@ Sie können sich auch an uns per [E-Mail](mailto:help@quarteera.de) wenden, wenn
 - 200 Freiwillige nahmen am Projekt teil
 
 ### Auch Sie können mithelfen:
-- werden Sie unser*e [Freiwillige*r](/de/help/vacancies/volunteer/),
-- werden Sie unser*e [Gastgeber*in](https://forms.monday.com/forms/3a804d649a50f8f3d31cb63c533f8d16?r=use1) (um den Ankommenden eine vorübergehende oder dauerhafte Unterkunft anzubieten),
-- werden Sie unser*e [Spender*in](/de/help/spenden) (Geld spenden).
+- werden Sie unser*e [Freiwillige*r](/de/community/volunteer/),
+- werden Sie unser*e [Spender*in](/de/community/spenden) (Geld spenden).
 
 ### Wenn Sie Pressevertreter*in und an einer Zusammenarbeit mit Quarteera interessiert sind:
 [Kontaktieren Sie uns](/de/press/).
 
 ### Wenn Sie aus der Ukraine kommen, könnten diese Materialien nützlich für Sie sein:
-- [Abschnitt “Migration”](/de/migration/)
+- [Abschnitt “Migration”](/de/help/)

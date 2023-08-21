@@ -7,6 +7,7 @@
 .purple-border { border-bottom: 2px solid $purple; }
 .red-border { border-bottom: 2px solid $red; }
 .yellow-border { border-bottom: 2px solid $yellow; }
+.dark-grey-border { border-bottom: 2px solid $dark-grey; }
 
 .blue-dashed-border { border: 1px dashed $blue; }
 .green-dashed-border { border: 1px dashed $green; }
@@ -14,6 +15,7 @@
 .red-dashed-border { border: 1px dashed $red; }
 .purple-dashed-border{ border: 1px dashed $purple; }
 .yellow-dashed-border { border: 1px dashed $yellow; }
+.dark-grey-dashed-border { border: 1px dashed $dark-grey; }
 
 .blue-dashed-bottm-border { border-bottom: none;  }
 .green-dashed-bottom-border { border-bottom: none; }
@@ -40,12 +42,16 @@
 .yellow-dashed-left-border { border-left: 1px dashed $yellow; }
 .yellow-dashed-top-border { border-top: 1px dashed $yellow; }
 
+.dark-grey-dashed-left-border { border-left: 1px dashed $dark-grey; }
+.dark-grey-dashed-top-border { border-top: 1px dashed $dark-grey; }
+
 .blue-solid-border { border: 1px solid $blue; }
 .green-solid-border { border: 1px solid $green; }
 .orange-solid-border { border: 1px solid $orange; }
 .red-solid-border { border: 1px solid $red; }
 .purple-solid-border{ border: 1px solid $purple; }
 .yellow-solid-border { border: 1px solid $yellow; }
+.dark-grey-solid-border { border: 1px solid $dark-grey; }
 
 .blue-dots:after, .blue-dots:before { background: $blue; }
 .green-dots:after, .green-dots:before { background: $green; }
