@@ -8,8 +8,14 @@
   <div class="page-content">
     <p>{{ .Content }}</p>
   </div>
-  {{ .Scratch.Set "calendarLimit" 1000 }}
-  {{- partial "calendar.html" . -}}
+
+  <div class="calendar">
+    <div class="calendar-content">
+      <h2>{{ i18n "calendar" }}</h2>
+      <div id="eventbrite-calendar-app" data-status="all" data-page-size="50" data-sort="desc"></div>
+      <h4><a href="https://www.eventbrite.de/o/quarteera-e-v-26940024285">{{ i18n "calendar-eventbrite" }}</a></h4>
+    </div>
+  </div>
 
 
 </div>
