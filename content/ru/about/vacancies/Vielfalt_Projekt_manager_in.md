@@ -3,14 +3,14 @@ title: "Projektkoordinator:in Vielfalt vor Ort" # Title of your project
 date: 2023-02-09T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
+draft: false
 menuIdentifier: about
 color: yellow
 ---
 
-**Ab sofort** suchen wir **Projektkoordinator:in im Bereich politische Bildung mit Schwerpunkt LSBTQ+ und Migration ab sofort in Vollzeit**  zunächst bis 31.12.2023 befristet.
+**Ab sofort** suchen wir **Projektkoordinator:in im Bereich politische Bildung mit Schwerpunkt LSBTQ+ und Migration ab sofort in Vollzeit**  zunächst bis 31.05.2024 befristet.
 
-**Standort: Remote, [Akademie Waldschlösschen]((https://www.waldschloesschen.org/de/))**
+**Standort: Remote, Berlin**
 
 Zur  Umsetzung  des  Modellprojektes  politischer  Bildung  “Vielfalt  vor  Ort”  und  zum  Ausbau  der Kooperation zwischen Quarteera e.V. und Stiftung AkademieWaldschlösschen suchen wir ab sofort eine:n Projektkoordinator:in.
 
