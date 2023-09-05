@@ -1,20 +1,21 @@
 ---
 title: Beratungszentrum
-date: 2022-01-06T16:51:38+01:00
+date: 2023-09-03T16:51:38+01:00
 weight: 2
 alt: some alt textf
 image: beratung.png
 draft: false
 color: red
 menuIdentifier: help
-summary: "Das Quarteera e.V. Beratungszentrum für LSBTIQ* aus dem russischsprachigen Raum"
+summary: "Das Quarteera e.V. Beratungszentrum für LSBTIQ*, die sich auf Russisch verständigen"
 ---
 
-Das Quarteera e.V. Beratungszentrum für LSBTIQ* aus dem russischsprachigen Raum
+Das Quarteera e.V. Beratungszentrum für LSBTIQ\*, die sich auf Russisch verständigen
 
-Quarteera e.V. bietet allen LSBTIQ* Personen, die Russisch sprechen, die Möglichkeit, rechtliche, soziale und psychosoziale Fragen zu klären. Einen Schwerpunkt legen wir auf die Beratung zu Asyl und Aufenthalt in Deutschland. Sie können sich auch an uns wenden, wenn Sie Fragen zum Sozialsystem haben oder psychologische Hilfe benötigen.
+Quarteera e.V. bietet allen LSBTIQ\* Personen, die Russisch sprechen, die Möglichkeit, rechtliche, soziale und psychosoziale Fragen zu klären.
 
 Die Beratungen können entweder in unserem Zentrum oder online auf Russisch, Deutsch oder Englisch stattfinden. Alle Beratungsgespräche sind kostenlos und vertraulich.
+
 
 **Um eine Beratung zu erhalten, senden Sie uns bitte eine E-Mail mit all Ihren Fragen an help@quarteera.de**
 
