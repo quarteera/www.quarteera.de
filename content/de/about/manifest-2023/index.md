@@ -1,7 +1,7 @@
 ---
 title: "Politisches Manifest zum Pride Month 2023" # Title of your project
 date: 2023-06-30T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 150 # Order in which to show this project on the home page
 image: manifest-logo.png
 alt: "some alt text"
 summary: "Die Marzahn Pride ist vorbei, aber der Kampf geht weiter!"
