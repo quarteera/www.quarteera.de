@@ -37,3 +37,7 @@ Durch den zunehmenden Kontakt zu russischsprechenden Geflüchteten und Migrant\*
 Meldet Euch bei uns, wenn ihr in einer der oben genannten Regionen (oder in der Nähe) lebt und Teil der bundesweiten Entwicklung einer nationenübergreifenden migrantischen queeren Community sein möchtet. Meldet Euch, wenn Eure lokale Gruppe unterstützen und Angebote entwickeln möchtet, die Eure Community-Mitglieder brauchen.
 
 Gemeinsam schaffen wir es, in unsicheren Zeiten Orte der queeren migrantischen Sichtbarkeit zu erschaffen, die Hilfe, Unterstützung und ein wenig Sicherheit in ein neues Leben an neuen Orten bringen können.
+
+\
+**unterstützt von:**
+{{< figure src="/images/partners/Logo_EVZ_EL_RGB_DE_blau.png" class="" caption="">}}
