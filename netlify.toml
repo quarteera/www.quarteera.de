@@ -67,6 +67,11 @@ to = "https://sites.google.com/quarteera.de/quarteera-hamburg"
 status = 301
 
 [[redirects]]
+from = "/petition"
+to = "https://epetitionen.bundestag.de/content/petitionen/_2023/_08/_22/Petition_156274.html"
+status = 301
+
+[[redirects]]
 from = "/de/*"
 to = "/de/404.html"
 status = 404
