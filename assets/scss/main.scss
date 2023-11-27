@@ -150,6 +150,7 @@ img {
 .single-page-summary {
   @include row;
   margin-bottom: 2rem;
+
   .summary {
     font-size: 1.5rem;
     line-height: 1.9rem;
@@ -473,9 +474,23 @@ body {
 
   .main-section-content {
     @include max-width;
+
+    .petition-de {
+      background-image: url("/images/de/paragraph-23.png");
+      width: 1024px;
+      height: 357px;
+      display: block;
+    }
+
+    .petition-ru {
+      background-image: url("/images/ru/paragraph-23.png");
+      width: 1024px;
+      height: 357px;
+      display: block;
+    }
   }
 
-  img:hover {
+  .petition:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
@@ -487,7 +502,7 @@ body {
   background-color: $background-color;
   border-top: 1px dashed #C2C2C2;
   min-height: 620px;
-  
+
   .calendar-content {
     @include max-width;
     @include center;
@@ -568,7 +583,29 @@ body {
   }
   .main-section {
     margin-top: 6rem;
+
+    .main-section-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .petition-de {
+        background-image: url("/images/de/paragraph-23-v.png");
+        width: 450px;
+        height: 450px;
+        display: block;
+      }
+
+      .petition-ru {
+        background-image: url("/images/ru/paragraph-23-v.png");
+        width: 450px;
+        height: 450px;
+        display: block;
+      }
+    }
+
   }
+
   .calendar {
     margin-top: 6rem;
 

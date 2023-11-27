@@ -2,8 +2,7 @@
     <div class="main-section-content">
         {{ $paragraph23Page := .Site.GetPage "about/paragraph23" }}
         {{ with $paragraph23Page }}
-        <a href="{{ $paragraph23Page.RelPermalink }}">
-            <img class="red-dashed-border" src="/images/{{ $.Site.Language }}/paragraph-23.png" atl="Aufnahmeprogramm für trans* Menschen öffnen"/>
+        <a class="red-dashed-border petition petition-{{ $.Site.Language }}" href="{{ $paragraph23Page.RelPermalink }}">
         </a>
         {{ end }}
     </div>
