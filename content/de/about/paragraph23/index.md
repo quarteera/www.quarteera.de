@@ -16,7 +16,6 @@ Diese Entwicklung mündet in dem jüngsten trans* feindlichen Gesetz, mit dem ni
 
 Hierbei handelt es sich um massive Eingriffe in die körperliche Unversehrtheit und Menschenrechte besonders schutzbedürftiger Gruppen. Offizielle Begründung hierfür ist der Kampf gegen eine westliche [“Transgender-Industrie”](https://www.dekoder.org/de/article/transgender-gesetz-verbot-geschlechtsangleichung-russland). Stellvertretend für die Prinzipien der europäischen Wertegemeinschaft wie Menschenrechte, Freiheit und Demokratie wird nun speziell die TIN\* (Abkürzung: trans*, inter*, nonbinär*) Community in Russland zur Zielscheibe der russländischen Politik und Justiz. In Anbetracht der besonderen historischen und politischen Verantwortung Deutschlands ist daher schnellstmögliches Handeln notwendig.
 
-**[Petition mitzeichnen](https://quarteera.de/petition)**
 
 ## Unsere Forderungen:
 
@@ -33,7 +32,7 @@ Hierbei handelt es sich um massive Eingriffe in die körperliche Unversehrtheit 
 * Unmittelbarer Zugang zu medizinischer Versorgung und sicherer Unterbringung von trans\* Personen in Deutschland. 
 
 
-[pdf Version](https://quarteera.de/files/paragraph23.pdf)
+{{< petition >}} Petition mitzeichnen {{< /petition >}}
 
 # Nähere Ausführungen zur Petition
 
@@ -96,6 +95,6 @@ Es wird zunächst eine Aufnahmezusage unter der Bedingung erteilt, dass in dem d
 
 Ferner kann das Bundesministerium des Inneren gem. § 23 Abs. 4 AufenthG im Rahmen der Neuansiedlung von Schutzsuchenden im Benehmen mit den obersten Landesbehörden anordnen, dass das Bundesamt für Migration und Flüchtlinge bestimmten für eine Neuansiedlung ausgewählten Schutzsuchenden eine Aufnahmezusage erteilt. Dieses sogenannte Resettlement zielt darauf ab, schutzbedürftigen Menschen, die aus ihrer Heimat in einen Drittstaat geflohen sind, aber dort keine dauerhafte Lebensperspektive haben, eine neue Perspektive im Aufnahmestaat Deutschland zu eröffnen. In der Aufnahmeanordnung des Bundesministeriums des Innern werden dabei bestimmte Kriterien festgelegt, die die Schutzsuchenden erfüllen müssen. Auf dieser Grundlage erteilt das Bundesamt für Migration und Flüchtlinge Personen, die z.B. vom UNHCR für besonders schutzwürdig befunden wurden, nach persönlichen Interviews eine konkrete Aufnahmezusage. Die Aufnahmezusage wird unter der Bedingung erteilt, dass in dem darauffolgenden Visumverfahren ein Visum erteilt wird. Die obersten Landesbehörden stimmen der Visumserteilung danach zu.
 
-**[Petition mitzeichnen](https://quarteera.de/petition)**
+{{< petition >}} Petition mitzeichnen {{< /petition >}}
 
 [pdf Version](https://quarteera.de/files/paragraph23.pdf)

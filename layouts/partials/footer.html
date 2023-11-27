@@ -1,6 +1,7 @@
 <footer class="footer">
   <nav>
-    {{ $sections := (where .Site.Sections "Section" "!=" "calendar") }}
+    {{ $ignorePage := slice "calendar" "en" }}
+    {{ $sections := (where .Site.Sections "Section" "not in" $ignorePage) }}
     {{ range $sections.ByWeight }}
       <div class="footer-section">
         <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
