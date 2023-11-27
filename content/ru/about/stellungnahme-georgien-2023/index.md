@@ -1,7 +1,7 @@
 ---
 title: "Заявление о планируемом включении Грузии в число стран с безопасным происхождением" # Title of your project
 date: 2023-09-12T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 100 # Order in which to show this project on the home page
 image: title.png
 alt: "some alt text"
 summary: ""

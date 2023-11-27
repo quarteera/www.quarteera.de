@@ -1,12 +1,13 @@
 ---
 title: "Aufnahmeprogramm für trans* Menschen öffnen" # Title of your project
-date: 2023-09-12T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+date: 2023-11-12T16:51:38+01:00
+weight: 1000 # Order in which to show this project on the home page
 image: paragraph-23-logo.png
 alt: "some alt text"
 summary: "Historische und politische Verantwortung übernehmen: Aufnahmeprogramm für trans* Menschen öffnen"
 draft: false
 color: yellow
+accent: true
 menuIdentifier: about
 aliases: [/paragraph23]
 ---

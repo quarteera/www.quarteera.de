@@ -1,12 +1,13 @@
 ---
 title: "Программа срочной иммиграции транс*людей из России" # Title of your project
 date: 2023-11-25T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 1000 # Order in which to show this project on the home page
 image: paragraph-23-logo.png
 alt: "some alt text"
 summary: "Поддержи программу срочной иммиграции транс*людей из России"
 draft: false
 color: yellow
+accent: true
 menuIdentifier: about
 linktitle: "О петиции"
 ---
