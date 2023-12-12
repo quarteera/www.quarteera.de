@@ -1,6 +1,6 @@
 <footer class="footer">
   <nav>
-    {{ $ignorePage := slice "calendar" "en" }}
+    {{ $ignorePage := slice "calendar" "en" "pages" }}
     {{ $sections := (where .Site.Sections "Section" "not in" $ignorePage) }}
     {{ range $sections.ByWeight }}
       <div class="footer-section">
