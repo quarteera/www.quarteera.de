@@ -35,6 +35,8 @@ Hierbei handelt es sich um massive Eingriffe in die körperliche Unversehrtheit 
 
 {{< petition >}} Petition mitzeichnen {{< /petition >}}
 
+### [FAQ Petition “Aufnahmeprogramm für trans*Menschen aus Russland”](/de/pages/paragraph23-faq/)
+
 # Nähere Ausführungen zur Petition
 
 ### Zur aktuellen Situation der LSBTIQ\* Community nach der jüngsten trans\*feindlichen Gesetzgebung
@@ -97,5 +99,8 @@ Es wird zunächst eine Aufnahmezusage unter der Bedingung erteilt, dass in dem d
 Ferner kann das Bundesministerium des Inneren gem. § 23 Abs. 4 AufenthG im Rahmen der Neuansiedlung von Schutzsuchenden im Benehmen mit den obersten Landesbehörden anordnen, dass das Bundesamt für Migration und Flüchtlinge bestimmten für eine Neuansiedlung ausgewählten Schutzsuchenden eine Aufnahmezusage erteilt. Dieses sogenannte Resettlement zielt darauf ab, schutzbedürftigen Menschen, die aus ihrer Heimat in einen Drittstaat geflohen sind, aber dort keine dauerhafte Lebensperspektive haben, eine neue Perspektive im Aufnahmestaat Deutschland zu eröffnen. In der Aufnahmeanordnung des Bundesministeriums des Innern werden dabei bestimmte Kriterien festgelegt, die die Schutzsuchenden erfüllen müssen. Auf dieser Grundlage erteilt das Bundesamt für Migration und Flüchtlinge Personen, die z.B. vom UNHCR für besonders schutzwürdig befunden wurden, nach persönlichen Interviews eine konkrete Aufnahmezusage. Die Aufnahmezusage wird unter der Bedingung erteilt, dass in dem darauffolgenden Visumverfahren ein Visum erteilt wird. Die obersten Landesbehörden stimmen der Visumserteilung danach zu.
 
 {{< petition >}} Petition mitzeichnen {{< /petition >}}
+
+[EN Version](/en/paragraph23)
+
 
 [pdf Version](https://quarteera.de/files/paragraph23.pdf)
