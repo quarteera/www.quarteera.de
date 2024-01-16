@@ -11,3 +11,5 @@ menuIdentifier: about
 ---
 
 Наш устав вы найдете [по ссылке](http://quarteera.de/files/satzung.pdf) (на немецком языке)
+
+[На русском языке](http://quarteera.de/files/satzung_ru.pdf)

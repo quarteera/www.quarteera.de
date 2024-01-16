@@ -35,7 +35,5 @@ Bitte beachten Sie:
 
 Für eine Terminvereinbarung schicken Sie bitte eine E-Mail an help@quarteera.de
 
-Achtung: Wir bearbeiten keine Anfragen an Wochenenden und gesetzlichen Feiertagen. Die Sprechstunden unserer Beratungen fallen an gesetzlichen Feiertagen aus: 07.04., 10.04., 01.05., 18.05., 29.05., 03.10., 25.12., 26.12.
-
 
 {{< figure src="/images/beratung/map-beratung.png" class="page-image" caption="">}}
