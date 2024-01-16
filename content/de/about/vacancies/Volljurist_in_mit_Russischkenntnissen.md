@@ -6,8 +6,6 @@ image: vacancies.png
 draft: true
 menuIdentifier: about
 color: yellow
-add_scripts:
-    vacancy: Volljurist
 ---
 **Ab sofort** suchen wir **eine\*n Volljurist\*in** zur Unterstützung unseres Beratungsteams.
 

@@ -12,7 +12,7 @@ menuIdentifier: about
  
 ## Quarteera in den Medien
  
-Wenn Sie ein*e Medienvertreter*in sind und an einer Zusammenarbeit mit Quarteera interessiert sind, [kontaktieren Sie uns] (https://deploy-preview-6--quarteera-site-dev.netlify.app/press/).
+Wenn Sie ein*e Medienvertreter*in sind und an einer Zusammenarbeit mit Quarteera interessiert sind, [kontaktieren Sie uns](/de/press/).
  
  
 #### 2022

@@ -12,7 +12,7 @@ menuIdentifier: about
 
 ## Quarteera в Прессе
 
-Если вы представитель СМИ и заинтересованы в работе с Quarteera, [свяжитесь с нами](https://deploy-preview-6--quarteera-site-dev.netlify.app/press/). 
+Если вы представитель СМИ и заинтересованы в работе с Quarteera, [свяжитесь с нами](/press/). 
 
 #### 2022 год
 
