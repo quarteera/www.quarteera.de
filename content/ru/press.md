@@ -5,9 +5,7 @@ draft: false
 image:
 ---
 
-Светлана Шайтанова\
-Пресс-спикерка
 
-E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
+E-Mail:  [presse@quarteera.de](mailto:presse@quarteera.de)
 
 [Архив упоминаний Квартиры в прессе](/about/press/).

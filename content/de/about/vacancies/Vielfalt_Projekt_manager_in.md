@@ -3,7 +3,7 @@ title: "Projektkoordinator:in Vielfalt vor Ort" # Title of your project
 date: 2023-02-09T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
-draft: false
+draft: true
 menuIdentifier: about
 color: yellow
 ---

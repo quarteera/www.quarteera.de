@@ -5,9 +5,6 @@ draft: false
 image:
 ---
 
-Svetlana Shaytanova\
-Pressesprecherin
-
-E-Mail:  [svetlana.shaytanova@quarteera.de](mailto:svetlana.shaytanova@quarteera.de)
+E-Mail:  [presse@quarteera.de](mailto:presse@quarteera.de)
 
 [Wir in den Medien](/de/about/press/).
