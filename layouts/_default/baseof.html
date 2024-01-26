@@ -8,11 +8,7 @@
       {{- partial "header.html" . -}}
       <div id="content" class="content {{ .Params.color }}-background-decor">
         {{- block "main" . }}{{- end }}
-
-        {{ if .Page.IsHome }}
-          {{- partial "paragraph-23.html" . -}}
-        {{ end }}
-
+        
         {{ if .Page.IsHome }}
         <div class="calendar">
           <div class="calendar-content">
