@@ -1,16 +1,16 @@
 ---
 title: "Koordination für die Marzahn Pride gesucht" # Title of your project
-date: 2023-02-09T16:51:38+01:00
+date: 2024-01-25T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
+draft: false
 menuIdentifier: about
 color: yellow
 ---
 
 **Koordination für die Marzahn Pride gesucht**
 
-Am 24. Juni 2023  findet die 4. Marzahn Pride im Bezirk statt. Sie richtet sich an queere Menschen, Bewohner*innen der Nachbarschaft sowie die russischsprachige Bevölkerung vor Ort. 
+Am 15. Juni 2024  findet die 4. Marzahn Pride im Bezirk statt. Sie richtet sich an queere Menschen, Bewohner*innen der Nachbarschaft sowie die russischsprachige Bevölkerung vor Ort. 
 Die Pride besteht aus einer Demonstration und einem anschließenden Straßenfest am Viktor-Klemperer-Platz mit Bühnenprogramm und zahlreichen Ständen. 
 
 Quarteera e.V. ist Organisator der Veranstaltung. Seit 2011 setzt sich der Verein für die Sichtbarkeit der russischsprachigen LSBTQ* Community in Deutschland sowie
