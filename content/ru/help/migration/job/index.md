@@ -1,6 +1,6 @@
 ---
 title: "Работа" # Title of your project
-date: 2024-02-01T16:51:38+01:00
+date: 2024-01-31T16:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: project.jpeg
 alt: "some alt text"
