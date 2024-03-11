@@ -1,52 +1,39 @@
 ---
-title: "Berater*in zu Asyl und Aufenthalt (Minijob)" # Title of your project
-date: 2022-12-01T16:51:38+01:00
+title: "Berater*in zu Asyl und Aufenthalt" # Title of your project
+date: 2024-03-01T16:51:38+01:00
 weight: 1 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
 menuIdentifier: about
 color: yellow
 ---
 
-Unsere Sozialarbeiter\*innen, Rechtsberater\*innen und Psycholog\*innen kümmern sich um
-russischsprachige queere Migrant\*innen aus dem PostOst-Raum (Ukraine, Belarus, Russland,
-Kasachstan usw.) und beraten in alltäglichen und rechtlichen Fragen rund um Migration, Asyl,
-Integration oder zu anderen relevanten Themen.
+In unserer Beratungsstelle informieren und beraten wir russischsprachige LSBTIQ* Geflüchtete und Migrant*innen aus Ländern wie der Ukraine, Georgien, Belarus, Russland, Kasachstan usw. zu diversen Themen, die von asyl- und aufenthaltsrechtlichen, sozialrechtlichen sowie psychosozialen Fragestellungen reichen.
 
-Wir suchen **ab sofort** eine\*n **Rechtsberater\*in** zu Asyl und Aufenthalt auf **Minijob-Basis**.
-Als Teil unseres Teams informierst und berätst du russischsprachige LSBTQ\* per E-Mail, ggf. per
-Telefon und in 1-to-1 Gesprächen (online oder offline) zu rechtlichen Fragestellungen zu Asyl und
-Aufenthalt in Deutschland. Durch regelmäßige Fallbesprechungen und Fortbildungen arbeitest
-Du Dich selbstständig in neue Themenbereiche ein.
+Wir suchen **ab April** eine\*n Rechtsberater\*in zu Asyl und Aufenthalt in **Teilzeit (20h/Woche)**. 
+Die Stelle ist vorerst befristet bis zum 31.12.2024.
+
+Als Teil unseres Teams informierst und berätst du russischsprachige LSBTIQ* persönlich, per Videokonferenz und schriftlich per E-Mail zu rechtlichen Fragestellungen zu Asyl und Aufenthalt in Deutschland. Durch regelmäßige Fallbesprechungen und Fortbildungen arbeitest Du Dich selbstständig in neue Themenbereiche ein.
 
 **Dein Profil:**
 
-- Student*in der Rechtswissenschaften, alternativ anderweitig erworbene vergleichbare Grundkenntnisse des deutschen Rechts
-- Erfolgreich abgeschlossene Module in Grundlagen des bürgerlichen Rechts und Verwaltungsrecht AT
 - Asyl- und Aufenthaltsrechtliche Kenntnisse
 - Erfahrungen in der Beratung oder Interesse die Beratungstätigkeit kennenzulernen
-- Interkulturelle Kompetenzen und Grundkenntnisse rum um LSBTQ*-Themen
+- Student\*in der Rechtswissenschaften oder alternativ anderweitig erworbene vergleichbare Grundkenntnisse des deutschen Rechts
+- Interkulturelle Kompetenzen und Grundkenntnisse rum um LSBTQ\*-Themen
 - Belastbarkeit, Fähigkeit zur Teamarbeit sowie zum selbstständigen Arbeiten
-- Gute Deutsch- und Russischkenntnisse in Wort und Schrift; Ukrainisch und Englisch sind von Vorteil
-
+- Sehr gute Deutsch- und Russischkenntnisse in Wort und Schrift; Ukrainisch und Englisch sind von Vorteil
 
 **Wir bieten:**
 
-- Die Möglichkeit, sich außerhalb des Pflichtstoffs weiterzubilden und die praktische Beratungstätigkeit kennenzulernen
-- eine spannende und abwechslungsreiche Tätigkeit
+- Die Möglichkeit, die praktische Beratungstätigkeit kennenzulernen und sich weiterzubilden eine spannende und abwechslungsreiche Tätigkeit mit viel Sinn und Wirkung eine Bezahlung angelehnt an TV-L 11
 - Onboarding und fachliche Unterstützung
-- Regelmäßige Fallbesprechungen mit ein*er Rechtsanwält\*in und Teamsupervisionen
-- Flexible Arbeitszeiten
-- Arbeitsplatz in unserem Beratungszentrum in Berlin-Prenzlauer Berg oder Homeoffice
-- Teamevents, freundliche Atmosphäre, Ausflüge etc..
+- Regelmäßige Fallbesprechungen mit unserem Rechtsanwalt und Supervisionen
+- Arbeitsplatz in unserem Beratungszentrum in Berlin-Prenzlauer Berg. Teilweise Homeoffice möglich
+- Teil eines engagierten und aktivistischen Teams zu werden, mit Teamevents, Ausflügen etc.
 
 
-Die Stelle, derzeit im Umfang von **10 Stunden pro Woche**, ist zunächst für **6 Monate befristet** und kann ab sofort besetzt werden. 
+Wir freuen uns auf Deine aussagekräftige Bewerbung (Lebenslauf, Motivationsschreiben und relevante Zeugnisse) per E-Mail an: [bewerbung@quarteera.de](bewerbung@quarteera.de)
 
-Verlängerung und/oder Stundenerweiterung sind möglich. 
+Wir behalten es uns vor, bereits vor Ablauf der Bewerbungsfrist geeignete Kandidat*innen einzuladen. Die Bewerbungsgespräche finden zeitnah in Berlin oder online statt.
 
-Wir freuen uns auf Deine aussagekräftige Bewerbung (Lebenslauf, Motivationsschreiben und relevante Zeugnisse) bis zum 30. November 2022 per E-Mail an: [bewerbung@quarteera.de](bewerbung@quarteera.de)
-
-Wir behalten es uns vor bereits vor Ablauf der Bewerbungsfrist geeignete Kandidat*innen einzuladen. Die Bewerbungsgespräche finden zeitnah in Berlin oder online statt.
-
-[pdf Version](https://quarteera.de/files/stelle/Berater_in%20zu%20Asyl%20und%20Aufenthalt%20(Minijob).pdf)
+[pdf Version](https://quarteera.de/files/stelle/Berater_in_zu_Asyl_und_Aufenthalt.pdf)
