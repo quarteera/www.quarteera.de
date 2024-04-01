@@ -1,6 +1,6 @@
 ---
 title: "Buch" # Title of your project
-date: 2024-01-06T16:38:20+01:00
+date: 2024-04-01T16:38:20+01:00
 weight: 140 # Order in which to show this project on the home page
 image: logo_de.png
 alt: "Buch"
@@ -20,6 +20,8 @@ Dieser Untersuchung liegt eine juristische Analyse zweier diskriminierender Gese
 Dieser verdeutlicht, auf welche Weise diese Gesetze sich in einen langen Prozess der Totalisierung der Gesellschaſt einbetten und diese auf die Abschaffung des Rechts auf Privatsphäre sowie auf unrechtmäßige Verfolgung vorbereiten. Die Untersuchung wurde von der Organisation Quarteera e.V. mit Unterstützung der Rosa Luxemburg Stiftung durchgeführt.
 
 [PDF herunterladen](https://quarteera.de/files/materialen/Die_Lage_von_LGBTQ_Personen_im_kriegsfuehrenden_Russland_DE.pdf)
+
+[download PDF, english version](https://quarteera.de/files/materialen/Die_Lage_von_LGBTQ_Personen_im_kriegsfuehrenden_Russland_EN.pdf)
 
 Sergey Kosilkin, Aleksandr Kochekovskii. Redaktion: Anna Eroshenko, Andrey Ditzel.
 

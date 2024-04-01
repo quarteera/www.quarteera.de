@@ -1,6 +1,6 @@
 ---
 title: "Книга" # Title of your project
-date: 2024-01-06T16:38:20+01:00
+date: 2024-04-01T16:38:20+01:00
 weight: 140 # Order in which to show this project on the home page
 image: logo_de.png
 alt: "Книга"
@@ -20,6 +20,8 @@ menuIdentifier: projects
 Исследование выполнено Quarteera e. V. при поддержке Фонда Розы Люксембург.
 
 [скачать в PDF](https://quarteera.de/files/materialen/Die_Lage_von_LGBTQ_Personen_im_kriegsfuehrenden_Russland_RU.pdf)
+
+[download PDF, english version](https://quarteera.de/files/materialen/Die_Lage_von_LGBTQ_Personen_im_kriegsfuehrenden_Russland_EN.pdf)
 
 Косилкин Сергей, Кочековский Александр. Общая редакция: Анна Ерошенко, Андрей Дитцель.
 
