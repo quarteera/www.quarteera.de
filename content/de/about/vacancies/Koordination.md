@@ -10,13 +10,13 @@ color: yellow
 
 **Koordination für die Marzahn Pride gesucht**
 
-Am 15. Juni 2024  findet die 4. Marzahn Pride im Bezirk statt. Sie richtet sich an queere Menschen, Bewohner*innen der Nachbarschaft sowie die russischsprachige Bevölkerung vor Ort. 
+Am 15. Juni 2024  findet die 5. Marzahn Pride im Bezirk statt. Sie richtet sich an queere Menschen, Bewohner*innen der Nachbarschaft sowie die russischsprachige Bevölkerung vor Ort. 
 Die Pride besteht aus einer Demonstration und einem anschließenden Straßenfest am Viktor-Klemperer-Platz mit Bühnenprogramm und zahlreichen Ständen. 
 
 Quarteera e.V. ist Organisator der Veranstaltung. Seit 2011 setzt sich der Verein für die Sichtbarkeit der russischsprachigen LSBTQ* Community in Deutschland sowie
 in der russischsprachigen Bevölkerung ein. Ein Teil davon ist die Sensibilisierung zu LSBTQ* unter russischsprachigen Mitmenschen. 
 
-Gegen eine Aufwandsentschädigung (je nach Leistung) für bis zu 1000€ suchen wir (ab sofort) eine Person, die unser Team bei der Organisation der Pride unterstützen kann. 
+Gegen eine Aufwandsentschädigung (je nach Leistung) für 1500€ suchen wir (ab sofort) eine Person, die unser Team bei der Organisation der Pride unterstützen kann. 
 
 **Deine Aufgaben:**
 - Organisation des Festes wie z.B. Anmeldung der Route und des Platzes, Klärung der Wasser-,Stromanschlüsse
