@@ -3,6 +3,7 @@ title: "Projektkoordinator:in des Projekts “Antisemitismus und Queer-Feindlich
 date: 2024-03-20T16:51:38+01:00
 weight: 150 # Order in which to show this project on the home page
 image: vacancies.png
+draft: true
 menuIdentifier: about
 color: yellow
 ---
