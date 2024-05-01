@@ -1,9 +1,9 @@
 ---
 title: "Fachkraft für Verwaltung und Finanzen" # Title of your project
-date: 2023-07-25T16:51:38+01:00
+date: 2024-01-05T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
+draft: false
 menuIdentifier: about
 color: yellow
 
@@ -12,7 +12,7 @@ color: yellow
 
 **Standort: Berlin**
 
-**30 Stunden pro Woche** zunächst bis 31.12.2023 befristet. 
+**30 Stunden pro Woche** zunächst bis 31.12.2024 befristet. 
 Eine Verlängerung ist angestrebt.
 
 
@@ -42,7 +42,7 @@ Eine Verlängerung ist angestrebt.
 
 - Attraktiver Arbeitsort in Berlin-Mitte.
 - Teilzeitstelle (75 %).
-- Vergütung in Anlehnung an TV-L 8, Stufe 1.
+- Vergütung in Anlehnung an TV-L 8, Stufe 1-2.
 - Flexible Arbeitsstunden und Homeoffice-Option.
 - Eine vielseitige und abwechslungsreiche Tätigkeit.
 
