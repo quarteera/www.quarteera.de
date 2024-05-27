@@ -488,9 +488,23 @@ body {
       height: 357px;
       display: block;
     }
+
+    .marzahn-pride-ru {
+      background-image: url("/images/ru/marzahn-banner-600.jpg");
+      width: 600px;
+      height: 299px;
+      display: block;
+    }
+    
+    .marzahn-pride-de {
+      background-image: url("/images/de/marzahn-banner-600.jpg");
+      width: 600px;
+      height: 299px;
+      display: block;
+    }
   }
 
-  .petition:hover {
+  .marzahn-pride:hover .petition:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
