@@ -490,16 +490,16 @@ body {
     }
 
     .marzahn-pride-ru {
-      background-image: url("/images/ru/marzahn-banner-600.jpg");
-      width: 600px;
-      height: 299px;
+      background-image: url("/images/ru/marzahn-banner.png");
+      width: 1024px;
+      height: 510px;
       display: block;
     }
     
     .marzahn-pride-de {
-      background-image: url("/images/de/marzahn-banner-600.jpg");
-      width: 600px;
-      height: 299px;
+      background-image: url("/images/de/marzahn-banner.png");
+      width: 1024px;
+      height: 510px;
       display: block;
     }
   }
@@ -616,6 +616,21 @@ body {
         height: 450px;
         display: block;
       }
+
+      .marzahn-pride-ru {
+        background-image: url("/images/ru/marzahn-banner-v.png");
+        width: 450px;
+        height: 224px;
+        display: block;
+      }
+
+      .marzahn-pride-de {
+        background-image: url("/images/de/marzahn-banner-v.png");
+        width: 450px;
+        height: 224px;
+        display: block;
+      }
+
     }
 
   }
