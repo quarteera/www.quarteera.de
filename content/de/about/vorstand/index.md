@@ -23,7 +23,7 @@ Vorstandsvorsitzender
 **Vtornik, Vladislav**\
 Vorstandsmitglied, Schatzmeister
 
-**Kochekovskii, Alexandr**\
+**Ovechkin, Ivan**\
 Vorstandsmitglied, Schatzmeister
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [vorstand@quarteera.de](mailto:vorstand@quarteera.de). 
