@@ -35,9 +35,14 @@ h3 {
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 400;
   margin-bottom: 0;
+}
+
+h5 {
+  font-size: 1.1rem;
+  font-weight: 400;
 }
 
 a, .desktop-language {
@@ -495,7 +500,7 @@ body {
       height: 510px;
       display: block;
     }
-    
+
     .marzahn-pride-de {
       background-image: url("/images/de/marzahn-banner.png");
       width: 1024px;
@@ -909,4 +914,41 @@ body {
   -moz-transition: none !important;
   -ms-transition: none !important;
   -o-transition: none !important;
+}
+
+.collapsible {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+  font-family: $regular-font;
+  font-size: 1rem;
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.collapsible:before {
+  content: '\02C3'; /* Unicode character for "plus" sign (+) */
+  font-size: 1rem;
+  margin-right: 5px;
+}
+
+.collapsible-active {
+  border-bottom: none;
+}
+
+.collapsible-active:before {
+  font-size: 1rem;
+  content: "\02C5"; /* Unicode character for "minus" sign (-) */
+}
+
+.collapsible-content {
+  padding: 0 2.7rem;
+  width: 100%;
+  max-width: 100%;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  border-top: none;
 }
