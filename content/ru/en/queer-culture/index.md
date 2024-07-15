@@ -16,7 +16,7 @@ menuIdentifier: projects
 ## Grant Amount: 1,000 to 5,000 euros 
 
 
-{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Apply! {{< /button >}}
+{{< button link="https://forms.gle/98ubDWFPTmX8fTycA" color="green">}} Apply! {{< /button >}}
 
 In the last two years, many queer artists from Belarus, Russia, and Ukraine have been forced to leave their homelands. War, repression, and discrimination have driven them to seek safety in other countries, where they now face new problems, challenges, and discoveries.
 
@@ -191,7 +191,7 @@ You will retain the copyright for your project. However, it is important that Qu
 
 If you have any questions, please contact us via queerekultur@quarteera.de
 
-{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Apply! {{< /button >}}
+{{< button link="https://forms.gle/98ubDWFPTmX8fTycA" color="green">}} Apply! {{< /button >}}
 
 **Quarteera condemns the Russian war against Ukraine and all forms of aggression and discrimination.**
 
