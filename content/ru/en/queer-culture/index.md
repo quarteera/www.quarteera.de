@@ -40,10 +40,10 @@ This grant is intended to support artists who express their experiences as queer
 
 ## Main Facts about the Competition
 
-**Who?**
+##### Who?
 Queer refugees from Belarus, Russia, and Ukraine with prior cultural and artistic experience are eligible to participate.
 
-**Where?**
+##### Where?
 Eligible projects can be implemented in Armenia, Georgia, Germany, and Moldova.
 
 ##### When?
