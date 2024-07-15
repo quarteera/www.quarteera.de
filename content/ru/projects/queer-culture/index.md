@@ -15,8 +15,6 @@ menuIdentifier: projects
 
 ## Гранты от 1000 до 5000 евро 
 
-## Участни_цы из Беларуси, России и Украины 
-
 
 {{< button link="https://google.com" color="green">}} Подать заявку {{< /button >}}
 
