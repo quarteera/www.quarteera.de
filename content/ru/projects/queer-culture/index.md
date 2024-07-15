@@ -2,14 +2,14 @@
 title: Квир-культура в странах Восточного партнерства и в эмиграции
 date: 2022-01-06T16:38:20+01:00
 weight: 60 # Order in which to show this project on the home page
-image: queer-culture-title.jpeg
+image: queer-culture-title.png
 summary: Гранты на культурные проекты для квир-бежен_ок
 draft: false
 accent: false
 color: green
 menuIdentifier: projects
 ---
-[To the English version](https://www.quarteera.de/projects/)
+[To the English version](/en/queer-culture)
 
 ## Прием заявок до 12 августа 2024 года
 
