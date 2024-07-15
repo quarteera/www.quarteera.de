@@ -916,6 +916,14 @@ body {
   -o-transition: none !important;
 }
 
+.delimiter {
+  width: 100%;
+  max-width: 100%;
+  border-top: 1px dashed $dark-grey;
+  margin-top: 1.8rem;
+  margin-bottom: 1.8rem;
+}
+
 .collapsible {
   cursor: pointer;
   padding: 18px;
