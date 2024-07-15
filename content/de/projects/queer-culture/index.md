@@ -15,7 +15,7 @@ menuIdentifier: projects
 
 ## Höhe der Förderung: 1.000 bis 5.000 Euro 
 
-{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Bewerben! {{< /button >}}
+{{< button link="https://forms.gle/98ubDWFPTmX8fTycA" color="green">}} Bewerben! {{< /button >}}
 
 In den vergangenen zwei Jahren mussten viele queere Künstler*innen und Kulturschaffende aus Belarus, Russland und der Ukraine ihre Heimat verlassen. Krieg, Repressionen und Diskriminierung haben sie gezwungen, in anderen Ländern Zuflucht zu suchen, wo sie jedoch mit neuen Problemen, Herausforderungen und Erkenntnissen konfrontiert sind.
 
@@ -77,7 +77,7 @@ Wir gehen davon aus, dass die meisten der von uns geförderten Projekte auch nac
 
 E-Mail für Fragen: queerekultur@quarteera.de
 
-{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Bewerben! {{< /button >}}
+{{< button link="https://forms.gle/98ubDWFPTmX8fTycA" color="green">}} Bewerben! {{< /button >}}
 
 **Quarteera verurteilt den Krieg Russlands gegen die Ukraine und alle Formen der Aggression und Diskriminierung.**
 
