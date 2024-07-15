@@ -15,8 +15,7 @@ menuIdentifier: projects
 
 ## Höhe der Förderung: 1.000 bis 5.000 Euro 
 
-
-{{< petition >}} Bewerben! {{< /petition >}}
+{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Bewerben! {{< /button >}}
 
 In den vergangenen zwei Jahren mussten viele queere Künstler*innen und Kulturschaffende aus Belarus, Russland und der Ukraine ihre Heimat verlassen. Krieg, Repressionen und Diskriminierung haben sie gezwungen, in anderen Ländern Zuflucht zu suchen, wo sie jedoch mit neuen Problemen, Herausforderungen und Erkenntnissen konfrontiert sind.
 
@@ -33,33 +32,28 @@ Mit diesem Stipendium unterstützen wir Künstler*innen, die in ihrer Arbeit üb
 * die Erfahrungen von queeren Künstler*innen im Exil zu zeigen,
 * sowie queere Künstler*innen und ihre Stimmen zu unterstützen.
 
-**Uns geht es um eure Erfahrungen (positiv, negativ, überraschend) und eure Stimmen, damit ihr gehört und verstanden werdet, um im neuen Land Unterstützung zu bekommen. Und auch, dass anderen durch eure Kunst geholfen wird.**
-**Eure Stimmen können viel verändern!**
+**Uns geht es um eure Erfahrungen (positiv, negativ, überraschend) und eure Stimmen, damit ihr gehört und verstanden werdet, um im neuen Land Unterstützung zu bekommen. Und auch, dass anderen durch eure Kunst geholfen wird. Eure Stimmen können viel verändern!**
+
+--
 
 ## Das Wichtigste zusammengefasst:
 
-#####Wer? 
-
+##### Wer? 
 Queere Migrant*innen aus Belarus, Russland und der Ukraine mit Erfahrung im Bereich Kunst und Kultur sind eingeladen, an dem Wettbewerb teilzunehmen.
 
-#####Wo? 
-
+##### Wo? 
 Die Projekte können in Armenien, Deutschland, Georgien und Moldau realisiert werden.
 
-#####Wann? 
-
+##### Wann? 
 Die Projekte müssen zwischen dem 1. September und dem 1. Dezember 2024 umgesetzt werden.
 
-#####Worum geht es?
-
+##### Worum geht es?
 Das Thema der Projekte: Erfahrungen als queere Geflüchtete.
 
-#####In welcher Sprache? 
-
+##### In welcher Sprache? 
 Die Werke können in jeglicher Sprache erstellt werden.
 
-#####Welche Art von Kunst?
-
+##### Welche Art von Kunst?
 Die Stipendien werden für die Durchführung neuer kultureller Projekte in den Bereichen
 * darstellende Kunst (Theater, Performance),
 * audiovisuelle Kunst (Musik, Podcast, Fotografie, Malerei, Zeichnung, Cartoon),
@@ -67,9 +61,10 @@ Die Stipendien werden für die Durchführung neuer kultureller Projekte in den B
 * Film
 vergeben.
 
-#####Wer wählt aus? 
-
+##### Wer wählt aus? 
 Die Jury besteht aus unabhängigen Experten und Menschenrechtsaktivisten aus den Ländern der Östlichen Partnerschaft und Deutschland mit Erfahrung im Bereich Kunst und Kultur.
+
+--
 
 ## Ergebnisse
 
@@ -83,7 +78,7 @@ Wir gehen davon aus, dass die meisten der von uns geförderten Projekte auch nac
 
 E-Mail für Fragen: queerekultur@quarteera.de
 
-{{< petition >}} Bewerben! {{< /petition >}}
+{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSegVvIbPAZHqvW4JJC1cz3q5chtfE5j-rhfYxfQXuArvbPYaw/viewform" color="green">}} Bewerben! {{< /button >}}
 
 **Quarteera verurteilt den Krieg Russlands gegen die Ukraine und alle Formen der Aggression und Diskriminierung.**
 
