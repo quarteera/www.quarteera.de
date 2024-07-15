@@ -21,7 +21,6 @@ In den vergangenen zwei Jahren mussten viele queere Künstler*innen und Kultursc
 
 Quarteera e.V. lädt mit Unterstützung des Auswärtigen Amtes im Rahmen des Programms “Civil Society Cooperation” diese im Exil lebenden queeren Künstler*innen zur Teilnahme an einem Wettbewerb für kulturelle Projekte ein.
 
-## БАННЕР
 
 ## Ziele
 Wir wollen alternative Kultur bewahren und den kulturellen Austausch und das Verständnis zwischen queeren Geflüchteten und ihren Aufnahmegesellschaften fördern.
@@ -34,7 +33,7 @@ Mit diesem Stipendium unterstützen wir Künstler*innen, die in ihrer Arbeit üb
 
 **Uns geht es um eure Erfahrungen (positiv, negativ, überraschend) und eure Stimmen, damit ihr gehört und verstanden werdet, um im neuen Land Unterstützung zu bekommen. Und auch, dass anderen durch eure Kunst geholfen wird. Eure Stimmen können viel verändern!**
 
---
+{{< delimiter >}}
 
 ## Das Wichtigste zusammengefasst:
 
@@ -64,7 +63,7 @@ vergeben.
 ##### Wer wählt aus? 
 Die Jury besteht aus unabhängigen Experten und Menschenrechtsaktivisten aus den Ländern der Östlichen Partnerschaft und Deutschland mit Erfahrung im Bereich Kunst und Kultur.
 
---
+{{< delimiter >}}
 
 ## Ergebnisse
 
