@@ -203,3 +203,6 @@ The actual amount granted to your project will be determined after all applicati
 
 ## Supported by
 
+{{< figure src="/images/partners/aa.png" class="header-logo" caption="">}}
+{{< figure src="/images/partners/CSC-Logo-web.png" class="header-logo" caption="">}}
+

@@ -1,7 +1,7 @@
 ---
 title: Queere Kultur in den ÖPR-Ländern und im Exil
 date: 2022-01-06T16:38:20+01:00
-weight: 60 # Order in which to show this project on the home page
+weight: 141 # Order in which to show this project on the home page
 image: queer-culture-title.png
 summary: Förderung von Kulturprojekten von queeren Geflüchteten
 draft: false
@@ -89,3 +89,5 @@ Der tatsächliche Betrag, der für Ihr Projekt zur Verfügung gestellt wird, wir
 
 ## Unterstützt von:
 
+{{< figure src="/images/partners/aa.png" class="header-logo" caption="">}}
+{{< figure src="/images/partners/CSC-Logo-web.png" class="header-logo" caption="">}}
