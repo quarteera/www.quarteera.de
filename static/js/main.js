@@ -40,4 +40,27 @@ const set404Url = () => {
   }
 };
 
-window.onload = set404Url;
+function initCollapsible() {
+  const coll = document.getElementsByClassName("collapsible");
+  console.log("init collapse", coll)
+  let i;
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("collapsible-active");
+      const content = this.nextElementSibling;
+      console.log("Click collapse", content.style.maxHeight, content.scrollHeight, content.offsetHeight)
+      if (content.style.maxHeight) {
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + 18 + "px";
+      }
+    });
+  }
+}
+
+const init = () => {
+  set404Url();
+  initCollapsible();
+}
+
+window.onload = init;
