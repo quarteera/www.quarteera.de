@@ -1,0 +1,10 @@
+<div class="main-section">
+    <div class="main-section-content">
+        {{ $queerCulturePage := .Site.GetPage "projects/queer-culture" }}
+        {{ with $queerCulturePage }}
+        <a class="green-dashed-border queer-culture-banner" href="{{ $queerCulturePage.RelPermalink }}">
+        </a>
+        {{ end }}
+    </div>
+</div>
+

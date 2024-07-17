@@ -494,6 +494,13 @@ body {
       display: block;
     }
 
+    .queer-culture-banner {
+      background-image: url("/images/banner/queer-culture-1024.gif");
+      width: 1024px;
+      height: 465px;
+      display: block;
+    }
+
     .marzahn-pride-ru {
       background-image: url("/images/ru/marzahn-banner.png");
       width: 1024px;
@@ -509,7 +516,7 @@ body {
     }
   }
 
-  .marzahn-pride:hover .petition:hover {
+  .marzahn-pride:hover, .petition:hover, .queer-culture-banner:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
@@ -612,6 +619,13 @@ body {
         background-image: url("/images/de/paragraph-23-v.png");
         width: 450px;
         height: 450px;
+        display: block;
+      }
+
+      .queer-culture-banner {
+        background-image: url("/images/banner/queer-culture-550.gif");
+        width: 550px;
+        height: 250px;
         display: block;
       }
 
