@@ -3,7 +3,7 @@ title: Queer Culture in Eastern Partnership Countries and in Exile
 date: 2022-01-06T16:38:20+01:00
 weight: 60 # Order in which to show this project on the home page
 image: queer-culture-title.png
-summary: Grant Competition for Cultural Projects for Queer Refugees
+summary: Cultural project competition for queer individuals who had to flee due to war, repression, and persecution
 draft: false
 accent: false
 color: green
