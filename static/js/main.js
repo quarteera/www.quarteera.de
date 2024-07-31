@@ -42,13 +42,13 @@ const set404Url = () => {
 
 function initCollapsible() {
   const coll = document.getElementsByClassName("collapsible");
-  console.log("init collapse", coll)
+  //console.log("init collapse", coll)
   let i;
   for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function () {
       this.classList.toggle("collapsible-active");
       const content = this.nextElementSibling;
-      console.log("Click collapse", content.style.maxHeight, content.scrollHeight, content.offsetHeight)
+      //console.log("Click collapse", content.style.maxHeight, content.scrollHeight, content.offsetHeight)
       if (content.style.maxHeight) {
         content.style.maxHeight = null;
       } else {
@@ -63,4 +63,4 @@ const init = () => {
   initCollapsible();
 }
 
-window.onload = init;
+init();
