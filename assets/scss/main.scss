@@ -939,6 +939,10 @@ body {
 }
 
 .collapsible {
+  @include row;
+  @include reset-a-style;
+  background-color: white;
+
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -966,6 +970,9 @@ body {
 }
 
 .collapsible-content {
+  @include row;
+  @include reset-a-style;
+
   padding: 0 2.7rem;
   width: 100%;
   max-width: 100%;
@@ -973,4 +980,6 @@ body {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   border-top: none;
+  background-color: white;
+  margin-bottom: 1rem;
 }
