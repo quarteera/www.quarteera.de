@@ -1,6 +1,6 @@
 ---
-title: "Politisches Manifest zum Pride Month 2023" # Title of your project
-date: 2023-06-30T16:51:38+01:00
+title: "Politisches Manifest zum Pride Month" # Title of your project
+date: 2024-07-30T16:51:38+01:00
 weight: 150 # Order in which to show this project on the home page
 image: manifest-logo.png
 alt: "some alt text"
@@ -8,9 +8,10 @@ summary: "Die Marzahn Pride ist vorbei, aber der Kampf geht weiter!"
 draft: false
 color: yellow
 menuIdentifier: about
+aliases: [/de/about/manifest-2023]
 ---
 
-Der anhaltende Krieg Russlands gegen die Ukraine, verschärfte Gesetze und politische Hasskampagnen gegen die LGBTIQ\*-Community in Russland sowie die queerfeindliche Politik in angrenzenden Ländern machen deutlich: LGBTIQ\* Menschen sind auch im Jahr 2023 in Gefahr und brauchen unsere volle Solidarität!
+Der anhaltende Krieg Russlands gegen die Ukraine, verschärfte Gesetze und politische Hasskampagnen gegen die LGBTIQ\*-Community in Russland sowie die queerfeindliche Politik in angrenzenden Ländern machen deutlich: LGBTIQ\* Menschen sind auch im Jahr 2024 in Gefahr und brauchen unsere volle Solidarität!
 
 Wir solidarisieren uns mit allen Menschen, die von Krieg, Kolonialismus, Imperialismus, Patriarchat und diktatorischen Regimen betroffen sind. Wir stehen allen LGBTIQ\* Menschen bei, die in ihren Herkunftsländern, auf der Flucht oder in vermeintlich sicheren Ländern diskriminiert werden und Gewalt erfahren. Wir fordern für alle ein Leben in Sicherheit, Freiheit und Würde. LGBTIQ\* Rechte waren, sind und bleiben  Menschenrechte!
 
