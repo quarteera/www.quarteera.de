@@ -4,7 +4,7 @@ title = 'Quarteera /// Russian Queer in Germany'
 defaultContentLanguage = 'ru'
 [languages]
   [languages.ru]
-    title = 'Русскоязычные ЛГБТ в Германии '
+    title = 'Quarteera e. V. - это сообщество ЛГБТК+ людей, живущих в Германии и общающихся на русском языке.'
     languageName = 'RU'
     weight = 1
     contentDir = 'content/ru'
@@ -50,7 +50,7 @@ defaultContentLanguage = 'ru'
       url = '/datenschutz'
       weight = 4
   [languages.de]
-    title = 'Russischsprachige LGBT in Deutschland'
+    title = 'Quarteera e. V. - Vereinigung von LGBTQ+ Personen, die in Deutschland leben und Russich sprechen.'
     languageName = 'DE'
     weight = 2
     contentDir = 'content/de'
