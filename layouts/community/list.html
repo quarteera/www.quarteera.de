@@ -23,7 +23,7 @@
         {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
           {{ $image := .Resources.GetMatch (.Params.image) }}
           {{ with $image }}
-            <img class="image" src="{{ ( $image.Fill "1064x400 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            <img class="image" src="{{ ( $image.Fill "1064x400 Center" ).RelPermalink }}" alt="{{ .Params.alt }}"/>
           {{ end }}
         {{ end }}
       </a>
@@ -32,7 +32,7 @@
         {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
           {{ $image := .Resources.GetMatch (.Params.image) }}
           {{ with $image }}
-            <img class="image" src="{{ ( $image.Fill "285x285 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            <img class="image" src="{{ ( $image.Fill "285x285 Center" ).RelPermalink }}" alt="{{ .Params.alt }}"/>
           {{ end }}
         {{ end }}
         <div>
@@ -62,7 +62,7 @@
           {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
             {{ $image := .Resources.GetMatch (.Params.image) }}
             {{ with $image }}
-              <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+              <img class="image" src="{{ ( $image.Fill "352x352 Center" ).RelPermalink }}" alt="{{ .Params.alt }}"/>
             {{ end }}
           {{ end }}
           <div>

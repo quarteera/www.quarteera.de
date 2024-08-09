@@ -13,7 +13,7 @@
         {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
           {{ $img := .Resources.GetMatch (.Params.image) }}
           {{ with $img }}
-            <img class="image" src="{{ ( $img.Fill "352x352 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+            <img class="image" src="{{ ( $img.Fill "352x352 Center" ).RelPermalink }}" alt="{{ .Params.alt }}"/>
           {{ end }}
         {{ end }}
         <div>
@@ -31,7 +31,7 @@
           {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
             {{ $img := .Resources.GetMatch (.Params.image) }}
             {{ with $img }}
-              <img class="image" src="{{ ( $img.Fill "80x80 Center" ).RelPermalink }}" atl="{{ .Params.alt }}"/>
+              <img class="image" src="{{ ( $img.Fill "80x80 Center" ).RelPermalink }}" alt="{{ .Params.alt }}"/>
             {{ end }}
           {{ end }}
           <h4>{{ .Title }}</h4>
