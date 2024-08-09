@@ -11,43 +11,43 @@ defaultContentLanguage = 'ru'
     [languages.ru.menu]
     [[languages.ru.menu.main]]
       name = 'О нас'
-      url = '/about'
+      url = '/about/'
       weight = 0
       pre = 'yellow'
       identifier = 'about'
     [[languages.ru.menu.main]]
       name = 'Проекты'
-      url = '/projects'
+      url = '/projects/'
       weight = 1
       pre = 'green'
       identifier = 'projects'
     [[languages.ru.menu.main]]
       name = 'Получить помощь'
-      url = '/help'
+      url = '/help/'
       weight = 2
       pre = 'red'
       identifier = 'help'
     [[languages.ru.menu.main]]
       name = 'Комьюнити'
-      url = '/community'
+      url = '/community/'
       weight = 3
       pre = 'purple'
       identifier = 'community'
     [[languages.ru.menu.footer]]
       name = 'Пресса'
-      url = '/press'
+      url = '/press/'
       weight = 1
     [[languages.ru.menu.footer]]
       name = 'Карьера'
-      url = '/karriere'
+      url = '/karriere/'
       weight = 2
     [[languages.ru.menu.footer]]
       name = 'Выходные данные'
-      url = '/impressum'
+      url = '/impressum/'
       weight = 3
     [[languages.ru.menu.footer]]
       name = 'Политика конфеденциальности'
-      url = '/datenschutz'
+      url = '/datenschutz/'
       weight = 4
   [languages.de]
     title = 'Quarteera e. V. - Vereinigung von LGBTQ+ Personen, die in Deutschland leben und Russich sprechen.'
@@ -57,41 +57,41 @@ defaultContentLanguage = 'ru'
     [languages.de.menu]
     [[languages.de.menu.main]]
       name = 'Über uns'
-      url = '/about'
+      url = '/about/'
       weight = 0
       pre = 'yellow'
       identifier = 'about'
     [[languages.de.menu.main]]
       name = 'Projekte'
-      url = '/projects'
+      url = '/projects/'
       weight = 1
       pre = 'green'
       identifier = 'projects'
     [[languages.de.menu.main]]
       name = 'Hilfe bekommen'
-      url = '/help'
+      url = '/help/'
       weight = 2
       pre = 'red'
       identifier = 'help'
     [[languages.de.menu.main]]
       name = 'Community'
-      url = '/community'
+      url = '/community/'
       weight = 3
       pre = 'purple'
       identifier = 'community'
     [[languages.de.menu.footer]]
       name = 'Press'
-      url = '/de/press'
+      url = '/de/press/'
       weight = 1
     [[languages.de.menu.footer]]
       name = 'Karriere'
-      url = '/de/karriere'
+      url = '/de/karriere/'
       weight = 2
     [[languages.de.menu.footer]]
       name = 'Impressum'
-      url = '/impressum'
+      url = '/impressum/'
       weight = 3
     [[languages.de.menu.footer]]
       name = 'Datenschutz'
-      url = '/datenschutz'
+      url = '/datenschutz/'
       weight = 4
