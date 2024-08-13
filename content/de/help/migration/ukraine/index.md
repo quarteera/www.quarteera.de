@@ -34,7 +34,7 @@ Die besten und aktuellsten Informationen (auf Deutsch, Russisch und Ukrainisch) 
 
 #### Kostenlose Rechtsberatung für Geflüchtete aus der Ukraine in Deutschland
 (wir wissen nicht genau, wie LGBTQ*-freundlich sie sind und können da nichts garantieren) \
-[http://pereprava.de/](https://pereprava.de/)
+[https://pereprava.de/](https://pereprava.de/)
 
 #### Stellenangebote
 Eine Jobbörse für Menschen in Not \

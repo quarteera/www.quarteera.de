@@ -1,4 +1,4 @@
-baseURL = 'http://www.quarteera.de'
+baseURL = 'https://www.quarteera.de'
 languageCode = 'ru-RU'
 title = 'Quarteera /// Russian Queer in Germany'
 defaultContentLanguage = 'ru'

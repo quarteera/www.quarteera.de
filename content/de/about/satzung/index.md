@@ -11,4 +11,4 @@ menuIdentifier: about
 aliases: [/satzung]
 ---
 
-Aktuelle Satzung von Quarteera finden sie [hier](http://quarteera.de/files/satzung.pdf)
+Aktuelle Satzung von Quarteera finden sie [hier](https://quarteera.de/files/satzung.pdf)
