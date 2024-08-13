@@ -1,6 +1,6 @@
 ---
 title: "Beirat" # Title of your project
-date: 2024-01-03T12:51:38+01:00
+date: 2024-07-03T12:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: beirat.png
 alt: "Beirat"

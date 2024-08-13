@@ -1,6 +1,6 @@
 ---
 title: "Vorstand" # Title of your project
-date: 2023-12-03T12:51:38+01:00
+date: 2024-07-03T12:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: vorstand.png
 alt: "Vorstand 2023"
