@@ -56,7 +56,7 @@ Nein. Um Asyl zu beantragen, müssen Sie zuerst nach Deutschland einreisen. Eine
 
 ### Wo und wie kann ich in Deutschland Asyl beantragen?
 
-Einen Asylantrag können Sie beim Bundesamt für Migration und Flüchtlinge (BAMF) stellen, das in jeder größeren Stadt in Deutschland eine Außenstelle hat. Die Adressen der BAMF-Außenstellen in den größeren deutschen Städten finden Sie [unter diesem Link](http://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html).
+Einen Asylantrag können Sie beim Bundesamt für Migration und Flüchtlinge (BAMF) stellen, das in jeder größeren Stadt in Deutschland eine Außenstelle hat. Die Adressen der BAMF-Außenstellen in den größeren deutschen Städten finden Sie [unter diesem Link](https://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html).
 
 Sie können sich auch bei der Polizei über Adressen erkundigen. Der Antrag sollte so früh wie möglich gestellt werden, wenn möglich gleich nach Ihrer Ankunft.
 

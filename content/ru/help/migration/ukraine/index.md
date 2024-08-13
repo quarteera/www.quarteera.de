@@ -34,7 +34,7 @@ menuIdentifier: help
 
 #### Бесплатные юридические консультации для беженцев из Украины в Германии 
 (не ручаемся, насколько они ЛГБТ френдли) \
-[http://pereprava.de/](https://pereprava.de/) 
+[https://pereprava.de/](https://pereprava.de/) 
 
 #### Предложения о работе
 A job exchange for people in need \

@@ -57,7 +57,7 @@ aliases: [/asyl-russian]
 
 ### Где и как я могу просить убежище в Германии?
 
-Прошение об убежище подается в ведомстве по делам мигрантов и беженцев (BAMF), представительства которого есть в каждом большом городе Германии. Адреса миграционных ведомств в крупных городах Германии можно узнать [по ссылке.](http://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html"http://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html)
+Прошение об убежище подается в ведомстве по делам мигрантов и беженцев (BAMF), представительства которого есть в каждом большом городе Германии. Адреса миграционных ведомств в крупных городах Германии можно узнать [по ссылке.](https://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html"https://www.bamf.de/DE/DasBAMF/Aufbau/Aussenstellen/aussenstellen-node.html)
 
 Также можно обратиться за адресом в полицию. Прошение необходимо подать как можно раньше, по возможности сразу по прибытию.
 

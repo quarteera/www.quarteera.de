@@ -10,6 +10,6 @@ color: yellow
 menuIdentifier: about
 ---
 
-Наш устав вы найдете [по ссылке](http://quarteera.de/files/satzung.pdf) (на немецком языке)
+Наш устав вы найдете [по ссылке](https://quarteera.de/files/satzung.pdf) (на немецком языке)
 
-[На русском языке](http://quarteera.de/files/satzung_ru.pdf)
+[На русском языке](https://quarteera.de/files/satzung_ru.pdf)

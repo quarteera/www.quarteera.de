@@ -34,7 +34,7 @@ const set404Url = () => {
   if (oldUrl) {
     const url = window.location.href;
     const paramsString = url.substring(url.lastIndexOf('quarteera.de') + 12);
-    let oldUrlText = "http://old.quarteera.de" + paramsString;
+    let oldUrlText = "https://old.quarteera.de" + paramsString;
     oldUrl.setAttribute("href", oldUrlText);
     oldUrl.innerHTML = oldUrlText;
   }

@@ -33,7 +33,7 @@ Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-m
 - Entwicklung eines Community-Zentrum
 - Laufende Projekte.
 
-Außerdem können Sie Quarteeras Broschüre ["Mythen und Fakten über Schwule, Lesben und Bisexuelle](http://www.quarteera.de/blog/broshura)” (auf Russisch, 104 Seiten) gegen ein Spende bestellen, sowie unsere Postkarten und Aufkleber oder auch ВЗАИМОПОДДЕРЖКА-Armbänder.
+Außerdem können Sie Quarteeras Broschüre ["Mythen und Fakten über Schwule, Lesben und Bisexuelle](/projects/broschuere2016/)” (auf Russisch, 104 Seiten) gegen ein Spende bestellen, sowie unsere Postkarten und Aufkleber oder auch ВЗАИМОПОДДЕРЖКА-Armbänder.
  {{< figure src="000qfacts.jpeg" class="article-image" >}} {{< figure src="000otkr.jpeg" class="article-image" >}}
 {{< figure src="2s.jpeg" class="article-image" >}} {{< figure src="1s.jpeg" class="article-image" >}}
 
