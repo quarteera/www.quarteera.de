@@ -5,7 +5,7 @@ weight: 130 # Order in which to show this project on the home page
 image: Ukraine_photo.jpg
 summary: "Wir helfen LGBTQ*-Menschen aus der Ukraine, die nach Deutschland fliehen. Wir waren von der militärischen Invasion in der Ukraine zutiefst schockiert und konnten nicht untätig bleiben. In wenigen Tagen haben wir ein effektives System aufgebaut, das ausschließlich auf ehrenamtlichen Ressourcen basiert."
 alt: "some image"
-draft: false
+draft: true
 accent: true
 color: green
 menuIdentifier: projects

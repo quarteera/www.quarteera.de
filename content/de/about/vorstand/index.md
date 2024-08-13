@@ -14,9 +14,6 @@ menuIdentifier: about
 **Paramonov, Dmitrij**\
 Vorstandsvorsitzender
 
-**Lunchenkov, Nikolay**\
-Vorstandsvorsitzender
-
 **Beltiugov, Andrei**\
 Vorstandsvorsitzender
 

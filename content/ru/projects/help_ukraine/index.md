@@ -5,7 +5,7 @@ weight: 130 # Order in which to show this project on the home page
 image: Ukraine_photo.jpg
 summary: "Помогаем ЛГБТК+ людям из Украины, бегущим в Германию. Мы были глубоко шокированы военным вторжением в Украину и не могли остаться в стороне. За несколько дней мы построили эффективную систему, основанную исключительно на волонтерских ресурсах."
 alt: "some image"
-draft: false
+draft: true
 accent: true
 color: green
 menuIdentifier: projects
