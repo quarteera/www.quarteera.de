@@ -43,6 +43,13 @@
     {{ end }}
   </a>
   {{ end }}
+  {{ if .Page.Eq .Page.FirstSection }}
+  <center>
+    <p class="text">Dieses Projekt wird gefördert durch die Senatsverwaltung für Soziales, Arbeit, Gleichstellung, Integration, Vielfalt und Antidiskriminierung durch die Landesstelle für Gleichbehandlung – gegen Diskriminierung (LADS).</p>
+  </center>
+  <img class="image" src="/images/partners/B_SEN_ASGIVA_Logo_DE_H_PT_4C.png"/><br/>
+  <img class="image" src="/images/partners/lads_logo.png"/>
+  {{ end }}
 </div>
 {{- partial "tree.html" (dict "context" . "style" .Params.color) -}}
 {{ end }}
