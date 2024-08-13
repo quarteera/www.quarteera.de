@@ -5,7 +5,7 @@
         <div class="column">
           {{ $image := .Resources.GetMatch (.Params.image) }}
           {{ with $image }}
-            <img class="main-image" src="{{ ( $image.Fill "405x405 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
+            <img class="main-image" src="{{ ( $image.Fill "405x405 Center" ).RelPermalink }}" alt="{{.Params.alt}}"/>
           {{ end }}
         </div>
       {{ end }}
