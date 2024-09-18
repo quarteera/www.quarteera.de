@@ -1,0 +1,57 @@
+[
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/projects/qib16/"
+    },
+    "Redirect": {
+      "HostName": "quarteera.tilda.ws",
+      "Protocol": "http"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/de/projects/qib16/"
+    },
+    "Redirect": {
+      "HostName": "quarteera.tilda.ws",
+      "Protocol": "http"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/hamburg"
+    },
+    "Redirect": {
+      "HostName": "sites.google.com",
+      "Protocol": "https",
+      "ReplaceKeyPrefixWith": "/quarteera.de/quarteera-hamburg"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/de/hamburg"
+    },
+    "Redirect": {
+      "HostName": "sites.google.com",
+      "Protocol": "https",
+      "ReplaceKeyPrefixWith": "/quarteera.de/quarteera-hamburg"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "aws/"
+    },
+    "Redirect": {
+      "ReplaceKeyPrefixWith": "/"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "de/aws/"
+    },
+    "Redirect": {
+      "ReplaceKeyPrefixWith": "de/"
+    }
+  }
+
+]
