@@ -1,3 +1,7 @@
 {{ if and (eq ($.Param "add_scripts.vacancy") "Volljurist") (eq .Site.Language.LanguageName "DE")}}
     {{- partial "vacancies/volljurist.html" . -}}
 {{ end }}
+
+{{ if and (eq ($.Param "add_scripts.vacancy") "Betriebsleiter_in") (eq .Site.Language.LanguageName "DE")}}
+{{- partial "vacancies/betriebsleiter_in.html" . -}}
+{{ end }}

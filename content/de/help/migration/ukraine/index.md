@@ -8,6 +8,7 @@ summary: "Wir haben für Sie die wichtigste Information für Kriegsgeflüchtete 
 draft: false
 color: red
 menuIdentifier: migration
+aliases: [/de/projects/help_ukraine]
 ---
 ## Beratung und Unterstützung 
 

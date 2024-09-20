@@ -1,9 +1,9 @@
 ---
 title: "Betriebsleiter:in" # Title of your project
-date: 2023-07-25T16:51:38+01:00
+date: 2024-09-19T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
+draft: false
 menuIdentifier: about
 color: yellow
 ---
@@ -14,13 +14,13 @@ Unser Verein befindet sich in einer Wachstumsphase und bedarf eine kompetente Un
 
 **Standort: Berlin**
 
-**40 Stunden pro Woche** zunächst bis 31.07.2024 befristet. 
+**40 Stunden pro Woche** zunächst bis 31.12.2025 befristet. 
 Eine Verlängerung ist angestrebt.
 
 
 **Deine Aufgaben:**
 
-- Eigenverantwortliche Leitung des täglichen Betriebs der Organisation, insbesondere in Bereichen Personal- und Finanzwesen, Buchhaltung, IT, sowie Öffentlichkeitsarbeit
+- Eigenverantwortliche Leitung des täglichen Betriebs der Organisation, insbesondere in Bereichen Personal- und Finanzwesen, Buchhaltung, sowie IT
 - Leitung des Verwaltungsteams bestehend aus haupt- und ehrenamtlichen Kräften
 - Wirksame Unterstützung des Vorstandes in Zusammenarbeit mit anderen Leiter:innen, bei Führungsaufgaben und Weiterentwicklung der Strategie der Organisation
 - Sicherung eines störungsfreien Ablaufes, Entwicklung und Verbesserung aller Arbeitsprozesse
@@ -40,13 +40,13 @@ Eine Verlängerung ist angestrebt.
 - Problemlösungs- und Entscheidungskompetenz
 - Sicheres Auftreten sowie hohe kommunikative und Teamfähigkeit
 - Offenheit und Sensibilität gegenüber kulturellen und gesellschaftspolitischen Entwicklung
-- **Gute Deutsch- sowie Russischkenntnisse in Wort und Schrift**.
+- **Sehr gute Deutsch- sowie Russischkenntnisse in Wort und Schrift.**.
 - Kenntnisse der ukrainischen und englischen Sprachen sind von Vorteil.
          
 
 **Wir bieten:**
 
-- Vergütung in Anlehnung an TV-L 12, Stufe 3/4 (je nach Erfahrung und Kompetenzen)
+- Vergütung in Anlehnung an TV-L 12, Stufe 1/2 (je nach Erfahrung und Kompetenzen)
 - Ein Arbeitsplatz in unserem Community-Zentrum in Berlin-Mitte
 - Flexible Arbeitszeit und Homeoffice-Option, 30 Tage Urlaub
 - Teamevents, freundliche Atmosphäre, Ausflüge usw.

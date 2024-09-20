@@ -8,6 +8,7 @@ summary: "В этом разделе мы собрали для вас всю о
 draft: false
 color: red
 menuIdentifier: help
+aliases: [/projects/help_ukraine]
 ---
 ## Консультации и помощь 
 
