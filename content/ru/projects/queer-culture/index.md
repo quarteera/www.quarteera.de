@@ -1,7 +1,7 @@
 ---
 title: Квир-культура в странах Восточного партнерства и в эмиграции
-date: 2022-01-06T16:38:20+01:00
-weight: 141 # Order in which to show this project on the home page
+date: 2024-08-06T16:38:20+01:00
+weight: 120 # Order in which to show this project on the home page
 image: queer-culture-title.png
 summary: Гранты на культурные проекты для квир-бежен_ок и людей в изгнании
 draft: false

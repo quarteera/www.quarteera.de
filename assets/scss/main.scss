@@ -107,7 +107,7 @@ img {
 .page-image img {
   width: 35rem;
   height: auto;
-  outline: 1px solid $dark-yellow;
+  outline: 1px;
 }
 
 .page-image figcaption {
@@ -514,6 +514,20 @@ body {
       height: 510px;
       display: block;
     }
+
+    .new-vacancy-banner-ru {
+      background-image: url("/images/ru/neu-vacancy-banner-ru-1024.png");
+      width: 1024px;
+      height: 510px;
+      display: block;
+    }
+
+    .new-vacancy-banner-de {
+      background-image: url("/images/de/neu-vacancy-banner-de-1024.png");
+      width: 1024px;
+      height: 510px;
+      display: block;
+    }
   }
 
   .marzahn-pride:hover, .petition:hover, .queer-culture-banner:hover {
@@ -647,6 +661,20 @@ body {
         background-image: url("/images/de/marzahn-banner-v.png");
         width: 450px;
         height: 224px;
+        display: block;
+      }
+
+      .new-vacancy-banner-ru {
+        background-image: url("/images/ru/neu-vacancy-banner-ru-550.png");
+        width: 550px;
+        height: 250px;
+        display: block;
+      }
+
+      .new-vacancy-banner-de {
+        background-image: url("/images/de/neu-vacancy-banner-de-550.png");
+        width: 550px;
+        height: 250px;
         display: block;
       }
 

@@ -1,0 +1,10 @@
+<div class="main-section">
+    <div class="main-section-content">
+        {{ $vacancyPage := .Site.GetPage "about/vacancies/" }}
+        {{ with $vacancyPage }}
+        <a class="new-vacancy-banner-{{ $.Site.Language }}" href="{{ $vacancyPage.RelPermalink }}">
+        </a>
+        {{ end }}
+    </div>
+</div>
+
