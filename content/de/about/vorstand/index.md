@@ -9,12 +9,15 @@ draft: false
 color: yellow
 menuIdentifier: about
 ---
-## Vorstandsmitglieder (Herbst 2023 - Herbst 2024)
+## Vorstandsmitglieder (Herbst 2024 - Herbst 2025)
 
 **Paramonov, Dmitrij**\
 Vorstandsvorsitzender
 
 **Beltiugov, Andrei**\
+Vorstandsvorsitzender
+
+**Burlak, Viktoriya**\
 Vorstandsvorsitzender
 
 **Vtornik, Vladislav**\
