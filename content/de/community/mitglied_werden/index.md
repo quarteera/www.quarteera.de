@@ -13,7 +13,7 @@ accent: true
 
 Super! Wir freuen uns auf Sie.
 
-Der Mitgliedschaftsbeitrag beträgt bei uns 12 Euro jährlich. Der Beitrag ist immer für das ganzes Jahr im Voraus fällig. Ermäßigungen sind in begründeten Fällen auf Antrag möglich. Beitrag können Sie bequem per Lastschrift aber auch per Überweisung oder in bar zahlen.
+Der Mitgliedschaftsbeitrag beträgt bei uns 48 Euro jährlich. Der Beitrag ist immer für das ganzes Jahr im Voraus fällig. Ermäßigungen sind in begründeten Fällen auf Antrag möglich. Beitrag können Sie bequem per Lastschrift aber auch per Überweisung oder in bar zahlen.
 
 Sie können sich mit unserer Satzung vertraut machen. 
 
