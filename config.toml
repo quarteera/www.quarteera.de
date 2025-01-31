@@ -95,49 +95,49 @@ defaultContentLanguage = 'ru'
       name = 'Datenschutz'
       url = '/datenschutz/'
       weight = 4
-[languages.en]
-title = 'Quarteera e. V. is a community of LGBTQ+ people living in Germany and communicating in Russian.'
-languageName = 'EN'
-weight = 1
-contentDir = 'content/en'
-[languages.en.menu]
-[[languages.en.menu.main]]
-name = 'About us'
-url = '/about/'
-weight = 0
-pre = 'yellow'
-identifier = 'about'
-[[languages.en.menu.main]]
-name = 'Projects'
-url = '/projects/'
-weight = 1
-pre = 'green'
-identifier = 'projects'
-[[languages.en.menu.main]]
-name = 'Get help'
-url = '/help/'
-weight = 2
-pre = 'red'
-identifier = 'help'
-[[languages.en.menu.main]]
-name = 'Community'
-url = '/community/'
-weight = 3
-pre = 'purple'
-identifier = 'community'
-[[languages.en.menu.footer]]
-name = 'Press'
-url = '/en/press/'
-weight = 1
-[[languages.en.menu.footer]]
-name = 'career'
-url = '/en/karriere/'
-weight = 2
-[[languages.en.menu.footer]]
-name = 'Imprint'
-url = '/impressum/'
-weight = 3
-[[languages.en.menu.footer]]
-name = 'Privacy Policy'
-url = '/datenschutz/'
-weight = 4
+  [languages.en]
+    title = 'Quarteera e. V. is a community of LGBTQ+ people living in Germany and communicating in Russian.'
+    languageName = 'EN'
+    weight = 1
+    contentDir = 'content/en'
+    [languages.en.menu]
+    [[languages.en.menu.main]]
+      name = 'About us'
+      url = '/about/'
+      weight = 0
+      pre = 'yellow'
+      identifier = 'about'
+    [[languages.en.menu.main]]
+      name = 'Projects'
+      url = '/projects/'
+      weight = 1
+      pre = 'green'
+      identifier = 'projects'
+    [[languages.en.menu.main]]
+      name = 'Get help'
+      url = '/help/'
+      weight = 2
+      pre = 'red'
+      identifier = 'help'
+    [[languages.en.menu.main]]
+      name = 'Community'
+      url = '/community/'
+      weight = 3
+      pre = 'purple'
+      identifier = 'community'
+    [[languages.en.menu.footer]]
+      name = 'Press'
+      url = '/en/press/'
+      weight = 1
+    [[languages.en.menu.footer]]
+      name = 'Career'
+      url = '/en/career/'
+      weight = 2
+    [[languages.en.menu.footer]]
+      name = 'Imprint'
+      url = '/impressum/'
+      weight = 3
+    [[languages.en.menu.footer]]
+      name = 'Privacy Policy'
+      url = '/datenschutz/'
+      weight = 4
