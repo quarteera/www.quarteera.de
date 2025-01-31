@@ -98,7 +98,7 @@ defaultContentLanguage = 'ru'
   [languages.en]
     title = 'Quarteera e. V. is a community of LGBTQ+ people living in Germany and communicating in Russian.'
     languageName = 'EN'
-    weight = 1
+    weight = 3
     contentDir = 'content/en'
     [languages.en.menu]
     [[languages.en.menu.main]]
