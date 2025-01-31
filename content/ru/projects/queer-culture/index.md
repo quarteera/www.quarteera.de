@@ -9,7 +9,6 @@ accent: false
 color: green
 menuIdentifier: projects
 ---
-[To the English version](/en/queer-culture)
 
 ## Прием заявок до 12 августа 2024 года
 
