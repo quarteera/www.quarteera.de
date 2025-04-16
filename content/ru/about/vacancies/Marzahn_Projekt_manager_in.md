@@ -1,6 +1,6 @@
 ---
 title: "Projektkoordinator:in des Community-Zentrums Marzahn-Hellersdorf" # Title of your project
-date: 2024-01-10T16:51:38+01:00
+date: 2025-01-01T16:51:38+01:00
 weight: 2 # Order in which to show this project on the home page
 image: vacancies.png
 draft: true
@@ -8,11 +8,11 @@ menuIdentifier: about
 color: yellow
 ---
 
-**Ab 01.02.2024** suchen wir **Projektkoordinator:in des Community-Zentrums Marzahn-Hellersdorf für ukrainische und russisch-sprechende LSBTQ\* Geflüchtete**  ab in Teilzeit (50% Stelle), zunächst befristet bis 31.12.2024
+**Ab 01.01.2025** suchen wir **Projektkoordinator:in des Community-Zentrums Marzahn-Hellersdorf für ukrainische und russisch-sprechende LSBTQ\* Geflüchtete**  ab in Teilzeit (50% Stelle), zunächst befristet bis 31.12.2025
 
 **Standort: Marzahn-Hellersdorf, Berlin**
 
-Zum Ausbau unserer Tätigkeiten in Marzahn-Hellersdorf sowie zur Unterstützung der Community von ukrainischen und russisch-sprechenden LSBTQ\*-Geflüchteten im Bezirk suchen wir eine:n Projektkoordinator:in. Die Stelle ist zunächst bis Ende 2024 befristet. Eine Verlängerung wird angestrebt.
+Zum Ausbau unserer Tätigkeiten in Marzahn-Hellersdorf sowie zur Unterstützung der Community von ukrainischen und russisch-sprechenden LSBTQ\*-Geflüchteten im Bezirk suchen wir eine:n Projektkoordinator:in. Die Stelle ist zunächst bis Ende 2025 befristet. Eine Verlängerung wird angestrebt.
 
 **Deine Aufgaben:**
 
@@ -45,4 +45,4 @@ Zum Ausbau unserer Tätigkeiten in Marzahn-Hellersdorf sowie zur Unterstützung 
 
 Wir freuen uns auf Deine aussagekräftige Bewerbung (Lebenslauf, Motivationsschreiben und relevante Zeugnisse) per E-Mail an: **bewerbung@quarteera.de**
 
-[pdf Version](https://quarteera.de/files/stelle/Projektkoordination_Marzahn-Hellersdorf_2024.pdf)
+[pdf Version](https://quarteera.de/files/stelle/Projektkoordination_Marzahn-Hellersdorf.pdf)

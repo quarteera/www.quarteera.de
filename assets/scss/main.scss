@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 2.75rem;
+  font-size: 2.0rem;
 }
 
 h3 {
@@ -107,7 +107,7 @@ img {
 .page-image img {
   width: 35rem;
   height: auto;
-  outline: 1px solid $dark-yellow;
+  outline: 1px;
 }
 
 .page-image figcaption {
@@ -494,10 +494,10 @@ body {
       display: block;
     }
 
-    .queer-culture-banner {
-      background-image: url("/images/banner/queer-culture-1024.gif");
+    .queer-culture-banner-festival {
+      background-image: url("/images/banner/queer-culture-1024.png");
       width: 1024px;
-      height: 465px;
+      height: 358px;
       display: block;
     }
 
@@ -512,6 +512,20 @@ body {
       background-image: url("/images/de/marzahn-banner.png");
       width: 1024px;
       height: 510px;
+      display: block;
+    }
+
+    .new-vacancy-banner-ru {
+      background-image: url("/images/ru/neu-vacancy-banner-ru-1024.png");
+      width: 1024px;
+      height: 550px;
+      display: block;
+    }
+
+    .new-vacancy-banner-de {
+      background-image: url("/images/de/neu-vacancy-banner-de-1024.png");
+      width: 1024px;
+      height: 550px;
       display: block;
     }
   }
@@ -622,10 +636,10 @@ body {
         display: block;
       }
 
-      .queer-culture-banner {
-        background-image: url("/images/banner/queer-culture-550.gif");
+      .queer-culture-banner-festival {
+        background-image: url("/images/banner/queer-culture-550.png");
         width: 550px;
-        height: 250px;
+        height: 260px;
         display: block;
       }
 
@@ -647,6 +661,20 @@ body {
         background-image: url("/images/de/marzahn-banner-v.png");
         width: 450px;
         height: 224px;
+        display: block;
+      }
+
+      .new-vacancy-banner-ru {
+        background-image: url("/images/ru/neu-vacancy-banner-ru-550.png");
+        width: 550px;
+        height: 250px;
+        display: block;
+      }
+
+      .new-vacancy-banner-de {
+        background-image: url("/images/de/neu-vacancy-banner-de-550.png");
+        width: 550px;
+        height: 250px;
         display: block;
       }
 
@@ -917,6 +945,7 @@ body {
   .page-content {
     margin: 1rem 0 .5rem 0;
     padding: 0 1rem 1rem 1rem;
+    max-width: 100vw;
   }
 
 }

@@ -12,9 +12,9 @@ menuIdentifier: about
 **Call on the German government to assume historical and political responsibility: opening an admission programme for transgender people from Russia**
 
 
-Since Russia launched a full-scale war against Ukraine, the situation of LGBTQ+ people has deteriorated greatly. In particular, a law was passed in Russia that discriminates against transgender people. 
+Since Russia launched a full-scale war against Ukraine, the situation of LGBTQ+ people has deteriorated greatly. In particular, a law was passed in Russia that discriminates against transgender people.
 
-This law banned surgeries and procedures to correct gender dysphoria, as well as annulled marriages and deprived trans people of parental rights. Moreover, this law made it legal to perform sex reassignment surgeries on intersex people without their consent. This law not only violates human rights, but also justifies violence against vulnerable groups. 
+This law banned surgeries and procedures to correct gender dysphoria, as well as annulled marriages and deprived trans people of parental rights. Moreover, this law made it legal to perform sex reassignment surgeries on intersex people without their consent. This law not only violates human rights, but also justifies violence against vulnerable groups.
 
 Russian authorities justified the adoption of the law by fighting the "Western transgender industry." Thus, transgender people in Russia have become victims of state policy because they are ascribed Western values. Now the lack of respect for human rights, freedom and democracy, especially hits transgender, intersex and non-binary people in Russia.
 
@@ -84,6 +84,6 @@ In addition, the German Ministry of the Interior Affairs, in accordance with § 
 The Ministry of the Interior Affairs defines the criteria to be met by persons requesting protection. On the basis of these criteria, the Bureau for Migration and Refugees conducts personal interviews and issues a specific admission permit to persons who have been recognized for example by the UNHCR as being in special need of protection. This admission authorization is issued on the condition that a visa is issued with the consent of the executive authorities. The federal government authorities then give their consent to the visa issuance.
 
 
-{{< petition >}} Sign {{< /petition >}}              
+{{< petition >}} Sign {{< /petition >}}
 
 [pdf Version](https://quarteera.de/files/paragraph23_en.pdf)

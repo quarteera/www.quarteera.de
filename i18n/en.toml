@@ -1,0 +1,20 @@
+[calendar]
+other = 'Calendar'
+
+[calendar-all]
+other = 'Open all → '
+
+[calendar-eventbrite]
+other = 'Our page on eventbrite → '
+
+[header404]
+other = 'OOups'
+
+[maintext404]
+other = 'This site doesnot exist'
+
+[secondtext404]
+other = 'You may find information on our old website. Here is his link → '
+
+[help-lads]
+other = 'This project is funded by the Senate Department for Social Affairs, Labor, Equality, Integration, Diversity, and Anti-Discrimination through the State Office for Equal Treatment – Against Discrimination (LADS).'

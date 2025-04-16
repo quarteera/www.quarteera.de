@@ -9,7 +9,6 @@ accent: false
 color: green
 menuIdentifier: projects
 ---
-[To the English version](/en/queer-culture)
 
 ## Bewerbungen bis zum 12.08.2024
 

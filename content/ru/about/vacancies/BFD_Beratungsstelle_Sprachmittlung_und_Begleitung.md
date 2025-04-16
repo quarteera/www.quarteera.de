@@ -3,7 +3,7 @@ title: "Bundesfreiwilligendienst in der Beratungsstelle Quarteera e.V. - Sprachm
 date: 2024-08-01T10:51:38+01:00
 weight: 1 # Order in which to show this project on the home page
 image: vacancies.png
-draft: false
+draft: true
 menuIdentifier: about
 color: yellow
 ---

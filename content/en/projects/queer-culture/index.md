@@ -9,11 +9,10 @@ accent: false
 color: green
 menuIdentifier: projects
 ---
-[Версия по-русски](/projects/queer-culture)
 
 ## Application Deadline: 12.08.2024
 
-## Grant Amount: 1,000 to 5,000 euros 
+## Grant Amount: 1,000 to 5,000 euros
 
 
 {{< button link="https://forms.gle/98ubDWFPTmX8fTycA" color="green">}} Apply! {{< /button >}}
@@ -83,14 +82,14 @@ We believe that most of the selected projects will continue after this program a
 
 ### Application Process
 
-{{< collapse title="**Who can apply?**" color="green">}} 
+{{< collapse title="**Who can apply?**" color="green">}}
 
 Queer refugees from Belarus, Russia, and Ukraine with previous cultural and artistic experience are eligible to participate.
 {{< /collapse >}}
 
 {{< collapse title="**Can I submit multiple applications?**" color="green">}}
 
-You can submit only one application per kind of art. One person or group cannot receive financing for more than one project. 
+You can submit only one application per kind of art. One person or group cannot receive financing for more than one project.
 If you have two new projects of different art kinds, you can submit both. Please prioritize quality over quantity in your applications. The jury will assess the artistic value of the projects first and foremost.
 {{< /collapse >}}
 
@@ -106,7 +105,7 @@ To ensure timely assessment, applications are limited to these languages only - 
 {{< /collapse >}}
 
 
-{{< collapse title="**What if I meet all the criteria but reside outside Germany and the Eastern Partnership countries?**" color="green">}} 
+{{< collapse title="**What if I meet all the criteria but reside outside Germany and the Eastern Partnership countries?**" color="green">}}
 
 This competition is designed to support queer refugees residing in the Eastern Partnership countries (Armenia, Georgia, Moldova) or Germany. We understand that creative groups may be spread globally and people often change their country of residence. Some expenses incurred outside the listed countries can be covered (e.g., a fee for a group member in another country or a travel ticket to one of the listed countries for them). However, all project events must take place in one of the listed countries. Material purchases or space rentals are only possible in the listed countries. We can only sign a cooperation agreement with an individual applicant or a group representative residing in one of the listed countries.
 {{< /collapse >}}
@@ -162,7 +161,7 @@ We hope your cultural project will continue beyond this competition and reach a 
 * Room rental for performances or exhibitions
 * Necessary software
 * Travel and accommodation costs (on special occasions)
-{{< /collapse >}}
+  {{< /collapse >}}
 
 {{< collapse title="**What is the finalists festival? Are all finalists required to attend?**" color="green">}}
 The finalists festival will take place on 07.12.2024 at PANDA Platforma in Berlin. Some finalists will present their projects in person, while others will present online. We will decide based on the preliminary results of the projects.
@@ -195,9 +194,9 @@ If you have any questions, please contact us via queerekultur@quarteera.de
 
 **Quarteera condemns the Russian war against Ukraine and all forms of aggression and discrimination.**
 
-By participating in the competition, you agree that your project can be rejected by the jury. 
+By participating in the competition, you agree that your project can be rejected by the jury.
 
-Their decision is final and indisputable. 
+Their decision is final and indisputable.
 
 The actual amount granted to your project will be determined after all applications are processed and finalists are interviewed.
 
