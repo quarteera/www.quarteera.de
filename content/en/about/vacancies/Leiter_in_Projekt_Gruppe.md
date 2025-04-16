@@ -3,7 +3,7 @@ title: "Head of Fundraising and Project Management" # Title of your project
 date: 2025-01-01T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image: vacancies.png
-draft: false
+draft: true
 menuIdentifier: about
 color: yellow
 ---

@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 2.75rem;
+  font-size: 2.0rem;
 }
 
 h3 {
@@ -945,6 +945,7 @@ body {
   .page-content {
     margin: 1rem 0 .5rem 0;
     padding: 0 1rem 1rem 1rem;
+    max-width: 100vw;
   }
 
 }
