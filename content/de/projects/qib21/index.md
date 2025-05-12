@@ -41,7 +41,7 @@ Zwischen den Partnern wurden enge persönliche und Arbeitsbeziehungen geknüpft,
 Die Voraussetzungen für weitere Projekte im Rahmen dieser und anderer Zielsetzungen sind geschaffen worden.
 ### Veröffentlichungen zum Projekt:
 * [Reportage "Frieden für die Welt, Queer für Russland" bei Radio COSMO (14.12.2021)](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
-* [Kurze Geschichte von Queer-Referaten (25.12.2021)](/de/projects/qib21_geschichte/)
+* [Kurze Geschichte von Queer-Referaten (25.12.2021)](/de/pages/qib21_geschichte/)
 * Pressemitteilung (in Vorbereitung)
 
 ### Unterstützt durch:

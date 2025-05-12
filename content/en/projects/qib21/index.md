@@ -42,7 +42,7 @@ The foundations for further projects within this and other objectives have been 
 
 ### Publications on the Project:
 * [Report "Peace for the World, Queer for Russia" on Radio COSMO (14.12.2021)](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/gesellschaft/queer-114.html)
-* [Brief History of Queer Student Organizations (25.12.2021)](/de/projects/qib21_geschichte/)
+* [Brief History of Queer Student Organizations (25.12.2021)](/en/pages/qib21_geschichte/)
 * Press release (in preparation)
 
 ### Supported by:

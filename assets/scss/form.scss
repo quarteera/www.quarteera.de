@@ -1,4 +1,4 @@
-@import 'mixins';
+@use 'mixins.scss' as *;
 
 .form-page {
   @include max-width;
