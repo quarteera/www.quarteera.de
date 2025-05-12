@@ -41,7 +41,7 @@ The position is **40 hours per week** (part-time at a minimum of 70% possible) a
 
 **We Offer:**
 
-- Salary based on TV-L 13, level depending on experience and competencies
+- Salary based on TV-L 12, level depending on experience and competencies
 - A performance bonus included in the contract
 - Possible contract extension
 - Flexible working hours and home office option

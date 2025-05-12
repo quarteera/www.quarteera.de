@@ -41,7 +41,7 @@ Die Stelle umfasst **40 St. wöchentlich** (Teilzeit auf mind. 70% möglich) und
 
 **Wir bieten:**
 
-- Vergütung in Anlehnung an TV-L 13, Stufe je nach Erfahrung und Kompetenzen
+- Vergütung in Anlehnung an TV-L 12, Stufe je nach Erfahrung und Kompetenzen
 - Zusätzlich ist ein Leistungsbonus im Vertrag vorgesehen
 - Evtl. Verlängerung des Vertrags
 - Flexible Arbeitsstunden und Homeoffice-Option
