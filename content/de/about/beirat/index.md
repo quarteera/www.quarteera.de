@@ -1,6 +1,6 @@
 ---
 title: "Beirat" # Title of your project
-date: 2024-07-03T12:51:38+01:00
+date: 2025-06-01T12:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: beirat.png
 alt: "Beirat"
@@ -22,11 +22,9 @@ menuIdentifier: about
 - verbindlich festzustellen, dass das Interesse des Vereins eine außerordentliche Mitgliederversammlung erfordert.
                                                                                                                   
 
-## Beiratsmitglieder (Herbst 2023 - Herbst 2024)
+## Beiratsmitglieder (Herbst 2025 - Herbst 2025)
 
 **Gorin, Alexey**
-
-**Terekhova, Galina**
 
 **Uspenskiy, Artem**
 
