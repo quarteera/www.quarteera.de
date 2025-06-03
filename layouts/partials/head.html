@@ -3,9 +3,26 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1">
     {{- partial "seo.html" . -}}
     {{- partial "vacancies.html" . -}}
-    {{ $scss := resources.Get "scss/main.scss" }}
-    {{ $style := $scss | resources.ToCSS }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+
+    {{ with resources.Get "scss/main.scss" }}
+        {{ $opts := dict
+            "enableSourceMap" hugo.IsDevelopment
+            "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+            "targetPath" "css/main.css"
+            "transpiler" "dartsass"
+            "vars" site.Params.styles
+        }}
+        {{ with . | toCSS $opts }}
+            {{ if hugo.IsDevelopment }}
+                <link rel="stylesheet" href="{{ .RelPermalink }}">
+            {{ else }}
+                {{ with . | fingerprint }}
+                <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>

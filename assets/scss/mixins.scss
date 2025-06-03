@@ -1,4 +1,4 @@
-@import 'constants';
+@use 'constants.scss' as *;
 
 @mixin row {
   display: flex;

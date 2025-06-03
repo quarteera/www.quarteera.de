@@ -25,7 +25,7 @@
           </div>
         {{ end }}
         <div class="language-selector">
-          {{ if .Site.IsMultiLingual }}
+          {{- if hugo.IsMultilingual }}
             <ul class="hamburger-languages">
               {{ range $.AllTranslations }}
                 <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">

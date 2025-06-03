@@ -1,8 +1,8 @@
-@import 'constants';
-@import 'fonts';
-@import 'colors';
-@import 'form';
-@import 'mixins';
+@use 'constants.scss' as *;
+@use 'fonts.scss' as *;
+@use 'colors.scss' as *;
+@use 'form.scss' as *;
+@use 'mixins.scss' as *;
 
 * {
   padding: 0;

@@ -1,15 +1,15 @@
 ---
 title: "Head of Fundraising and Project Management" # Title of your project
-date: 2025-01-01T16:51:38+01:00
+date: 2025-06-01T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image: vacancies.png
-draft: true
+draft: false
 menuIdentifier: about
 color: yellow
 ---
 
 **Starting immediately**, we are looking for a **Head of Fundraising and Project Management** to establish and strengthen this area within our organization.  
-The position is **40 hours per week** (part-time at a minimum of 70% possible) and is initially limited until **31.12.2025**, with the possibility of extension.
+The position is **40 hours per week** (part-time at a minimum of 70% possible) and is initially limited until **30.06.2026**, with the possibility of extension.
 
 **Location: Berlin or remote**
 
@@ -41,7 +41,7 @@ The position is **40 hours per week** (part-time at a minimum of 70% possible) a
 
 **We Offer:**
 
-- Salary based on TV-L 13, level depending on experience and competencies
+- Salary based on TV-L 12, level depending on experience and competencies
 - A performance bonus included in the contract
 - Possible contract extension
 - Flexible working hours and home office option

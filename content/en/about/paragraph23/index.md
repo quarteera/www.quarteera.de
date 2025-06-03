@@ -1,7 +1,7 @@
 ---
 title: "Admission programme for trans*people from Russia" # Title of your project
 date: 2023-11-25T16:51:38+01:00
-weight: 0 # Order in which to show this project on the home page
+weight: 99 # Order in which to show this project on the home page
 image: paragraph-23-logo.png
 alt: "some alt text"
 summary: "Support urgent migration of trans*people from Russia"

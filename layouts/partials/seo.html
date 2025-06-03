@@ -2,7 +2,7 @@
 <link rel="shortcut icon" href="/favicon64.png" type="image/png">
 <link rel="shortcut icon" href="/favicon128.png" type="image/png">
 <link rel="canonical" href="{{ .Page.Permalink }}">
-{{- if .Site.IsMultiLingual -}}
+{{- if hugo.IsMultilingual }}
 {{ range first 1 .AllTranslations }}
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
 {{- end -}}
