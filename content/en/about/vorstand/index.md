@@ -9,7 +9,7 @@ draft: false
 color: yellow
 menuIdentifier: about
 ---
-## Board Members (Autumn 2024 - Autumn 2025)
+## Board Members
 
 **Andreev, Pasha**\
 Chairperson

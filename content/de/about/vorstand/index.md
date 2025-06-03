@@ -9,7 +9,7 @@ draft: false
 color: yellow
 menuIdentifier: about
 ---
-## Vorstandsmitglieder (Herbst 2023 - Herbst 2025)
+## Vorstandsmitglieder
 
 **Andreev, Pasha**\
 Vorstandsvorsitzender
