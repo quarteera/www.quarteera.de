@@ -9,6 +9,17 @@ draft: false
 color: blue
 ---
 
+## Wir brauchen deine Unterstützung
+
+Quarteera Bayern arbeitet ausschließlich ehrenamtlich und erhält derzeit keine Förderungen. Dennoch sind finanzielle Mittel, z.B. für die Raummiete oder die Teilnahme an CSDs, erforderlich. Unsere Arbeit ist ohne Spenden nicht denkbar. Wir sind für jede Unterstützung dankbar. 
+
+Unterstütze unsere Projekte für russischsprechende Queers in der bayerischen Region mit einer
+
+{{< button color="blue" link="https://quarteera.de/spenden-bayern">}}
+Spende
+{{< /button >}}
+
+Allgemeine Informationen zum Thema Spenden an Quarteera e. V. und zur Spendenquittung findest du [hier](../spenden).
 
 ## Regelmäßige Veranstaltungen unserer Community
 
@@ -70,7 +81,7 @@ Um damit nicht allein zu bleiben, bieten wir einen sicheren, achtsamen und profe
 Unser einzigartiger queerer Abend mit kniffligen und unterhaltsamen Fragen. Hier kannst du nicht nur dein Wissen testen, sondern auch Spaß haben, neue Leute kennenlernen und dich als Teil einer Gemeinschaft fühlen. Bildrunden, Text-, Video- und natürlich Musikfragen mit queerem Bezug. Komm mit Freund:innen oder allein – wir finden vor Ort ein passendes Team für dich.
 {{< /collapse >}}
 
-{{< collapse title="**Арт-воркшопы**" color="green">}}
+{{< collapse title="**Art-workshops**" color="green">}}
 
 Bei Quarteera Bayern schaffen wir einen Raum, in dem jede:r kreativ sein, sich selbst erforschen, Wichtiges ansprechen und Sichtbarkeit und Wertschätzung erfahren kann. \
 \

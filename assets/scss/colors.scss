@@ -374,6 +374,16 @@ a.green-button {
   background-color: $dark-red;
 }
 
+.white-links {
+  a:hover, a:active, a:link {
+    color: white !important;
+  }
+
+  a:visited {
+    color: white !important;
+  }
+}
+
 .blue-links {
   a:hover, a:active, a:link {
     color: $dark-blue;
