@@ -1,5 +1,5 @@
 ---
-title: "Книга" # Title of your project
+title: "Права ЛГБТК-людей в России военного времени" # Title of your project
 date: 2024-04-01T16:38:20+01:00
 weight: 140 # Order in which to show this project on the home page
 image: logo_de.png

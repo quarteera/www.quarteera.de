@@ -18,10 +18,12 @@
     {{ end }}
     <div>
       <h4>{{ .Title }}</h4>
-      {{ if .Params.summary }}
-      <p class="text">{{ .Params.summary | truncate 200 }}</p>
-      {{ else }}
-      <p class="text">{{ .Summary | truncate 200 }}</p>
+      {{ if .Page.Eq .Page.FirstSection }}
+        {{ if .Params.summary }}
+        <p class="text">{{ .Params.summary | truncate 200 }}</p>
+        {{ else }}
+        <p class="text">{{ .Summary | truncate 200 }}</p>
+        {{ end }}
       {{ end }}
     </div>
   </a>
@@ -36,10 +38,12 @@
       {{ end }}
       <h4>{{ .Title }}</h4>
     </div>
-    {{ if .Params.summary }}
-    <p class="text">{{ .Params.summary | truncate 200 }}</p>
-    {{ else }}
-    <p class="text">{{ .Summary | truncate 200 }}</p>
+    {{ if .Page.Eq .Page.FirstSection }}
+      {{ if .Params.summary }}
+      <p class="text">{{ .Params.summary | truncate 200 }}</p>
+      {{ else }}
+      <p class="text">{{ .Summary | truncate 200 }}</p>
+      {{ end }}
     {{ end }}
   </a>
   {{ end }}

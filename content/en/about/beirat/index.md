@@ -1,6 +1,6 @@
 ---
 title: "Advisory Board" # Title of your project
-date: 2024-07-03T12:51:38+01:00
+date: 2025-06-01T12:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: beirat.png
 alt: "Advisory Board"
@@ -21,11 +21,9 @@ menuIdentifier: about
 - Participate in board meetings with an advisory vote,
 - Determine conclusively that the interests of the association require an extraordinary general assembly.
 
-## Advisory Board Members (Autumn 2023 - Autumn 2024)
+## Advisory Board Members (Autumn 2023 - Autumn 2025)
 
 **Gorin, Alexey**
-
-**Terekhova, Galina**
 
 **Uspenskiy, Artem**
 

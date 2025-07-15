@@ -1,5 +1,5 @@
-@import 'constants';
-@import 'mixins';
+@use 'constants.scss' as *;
+@use 'mixins.scss' as *;
 
 .blue-border {
   border-bottom: 2px solid $blue;
@@ -372,6 +372,16 @@ a.green-button {
 
 .red-button:hover {
   background-color: $dark-red;
+}
+
+.white-links {
+  a:hover, a:active, a:link {
+    color: white !important;
+  }
+
+  a:visited {
+    color: white !important;
+  }
 }
 
 .blue-links {

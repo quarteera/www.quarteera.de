@@ -1,4 +1,4 @@
-<div class="buttons-container" style="padding: 2rem 0;">
+<div class="buttons-container white-links" style="padding: 2rem 0;">
   <center>
     <a class="{{ .Get "color" }}-button" href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
       {{ .Inner | markdownify}}

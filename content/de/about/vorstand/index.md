@@ -1,29 +1,29 @@
 ---
 title: "Vorstand" # Title of your project
-date: 2024-07-03T12:51:38+01:00
+date: 2025-06-01T12:51:38+01:00
 weight: 50 # Order in which to show this project on the home page
 image: vorstand.png
-alt: "Vorstand 2023"
+alt: "Vorstand 2025"
 summary: “Der Vorstand von Quarteera legt strategische Ziele des Vereines fest, entscheidet über die Prioritäten sowie über die Personalfragen.”
 draft: false
 color: yellow
 menuIdentifier: about
 ---
-## Vorstandsmitglieder (Herbst 2024 - Herbst 2025)
+## Vorstandsmitglieder
 
-**Paramonov, Dmitrij**\
+**Andreev, Pasha**\
 Vorstandsvorsitzender
+
+**Babintseva, Yulia**\
+Vorstandsmitglied, Schatzmeister
 
 **Beltiugov, Andrei**\
 Vorstandsvorsitzender
 
-**Burlak, Viktoriya**\
+**Satieva, Kanykey**\
 Vorstandsvorsitzender
 
-**Vtornik, Vladislav**\
-Vorstandsmitglied, Schatzmeister
-
-**Ovechkin, Ivan**\
+**Terekhova, Galina**\
 Vorstandsmitglied, Schatzmeister
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [vorstand@quarteera.de](mailto:vorstand@quarteera.de). 
