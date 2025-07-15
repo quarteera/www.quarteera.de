@@ -1,9 +1,9 @@
 ---
-title: Wohnprojekt für queere* Geflüchtete in Kreuzberg
+title: Dormitory for queer* refugees in Kreuzberg
 date: 2025-07-07T16:38:20+01:00
 weight: 120 # Order in which to show this project on the home page
 image: q-wohnung.png
-summary: Der Wohnungsmarkt steckt in der Krise – besonders für queere* Geflüchtete. Fast zwei Jahre bot das Quarteera-Projekt 42 besonders vulnerablen Personen ein Zuhause in Kreuzberg. Im März endete es. Wir haben vier Geschichten über Angst, Hoffnung und die Wohnungssuche gesammelt.
+summary: The housing market is in crisis, especially for queer* refugees. For almost two years, the Quarteera project provided housing for 42 vulnerable people in Kreuzberg. It ended in March. We collected four stories of fear, hope, and the search for home.
 draft: false
 accent: false
 color: green
