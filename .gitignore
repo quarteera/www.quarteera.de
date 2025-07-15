@@ -5,3 +5,6 @@ resources/_gen/
 
 ## OS Files
 .DS_Store
+
+# Idea
+/.idea/
