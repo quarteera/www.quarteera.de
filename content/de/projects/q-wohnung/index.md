@@ -207,3 +207,7 @@ Alles andere – Assistenzjobs, Modelling, Castings – das bringt kaum Geld. In
 Wie man sehen kann, träumen alle unsere Protagonist*innen von ihrem persönlichen Glück und sind bereit, alle Anstrengungen zu unternehmen, um es zu erreichen. Es ist sehr zu hoffen, dass sich ihr Leben zum Besseren wendet. Es bleibt nur noch, ihr kleines persönliches Eden zu finden.
 
 {{< figure src="/images/projects/q-wohnung/Vlad3.jpg" class="article-image" caption="">}}
+{{< delimiter >}}
+Von [Michael Oskolkov](https://www.instagram.com/komradmoin/)
+
+Foto [Johannes Pøl](https://www.instagram.com/yohano12)
