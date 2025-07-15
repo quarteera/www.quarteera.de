@@ -1,5 +1,5 @@
 ---
-title: Общежитие для квир-бежен*ок в Кройцберге.
+title: Общежитие для квир-бежен*ок в Кройцберге
 date: 2025-07-07T16:38:20+01:00
 weight: 120 # Order in which to show this project on the home page
 image: q-wohnung.png
