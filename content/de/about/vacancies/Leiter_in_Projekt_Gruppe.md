@@ -3,7 +3,7 @@ title: "Leiter:in des Bereichs Fördermittelakquise und Projektmanagement" # Tit
 date: 2025-06-01T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image: vacancies.png
-draft: false
+draft: true
 menuIdentifier: about
 color: yellow
 ---
