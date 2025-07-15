@@ -180,3 +180,7 @@ As you can understand, all our heroines and heroes dream of their personal happi
 We really hope that their lives will drastically change for the better. All that's left is to find their own little personal Eden.
 
 {{< figure src="/images/projects/q-wohnung/Vlad3.jpg" class="article-image" caption="">}}
+{{< delimiter >}}
+By [Michael Oskolkov](https://www.instagram.com/komradmoin/)
+
+Photo [Johannes Pøl](https://www.instagram.com/yohano12)
