@@ -4,7 +4,7 @@ date: 2022-01-06T16:38:20+01:00
 weight: 141 # Order in which to show this project on the home page
 image: queer-culture-title.png
 summary: Förderung von Kulturprojekten von queeren Geflüchteten
-draft: false
+draft: true
 accent: false
 color: green
 menuIdentifier: projects
