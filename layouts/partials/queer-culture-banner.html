@@ -1,7 +1,9 @@
 <div class="main-section">
     <div class="main-section-content">
-        <a class="green-dashed-border queer-culture-banner-festival" target="_blank" href="https://panda-platforma.berlin/events/queer-culture-in-exile/">
+        {{ $queerCulturePage := .Site.GetPage "projects/queer-culture-against-fake" }}
+        {{ with $queerCulturePage }}
+        <a class="green-dashed-border queer-culture-banner-{{ $.Site.Language }}" href="{{ $queerCulturePage.RelPermalink }}">
         </a>
+        {{ end }}
     </div>
 </div>
-
