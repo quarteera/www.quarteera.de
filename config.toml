@@ -46,7 +46,7 @@ defaultContentLanguage = 'ru'
       url = '/impressum/'
       weight = 3
     [[languages.ru.menu.footer]]
-      name = 'Политика конфеденциальности'
+      name = 'Политика конфиденциальности'
       url = '/datenschutz/'
       weight = 4
   [languages.de]

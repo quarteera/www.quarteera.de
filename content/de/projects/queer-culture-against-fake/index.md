@@ -1,6 +1,6 @@
 ---
 title: Queere Kultur gegen Desinformation in den ÖPR-Ländern
-date: 2025-07-19T16:38:20+01:00
+date: 2025-08-13T16:38:20+01:00
 weight: 141 # Order in which to show this project on the home page
 image: queer-culture-against-fake.png
 summary: Labor für Kunstprojekte 2025–2026
@@ -167,8 +167,9 @@ Ja, alle Bewerber*innen werden informiert. Bitte beachte jedoch, dass die Entsch
 
 ### Teilnahme am Labor & Projektumsetzung
 
-{{< collapse title="**Kann ich mein Projekt in meiner Muttersprache realisieren?**" color="green">}} 
-Die Arbeiten können in der Sprache des Landes, in dem Sie leben, oder in Russisch ausgeführt werden.
+{{< collapse title="**Kann ich mein Projekt in meiner Muttersprache realisieren?**" color="green">}}
+Es ist uns wichtig, dass Ihre Arbeit von den Menschen verstanden wird, die in Armenien, Aserbaidschan, Georgien, Moldau, der Ukraine, Belarus und Russland der anti-LGBTQ+ Propaganda ausgesetzt sind.
+Sie können in der Sprache des Landes arbeiten, in dem Sie leben – oder in der Sprache, die Ihnen hilft, Ihre Botschaft an Ihre Zielgruppe zu vermitteln.
 {{< /collapse >}}
 
 {{< collapse title="**Was passiert, wenn ich mein Projekt nicht wie geplant fertigstellen kann?**" color="green">}}

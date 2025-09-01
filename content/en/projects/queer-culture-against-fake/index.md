@@ -164,8 +164,9 @@ Yes, all applicants will receive a reply. Please note, however, that the jury’
 
 ### Participating in the Lab and Realizing Your Project
 
-{{< collapse title="**Can I create my project in my native language?**" color="green">}} 
-The work can be carried out in the language of the country in which you live or in Russian.
+{{< collapse title="**Can I create my project in my native language?**" color="green">}}
+It’s important to us that your work is understood by people affected by anti-LGBTQ+ propaganda in Armenia, Azerbaijan, Georgia, Moldova, Ukraine, Belarus, and Russia.
+You can work in the language of the country where you live – or in the language that best helps you communicate your message to your audience.
 {{< /collapse >}}
 
 {{< collapse title="**What happens if I cannot finish my project?**" color="green">}}

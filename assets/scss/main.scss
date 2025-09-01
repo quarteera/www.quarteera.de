@@ -494,10 +494,17 @@ body {
       display: block;
     }
 
-    .queer-culture-banner-festival {
-      background-image: url("/images/banner/queer-culture-1024.png");
+    .queer-culture-banner-ru {
+      background-image: url("/images/banner/queer-culture-1024-ru.png");
       width: 1024px;
-      height: 358px;
+      height: 484px;
+      display: block;
+    }
+
+    .queer-culture-banner-de, .queer-culture-banner-en {
+      background-image: url("/images/banner/queer-culture-1024-de.png");
+      width: 1024px;
+      height: 484px;
       display: block;
     }
 
@@ -636,10 +643,17 @@ body {
         display: block;
       }
 
-      .queer-culture-banner-festival {
-        background-image: url("/images/banner/queer-culture-550.png");
+      .queer-culture-banner-ru {
+        background-image: url("/images/banner/queer-culture-550-ru.png");
         width: 550px;
-        height: 260px;
+        height: 300px;
+        display: block;
+      }
+
+      .queer-culture-banner-de, .queer-culture-banner-en {
+        background-image: url("/images/banner/queer-culture-550-de.png");
+        width: 550px;
+        height: 300px;
         display: block;
       }
 
