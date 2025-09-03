@@ -78,35 +78,17 @@ From the history of antisemitism to contemporary forms of discrimination — lea
 
 {{< delimiter >}}
 
-## Our Partners
+## Our Friends
 We work with organizations in Germany, Israel, and the USA to combat antisemitism and queerphobia and to build inclusive communities.
 
 ### In Germany:
-
-[//]: # (- [Hillel Deutschland]&#40;https://www.hilleldeutschland.org/&#41;)
-
-[//]: # (- [Keshet Deutschland]&#40;https://keshetdeutschland.de/en/&#41;)
-
-[//]: # (- [RIAS]&#40;https://www.report-antisemitism.de/en/&#41;)
-
-[//]: # (- [OFEK e.V.]&#40;https://ofek-beratung.de/&#41;)
-
-[//]: # (- [Moishe House Germany]&#40;https://memglobal.org/moishe-house/&#41;)
-
-{{< figure src="/images/projects/antisemitism/Hillel_de_blackY.png" class="header-logo" caption="" link="https://www.hilleldeutschland.org/" height="80">}}
-{{< figure src="/images/projects/antisemitism/Keshet_Logo_quer.png" class="header-logo" caption="" link="https://keshetdeutschland.de/en/" height="80">}}
-{{< figure src="/images/projects/antisemitism/BV-RIAS_Logo_Blau.png" class="header-logo" caption="" link="https://www.report-antisemitism.de/en/" height="80">}}
-{{< figure src="/images/projects/antisemitism/cropped-ofek_web.png" class="header-logo" caption="" link="https://ofek-beratung.de/" height="80">}}
-{{< figure src="/images/projects/antisemitism/Mem-Global-Stacked-Square.png" class="header-logo" caption="" link="https://memglobal.org/moishe-house/" height="80">}}
-
+{{< antisemitism_partners_de >}}
 ### In Israel:
-- [Project Kesher](https://www.projectkesher.org/)
-
+{{< antisemitism_partners_il >}}
 ### In the USA:
-- [Qaravan (ex-RUSA LGBTQ+)](https://www.qaravan.org/)
-
+{{< antisemitism_partners_us >}}
 ### Foundation supporting the project:
-- [EVZ Foundation](https://www.stiftung-evz.de/en/)
+{{< antisemitism_supporters >}}
 
 {{< delimiter >}}
 
