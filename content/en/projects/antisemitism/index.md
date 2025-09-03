@@ -93,11 +93,11 @@ We work with organizations in Germany, Israel, and the USA to combat antisemitis
 
 [//]: # (- [Moishe House Germany]&#40;https://memglobal.org/moishe-house/&#41;)
 
-{{< figure src="Hillel_de_blackY.png" class="header-logo" caption="" link="https://www.hilleldeutschland.org/" height="80">}}
-{{< figure src="Keshet_Logo_quer.png" class="header-logo" caption="" link="https://keshetdeutschland.de/en/" height="80">}}
-{{< figure src="BV-RIAS_Logo_Blau.png" class="header-logo" caption="" link="https://www.report-antisemitism.de/en/" height="80">}}
-{{< figure src="cropped-ofek_web.png" class="header-logo" caption="" link="https://ofek-beratung.de/" height="80">}}
-{{< figure src="Mem-Global-Stacked-Square.png" class="header-logo" caption="" link="https://memglobal.org/moishe-house/" height="80">}}
+{{< figure src="/images/projects/antisemitism/Hillel_de_blackY.png" class="header-logo" caption="" link="https://www.hilleldeutschland.org/" height="80">}}
+{{< figure src="/images/projects/antisemitism/Keshet_Logo_quer.png" class="header-logo" caption="" link="https://keshetdeutschland.de/en/" height="80">}}
+{{< figure src="/images/projects/antisemitism/BV-RIAS_Logo_Blau.png" class="header-logo" caption="" link="https://www.report-antisemitism.de/en/" height="80">}}
+{{< figure src="/images/projects/antisemitism/cropped-ofek_web.png" class="header-logo" caption="" link="https://ofek-beratung.de/" height="80">}}
+{{< figure src="/images/projects/antisemitism/Mem-Global-Stacked-Square.png" class="header-logo" caption="" link="https://memglobal.org/moishe-house/" height="80">}}
 
 ### In Israel:
 - [Project Kesher](https://www.projectkesher.org/)
