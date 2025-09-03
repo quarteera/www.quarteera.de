@@ -3,7 +3,6 @@ title: Получить помощь
 date: 2025-08-13T16:51:38+01:00
 weight: 4
 alt: some alt textf
-image: migration.png
 draft: false
 color: red
 menuIdentifier: help

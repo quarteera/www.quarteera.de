@@ -2,11 +2,10 @@
 title: "Information for War Refugees from Ukraine" # Title of your project
 date: 2022-12-03T16:51:38+01:00
 weight: 60 # Order in which to show this project on the home page
-image: 276001555_1645644882.jpeg
 alt: "some alt text"
 summary: "We have compiled the most important information for war refugees from Ukraine"
 draft: false
-color: red
+color: red  
 menuIdentifier: migration
 aliases: [/de/projects/help_ukraine]
 ---

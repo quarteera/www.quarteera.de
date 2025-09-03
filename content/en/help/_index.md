@@ -3,7 +3,6 @@ title: "Get Help" # Title of your project
 date: 2023-09-03T16:51:38+01:00
 weight: 4 # Order in which to show this project on the home page
 alt: some alt text
-image: migration.png
 draft: false
 color: red
 menuIdentifier: help

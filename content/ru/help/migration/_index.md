@@ -3,7 +3,6 @@ title: Миграция
 date: 2023-07-06T16:51:38+01:00
 weight: 1
 alt: some alt textf
-image: migration.png
 draft: false
 color: red
 menuIdentifier: help

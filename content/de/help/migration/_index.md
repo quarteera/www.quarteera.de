@@ -2,7 +2,6 @@
 title: "Migration" # Title of your project
 date: 2023-07-04T16:51:38+01:00
 weight: 4 # Order in which to show this project on the home page
-image: migration.png
 alt: "some alt text"
 summary: "Dieser Abschnitt enthält Informationen über Regeln und Möglichkeiten der Migration aus der Ukraine und anderen Ländern."
 draft: false
