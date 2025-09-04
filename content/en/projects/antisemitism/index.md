@@ -1,8 +1,9 @@
 ---
-title: "Educating Against Antisemitism and Queerphobia in Migrant Communities"
+title: Educating Against Antisemitism and Queerphobia in Migrant Communities
 date: 2025-09-01T22:00:00+01:00
 weight: 145 # Order in which to show this project on the home page
-summary: "We work within Russian-speaking migrant communities in Germany to counter antisemitism and queerphobia, creating safe cultural and educational spaces where Jewish and LGBTQ+ identities are not just tolerated, but valued. Our approach comes from within the community — in its own language, with cultural competence and deep contextual understanding."
+image: antisemitism.JPG
+summary: 
 draft: false
 accent: false
 color: green
@@ -12,6 +13,10 @@ menuIdentifier: projects
 {{< delimiter >}}
 
 ## Why This Matters
+We work within Russian-speaking migrant communities in Germany to counter antisemitism and queerphobia, creating safe
+cultural and educational spaces where Jewish and LGBTQ+ identities are not just tolerated, but valued. Our approach
+comes from within the community — in its own language, with cultural competence and deep contextual understanding.
+
 Antisemitism and queerphobia are often intertwined, reinforced by old myths, and justified as 'traditional values'.
 We work to break this cycle.
 
