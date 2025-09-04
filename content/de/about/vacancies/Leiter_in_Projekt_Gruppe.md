@@ -17,12 +17,15 @@ Die Stelle umfasst **40 St. wöchentlich** (Teilzeit mit einem Mindestumfang von
 
 **Unsere Friste:**
 
-**Bewerbungsphase**
+**Bewerbungsphase**\
 01.–15. September
-**Persönliche Vorstellungsgespräche**
+
+**Persönliche Vorstellungsgespräche**\
 15.–25. September
-**Arbeitsbeginn / Einstellung**
+
+**Arbeitsbeginn / Einstellung**\
 ab 01. Oktober (spätere Einstellung nach Vereinbarung)
+
 **Standort: Berlin oder remote (Deutschland)**
 
 
