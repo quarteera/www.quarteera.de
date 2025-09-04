@@ -2,7 +2,6 @@
 title: "Informationen für Kriegsgeflüchtete aus der Ukraine" # Title of your project
 date: 2022-12-03T16:51:38+01:00
 weight: 60 # Order in which to show this project on the home page
-image: 276001555_1645644882.jpeg
 alt: "some alt text"
 summary: "Wir haben für Sie die wichtigste Information für Kriegsgeflüchtete aus der Ukraine"
 draft: false
