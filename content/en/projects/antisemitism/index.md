@@ -3,7 +3,7 @@ title: Educating Against Antisemitism and Queerphobia in Migrant Communities
 date: 2025-09-01T22:00:00+01:00
 weight: 145 # Order in which to show this project on the home page
 image: antisemitism.JPG
-summary: 
+summary: "Stronger Together: Jewish and queer voices rising against hate"
 draft: false
 accent: false
 color: green

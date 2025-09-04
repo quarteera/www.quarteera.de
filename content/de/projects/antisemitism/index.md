@@ -1,9 +1,10 @@
 ---
-title: "Educating Against Antisemitism and Queerphobia in Migrant Communities"
+title: Bildung gegen Antisemitismus und Queerfeindlichkeit in migrantischen Communities
 date: 2025-09-01T22:00:00+01:00
 weight: 145 # Order in which to show this project on the home page
-summary: "We work within Russian-speaking migrant communities in Germany to counter antisemitism and queerphobia, creating safe cultural and educational spaces where Jewish and LGBTQ+ identities are not just tolerated, but valued. Our approach comes from within the community — in its own language, with cultural competence and deep contextual understanding."
-draft: true
+image: antisemitism.JPG
+summary: "Gemeinsam stärker: Jüdische und queere Stimmen erheben sich gegen Hass"
+draft: false
 accent: false
 color: green
 menuIdentifier: projects
@@ -11,135 +12,121 @@ menuIdentifier: projects
 
 {{< delimiter >}}
 
-## Why This Matters
-Antisemitism and queerphobia are often intertwined, reinforced by old myths, and justified as 'traditional values'.
-We work to break this cycle.
+## Warum das wichtig ist
+Wir arbeiten innerhalb russischsprachiger migrantischer Communities in Deutschland, um Antisemitismus und Queerfeindlichkeit entgegenzuwirken, und schaffen sichere
+kulturelle und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden. Unser Ansatz
+kommt aus der Community selbst — in ihrer eigenen Sprache, mit kultureller Kompetenz und tiefem kontextuellem Verständnis.
 
-**82%** of LGBTQ+ Jews face rejection in queer spaces after October 7, 2023.
+Antisemitismus und Queerfeindlichkeit sind oft miteinander verknüpft, werden durch alte Mythen verstärkt und als 'traditionelle Werte' gerechtfertigt.
+Wir arbeiten daran, diesen Kreislauf zu durchbrechen.
 
-{{< delimiter >}}
-
-## About the Project
-
-We are **Educating Against Antisemitism and Queerphobia in Migrant Communities**, a project by Quarteera e.V.
-We work within Russian-speaking migrant communities in Germany to counter antisemitism and queerphobia,
-creating safe cultural and educational spaces where Jewish and LGBTQ+ identities are not just tolerated, but valued.
-
-Our approach comes **from within the community** — in its own language, with cultural competence and deep contextual understanding.
+**82%** der jüdischen LGBTQ+-Personen erleben seit dem 7. Oktober 2023 Zurückweisung in queeren Räumen.
 
 {{< delimiter >}}
 
-## What We Do
+## Über das Projekt
 
-{{< collapse title="📚  **Education**" color="red">}}
-Lectures, workshops, museum tours, and cultural events addressing antisemitism, queerphobia, and their intersections.
+Wir sind **Bildung gegen Antisemitismus und Queerfeindlichkeit in migrantischen Communities**, ein Projekt von Quarteera e.V.
+Wir arbeiten innerhalb russischsprachiger migrantischer Communities in Deutschland, um Antisemitismus und Queerfeindlichkeit entgegenzuwirken
+und schaffen sichere kulturelle und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden.
+
+Unser Ansatz kommt **aus der Community selbst** — in ihrer eigenen Sprache, mit kultureller Kompetenz und tiefem kontextuellem Verständnis.
+
+{{< delimiter >}}
+
+## Was wir tun
+
+{{< collapse title="📚  **Bildung**" color="red">}}
+Vorträge, Workshops, Museumsführungen und Kulturveranstaltungen zu Antisemitismus, Queerfeindlichkeit und ihren Schnittstellen.
 {{< /collapse >}}
 
-{{< collapse title="💬  **Safe Spaces**" color="orange">}}
-Our events create an atmosphere where people can be themselves, speak freely about their experiences, and find support among peers.
+{{< collapse title="💬  **Sichere Räume**" color="orange">}}
+Unsere Veranstaltungen schaffen eine Atmosphäre, in der Menschen sie selbst sein können, offen über ihre Erfahrungen sprechen und Unterstützung unter Gleichgesinnten finden.
 {{< /collapse >}}
 
-{{< collapse title="🤝  **Internal Dialogue**" color="yellow">}}
-Participants discuss challenging topics in a respectful and understanding environment.
+{{< collapse title="🤝  **Interner Dialog**" color="yellow">}}
+Teilnehmende diskutieren herausfordernde Themen in einem respektvollen und verständnisvollen Umfeld.
 {{< /collapse >}}
 
 {{< delimiter >}}
 
-## Our Events
-Over the course of the project, we have held a variety of formats that help participants learn, reflect, and connect in a safe environment:
+## Unsere Veranstaltungen
+Im Verlauf des Projekts haben wir verschiedene Formate durchgeführt, die den Teilnehmenden helfen, in einem sicheren Umfeld zu lernen, zu reflektieren und sich zu vernetzen:
 
-{{< collapse title="🌍 **Conference 'Tikkun Olam'**" color="red">}}
-International exchange between activists from Germany, Israel, and the USA.
+{{< collapse title="🌍 **Konferenz 'Tikkun Olam'**" color="red">}}
+Internationaler Austausch zwischen Aktivist:innen aus Deutschland, Israel und den USA.
 {{< /collapse >}}
 
-{{< collapse title="🥋 **Self-Defense Marathon 'A Year of Safety'**" color="orange">}}
-Practical training to increase confidence and safety in public spaces.
+{{< collapse title="🥋 **Selbstverteidigungs-Marathon 'Ein Jahr der Sicherheit'**" color="orange">}}
+Praktisches Training zur Stärkung von Selbstvertrauen und Sicherheit im öffentlichen Raum.
 {{< /collapse >}}
 
 {{< collapse title="📖 **Midrash Hadash**" color="yellow">}}
-Collective reinterpretation of Jewish texts through queer and feminist lenses.
+Kollektive Neuinterpretation jüdischer Texte aus queeren und feministischen Perspektiven.
 {{< /collapse >}}
 
-{{< collapse title="🏛️ **Museum Visits**" color="green">}}
-Cultural excursions exploring Jewish history and collective memory.
+{{< collapse title="🏛️ **Museumsbesuche**" color="green">}}
+Kulturelle Exkursionen zur Erkundung jüdischer Geschichte und kollektiver Erinnerung.
 {{< /collapse >}}
 
-{{< collapse title="🕯️ **Jewish Holidays**" color="blue">}}
-Celebrating traditions and exploring their meanings in a welcoming atmosphere.
+{{< collapse title="🕯️ **Jüdische Feiertage**" color="blue">}}
+Feiern von Traditionen und das Erkunden ihrer Bedeutungen in einer einladenden Atmosphäre.
 {{< /collapse >}}
 
-{{< collapse title="🎓 **Lectures and Workshops**" color="purple">}}
-From the history of antisemitism to contemporary forms of discrimination — learning, discussion, and awareness-building.
+{{< collapse title="🎓 **Vorträge und Workshops**" color="purple">}}
+Von der Geschichte des Antisemitismus bis zu zeitgenössischen Formen der Diskriminierung — Lernen, Diskussion und Bewusstseinsbildung.
 {{< /collapse >}}
 
 {{< button color="green" link="https://www.quarteera.de/calendar/">}}
-📅 See Upcoming Events & ArchiveSee Upcoming Events & Archive
+📅 Bevorstehende Veranstaltungen & Archiv ansehenBevorstehende Veranstaltungen & Archiv ansehen
 {{< /button >}}
 
 {{< delimiter >}}
 
-## Our Partners
-We work with organizations in Germany, Israel, and the USA to combat antisemitism and queerphobia and to build inclusive communities.
+## Unsere Freund:innen
+Wir arbeiten mit Organisationen in Deutschland, Israel und den USA zusammen, um Antisemitismus und Queerfeindlichkeit zu bekämpfen und inklusive Gemeinschaften aufzubauen.
 
-### In Germany:
-
-[//]: # (- [Hillel Deutschland]&#40;https://www.hilleldeutschland.org/&#41;)
-
-[//]: # (- [Keshet Deutschland]&#40;https://keshetdeutschland.de/en/&#41;)
-
-[//]: # (- [RIAS]&#40;https://www.report-antisemitism.de/en/&#41;)
-
-[//]: # (- [OFEK e.V.]&#40;https://ofek-beratung.de/&#41;)
-
-[//]: # (- [Moishe House Germany]&#40;https://memglobal.org/moishe-house/&#41;)
-
-{{< figure src="Hillel_de_blackY.png" class="header-logo" caption="" link="https://www.hilleldeutschland.org/" height="80">}}
-{{< figure src="Keshet_Logo_quer.png" class="header-logo" caption="" link="https://keshetdeutschland.de/en/" height="80">}}
-{{< figure src="BV-RIAS_Logo_Blau.png" class="header-logo" caption="" link="https://www.report-antisemitism.de/en/" height="80">}}
-{{< figure src="cropped-ofek_web.png" class="header-logo" caption="" link="https://ofek-beratung.de/" height="80">}}
-{{< figure src="Mem-Global-Stacked-Square.png" class="header-logo" caption="" link="https://memglobal.org/moishe-house/" height="80">}}
-
+### In Deutschland:
+{{< antisemitism_partners_de >}}
 ### In Israel:
-- [Project Kesher](https://www.projectkesher.org/)
-
-### In the USA:
-- [Qaravan (ex-RUSA LGBTQ+)](https://www.qaravan.org/)
-
-### Foundation supporting the project:
-- [EVZ Foundation](https://www.stiftung-evz.de/en/)
+{{< antisemitism_partners_il >}}
+### In den USA:
+{{< antisemitism_partners_us >}}
+### Stiftung, die das Projekt unterstützt:
+{{< antisemitism_supporters >}}
 
 {{< delimiter >}}
 
-## How to Get Involved
+## Wie Sie sich engagieren können
 
-{{< collapse title="🎯 **Join Our Events**" color="green">}}
-Join our events in Berlin, Hamburg, Dresden, Cologne, or Stuttgart.\
-[View Events](https://www.quarteera.de/calendar/)
+{{< collapse title="🎯 **Nehmen Sie an unseren Veranstaltungen teil**" color="green">}}
+Nehmen Sie an unseren Veranstaltungen in Berlin, Hamburg, Dresden, Köln oder Stuttgart teil.\
+[Veranstaltungen ansehen](https://www.quarteera.de/calendar/)
 {{< /collapse >}}
 
-{{< collapse title="📱  **Follow Us**" color="blue">}}
-Follow us on Telegram and Instagram for updates and community news.\
-[Social Media](https://linktr.ee/quarteera)
+{{< collapse title="📱  **Folgen Sie uns**" color="blue">}}
+Folgen Sie uns auf Telegram und Instagram für Updates und Community-News.\
+[Soziale Medien](https://linktr.ee/quarteera)
 {{< /collapse >}}
 
-{{< collapse title="🤝  **Partner With Us**" color="purple">}}
-Partner with us for joint initiatives and collaborative projects.\
-[Contact Us](https://linktr.ee/quarteera)
+{{< collapse title="🤝  **Werden Sie Partner:in**" color="purple">}}
+Werden Sie Partner:in für gemeinsame Initiativen und Kooperationsprojekte.\
+[Kontakt](https://linktr.ee/quarteera)
 {{< /collapse >}}
 
-### We Need Your Support
-This project is made possible through grants and donations. By supporting us, you help organize more events and training
-sessions, print educational materials in Russian and German, and invite guest experts and speakers.
+### Wir brauchen Ihre Unterstützung
+Dieses Projekt wird durch Fördermittel und Spenden ermöglicht. Mit Ihrer Unterstützung helfen Sie uns, mehr Veranstaltungen und Trainings
+durchzuführen, Bildungsmaterialien auf Russisch und Deutsch zu drucken und Gastexpert:innen sowie Referent:innen einzuladen.
 
 {{< button color="purple" link="https://www.quarteera.de/en/community/spenden/">}}
-💛 Support Us
+💛 Unterstützen Sie uns
 {{< /button >}}
 
 {{< delimiter >}}
 
-## Contact
+## Kontakt
 **Yehuda Harel Greenberg** \
-*Project Coordinator* \
+*Projektkoordinator* \
 📧 yehuda.harel.greenberg@quarteera.de \
 📍 Quarteera e.V. — Arkonaplatz 5, 10435 Berlin \
 🌐 www.quarteera.de \
