@@ -78,7 +78,7 @@ From the history of antisemitism to contemporary forms of discrimination — lea
 {{< /collapse >}}
 
 {{< button color="green" link="https://www.quarteera.de/calendar/">}}
-📅 See Upcoming Events & ArchiveSee Upcoming Events & Archive
+📅 See Upcoming Events & Archive
 {{< /button >}}
 
 {{< delimiter >}}

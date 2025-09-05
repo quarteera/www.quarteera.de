@@ -78,7 +78,7 @@ Von der Geschichte des Antisemitismus bis zu zeitgenössischen Formen der Diskri
 {{< /collapse >}}
 
 {{< button color="green" link="https://www.quarteera.de/calendar/">}}
-📅 Bevorstehende Veranstaltungen & Archiv ansehenBevorstehende Veranstaltungen & Archiv ansehen
+📅 Bevorstehende Veranstaltungen & Archiv ansehen
 {{< /button >}}
 
 {{< delimiter >}}
