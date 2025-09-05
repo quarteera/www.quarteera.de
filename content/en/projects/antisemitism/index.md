@@ -77,7 +77,7 @@ Celebrating traditions and exploring their meanings in a welcoming atmosphere.
 From the history of antisemitism to contemporary forms of discrimination — learning, discussion, and awareness-building.
 {{< /collapse >}}
 
-{{< button color="green" link="https://www.quarteera.de/calendar/">}}
+{{< button color="green" link="https://www.quarteera.de/en/calendar/">}}
 📅 See Upcoming Events & Archive
 {{< /button >}}
 

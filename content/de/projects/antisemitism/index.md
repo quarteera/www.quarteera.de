@@ -77,7 +77,7 @@ Feiern von Traditionen und das Erkunden ihrer Bedeutungen in einer einladenden A
 Von der Geschichte des Antisemitismus bis zu zeitgenössischen Formen der Diskriminierung — Lernen, Diskussion und Bewusstseinsbildung.
 {{< /collapse >}}
 
-{{< button color="green" link="https://www.quarteera.de/calendar/">}}
+{{< button color="green" link="https://www.quarteera.de/de/calendar/">}}
 📅 Bevorstehende Veranstaltungen & Archiv ansehen
 {{< /button >}}
 
@@ -118,7 +118,7 @@ Werden Sie Partner:in für gemeinsame Initiativen und Kooperationsprojekte.\
 Dieses Projekt wird durch Fördermittel und Spenden ermöglicht. Mit Ihrer Unterstützung helfen Sie uns, mehr Veranstaltungen und Trainings
 durchzuführen, Bildungsmaterialien auf Russisch und Deutsch zu drucken und Gastexpert:innen sowie Referent:innen einzuladen.
 
-{{< button color="purple" link="https://www.quarteera.de/en/community/spenden/">}}
+{{< button color="purple" link="https://www.quarteera.de/de/community/spenden/">}}
 💛 Unterstützen Sie uns
 {{< /button >}}
 
