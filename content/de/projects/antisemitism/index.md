@@ -14,7 +14,7 @@ menuIdentifier: projects
 
 ## Warum das wichtig ist
 Wir arbeiten innerhalb russischsprachiger migrantischer Communities in Deutschland, um Antisemitismus und Queerfeindlichkeit entgegenzuwirken, und schaffen sichere
-kulturelle und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden. Unser Ansatz
+Kultur- und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden. Unser Ansatz
 kommt aus der Community selbst — in ihrer eigenen Sprache, mit kultureller Kompetenz und tiefem kontextuellem Verständnis.
 
 Antisemitismus und Queerfeindlichkeit sind oft miteinander verknüpft, werden durch alte Mythen verstärkt und als 'traditionelle Werte' gerechtfertigt.
@@ -28,7 +28,7 @@ Wir arbeiten daran, diesen Kreislauf zu durchbrechen.
 
 Wir sind **Bildung gegen Antisemitismus und Queerfeindlichkeit in migrantischen Communities**, ein Projekt von Quarteera e.V.
 Wir arbeiten innerhalb russischsprachiger migrantischer Communities in Deutschland, um Antisemitismus und Queerfeindlichkeit entgegenzuwirken
-und schaffen sichere kulturelle und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden.
+und schaffen sichere Kultur- und Bildungsräume, in denen jüdische und LGBTQ+-Identitäten nicht nur toleriert, sondern wertgeschätzt werden.
 
 Unser Ansatz kommt **aus der Community selbst** — in ihrer eigenen Sprache, mit kultureller Kompetenz und tiefem kontextuellem Verständnis.
 
