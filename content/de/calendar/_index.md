@@ -8,6 +8,6 @@ draft: false
 color: green
 menuIdentifier: none
 ---
-Quarteera e. V. — первое общегерманское объединение русскоязычных ЛГБТК+ мигранто_к, которое с 2011 года выступает за видимость русскоязычных ЛГБТК+ в Германии, в особенности среди русскоязычного населения, а также за повышение информированности о ЛГБТК+ среди русскоязычных людей. 
-
-Quarteera видит свою задачу в противодействии множественной дискриминации русскоязычных ЛГБТК+ (из-за их происхождения и сексуальной ориентации/гендерной идентичности).
+Quarteera e. V. ist eine deutsche LGBTIQ\*-Organisation, die Geflüchtete und Migrant\*innen aus Osteuropa, Zentralasien
+und dem Kaukasus unterstützt. Unsere Veranstaltungen verbinden Menschen, fördern Kultur und Gemeinschaft und stärken
+die Solidarität.

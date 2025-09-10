@@ -108,9 +108,6 @@ At the end of the Lab, you will be expected to produce a **new artistic work**, 
 **July 21 – August 24, 2025** 
 Application period
 
-**By September 5, 2025** 
-Notification of shortlisted finalists
-
 **September 8–14, 2025** 
 Interviews with finalists
 

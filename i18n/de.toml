@@ -2,10 +2,10 @@
 other = 'Kalendar'
 
 [calendar-all]
-other = 'Смотреть все → '
+other = 'Alles sehen → '
 
 [calendar-eventbrite]
-other = 'Наша страница на eventbrite → '
+other = 'Unsere Eventbrite-Seite → '
 
 [header404]
 other = 'OOups'
