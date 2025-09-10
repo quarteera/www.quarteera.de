@@ -109,9 +109,6 @@ Am Ende des Labors soll **ein neues Kunstwerk** entstehen, das mindestens im eig
 **21. Juli – 24. August 2025** 
 Bewerbungsphase,
 
-**bis 5. September 2025** 
-Benachrichtigung der Finalist*innen über die Aufnahme in die Shortlist,
-
 **8.–14. September 2025** 
 Interviews mit den Finalist*innen,
 
