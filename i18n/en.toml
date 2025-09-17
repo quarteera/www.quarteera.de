@@ -18,3 +18,12 @@ other = 'You may find information on our old website. Here is his link → '
 
 [help-lads]
 other = 'This project is funded by the Senate Department for Social Affairs, Labor, Equality, Integration, Diversity, and Anti-Discrimination through the State Office for Equal Treatment – Against Discrimination (LADS).'
+
+[cookie]
+other = 'We use cookies to improve your user experience.'
+
+[accept]
+other = 'Got it'
+
+[decline]
+other = 'Reject'

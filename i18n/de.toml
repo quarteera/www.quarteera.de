@@ -18,3 +18,12 @@ other = 'Möglicherweise finden sich Informationen auf unserer alten Website. Hi
 
 [help-lads]
 other = 'Dieses Projekt wird gefördert durch die Senatsverwaltung für Soziales, Arbeit, Gleichstellung, Integration, Vielfalt und Antidiskriminierung durch die Landesstelle für Gleichbehandlung – gegen Diskriminierung (LADS).'
+
+[cookie]
+other = 'Hiermit informieren wir Sie darüber, dass auf dieser Website Cookies verwendet werden.'
+
+[accept]
+other = 'Es ist klar'
+
+[decline]
+other = 'Verweigern'

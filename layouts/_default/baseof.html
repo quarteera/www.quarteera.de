@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.LanguageName}}">
-  {{- partial "head.html" . -}}
-  <!-- disable animation on page load:
-  https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only -->
-  <body class="preload">
-    <div class="body">
-      {{- partial "header.html" . -}}
-      <div id="content" class="content {{ .Params.color }}-background-decor">
+{{- partial "head.html" . -}}
+<!-- disable animation on page load:
+https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only -->
+<body class="preload">
+<div class="body">
+    {{- partial "header.html" . -}}
+    <div id="content" class="content {{ .Params.color }}-background-decor">
         {{- block "main" . }}{{- end }}
 
         {{ if .Page.IsHome }}
@@ -15,24 +15,32 @@
 
         {{ if .Page.IsHome }}
         <div class="calendar">
-          <div class="calendar-content">
-            <h2>{{ i18n "calendar" }}</h2>
-            <div id="eventbrite-calendar-app" data-status="live" data-page-size="3" data-sort="asc"></div>
+            <div class="calendar-content">
+                <h2>{{ i18n "calendar" }}</h2>
+                <div id="eventbrite-calendar-app" data-status="live" data-page-size="3" data-sort="asc"></div>
 
-            {{ $calendarPage := .Site.GetPage "/calendar"  }}
-            {{ with $calendarPage }}
-            <h4><a href="{{ $calendarPage.RelPermalink }}">{{ i18n "calendar-all" }}</a></h4>
-            {{ end }}
+                {{ $calendarPage := .Site.GetPage "/calendar" }}
+                {{ with $calendarPage }}
+                <h4><a href="{{ $calendarPage.RelPermalink }}">{{ i18n "calendar-all" }}</a></h4>
+                {{ end }}
 
-          </div>
+            </div>
         </div>
-          {{- partial "plant-home.html" . -}}
+        {{- partial "plant-home.html" . -}}
         {{ end }}
-      </div>
-
-
-      {{- partial "footer.html" . -}}
-      {{- partial "script.html" . -}}
     </div>
-  </body>
+
+    <div id="cookie-consent-banner" style="display: none;">
+        <div class="cookie-consent-container">
+            <p>{{ i18n "cookie" }}</p>
+            <div class="cookie-buttons">
+                <button id="cookie-consent-decline">{{ i18n "decline" }}</button>
+                <button id="cookie-consent-accept">{{ i18n "accept" }}</button>
+            </div>
+        </div>
+    </div>
+    {{- partial "footer.html" . -}}
+    {{- partial "script.html" . -}}
+</div>
+</body>
 </html>
