@@ -4,7 +4,7 @@ date: 2022-01-06T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image: press.png
 alt: "some alt text"
-summary: "Мы активно сотрудничаем с мировыми СМИ. Наши цели - способствовать видимости русскоязычных ЛГБТК+ в Германии и информированности о ЛГБТК+ среди русскоязычных людей."
+summary: "Мы активно сотрудничаем с мировыми СМИ. Наши цели - способствовать видимости русскоговорящих ЛГБТК+ в Германии и информированности о ЛГБТК+ среди русскоговорящих людей."
 draft: false
 color: yellow
 menuIdentifier: about
@@ -16,7 +16,7 @@ menuIdentifier: about
 
 #### 2022 год
 
-09.05.2022  [Вклад русскоязычной ЛГБТ-активистки достоин премии](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
+09.05.2022  [Вклад русскоговорящей ЛГБТ-активистки достоин премии](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
 
 06.04.2022	[„Eine große Tragödie": Queere Geflüchtete aus der Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
 

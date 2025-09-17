@@ -16,7 +16,7 @@ If you are a journalist or media representative interested in working with Quart
 
 #### 2022
 
-09.05.2022  [In Russian Вклад русскоязычной ЛГБТ-активистки достоин премии, Eng. A Russian-speaking LGBTQ* activist was honored](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
+09.05.2022  [In Russian Вклад русскоговорящей ЛГБТ-активистки достоин премии, Eng. A Russian-speaking LGBTQ* activist was honored](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
 
 06.04.2022  [“A Great Tragedy”: Queer Refugees from Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
 

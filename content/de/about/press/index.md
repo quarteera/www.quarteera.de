@@ -17,7 +17,7 @@ Wenn Sie ein*e Medienvertreter*in sind und an einer Zusammenarbeit mit Quarteera
  
 #### 2022
  
-09.05.2022  [Auf Russisch Вклад русскоязычной ЛГБТ-активистки достоин премии, dt. Eine russischsprachige LGBTQ*-Aktivistin wurde ausgezeichnet](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
+09.05.2022  [Auf Russisch Вклад русскоговорящей ЛГБТ-активистки достоин премии, dt. Eine russischsprachige LGBTQ*-Aktivistin wurde ausgezeichnet](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-po-russki/portrait/klevets-102.html)
  
 06.04.2022  [„Eine große Tragödie": Queere Geflüchtete aus der Ukraine](https://www.siegessaeule.de/magazin/eine-gro%C3%9Fe-trag%C3%B6die-queere-gefl%C3%BCchtete-aus-der-ukraine/?fbclid=IwAR2k24dHDjTLfJgtntcKkeQPrvswg8XrvLZYCChMgMfQ7bmswp6RezT-weI)
  
