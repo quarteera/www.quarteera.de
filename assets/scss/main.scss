@@ -13,7 +13,9 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
-  min-width: 1530px;
+  max-width: 2500px;   // keeps it from growing beyond 2500px
+  margin: 0 auto;      // centers the content
+  width: 100%;         // lets it shrink with the viewport
 }
 
 html {
@@ -634,7 +636,7 @@ body {
 }
 
 .cookie-consent-container {
-  max-width: 960px;
+  max-width: 1024px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -659,10 +661,9 @@ body {
 #cookie-consent-accept,
 #cookie-consent-decline {
   border: none;
-  padding: 0.75em 1.5em;
+  padding: 0.5em 1.25em;
   font-size: 1em;
   cursor: pointer;
-  border-radius: 5px;
 }
 
 #cookie-consent-accept {
@@ -675,7 +676,7 @@ body {
   color: $primary-font-color;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .body {
     min-width: auto;
   }
