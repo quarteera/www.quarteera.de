@@ -46,9 +46,9 @@ const consentCookie = () => {
     const acceptBtn = document.getElementById("cookie-consent-accept");
     const declineBtn = document.getElementById("cookie-consent-decline");
 
-    if (!localStorage.getItem("cookieConsent")) {
-        banner.style.display = "block";
-    }
+    // if (!localStorage.getItem("cookieConsent")) {
+    //     banner.style.display = "block";
+    // }
 
     acceptBtn.addEventListener("click", function () {
         localStorage.setItem("cookieConsent", "accepted");
