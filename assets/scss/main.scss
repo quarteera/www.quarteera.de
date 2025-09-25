@@ -435,13 +435,14 @@ body {
 
     .language-popup {
       position: absolute;
-      top: 3.25rem;
+      top: 100%;
       z-index: 2;
     }
 
     .desktop-language {
       display: flex;
       align-items: center;
+      position: relative;
 
       svg {
         margin-left: .25rem;
