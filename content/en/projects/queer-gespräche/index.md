@@ -36,7 +36,7 @@ Furthermore, the Russian-speaking population in Germany, which includes around t
 - 32 portraits of queer refugees from the former Soviet Union who have arrived in Germany over the past 20 years, recorded in Russian. Two seasons of the podcast: from February to the end of May and from September to December (16 episodes in each season), each episode lasting about 40 minutes.
 - Text versions of each episode.
 
-[Listen to the "Queer Talks" podcast](https://queerbesedy.mave.digital/ep-1)
+[Listen to the "Queer Talks" podcast](https://open.spotify.com/show/47jBaxegRHi67GSzY2Jq37)
 
 [Read the text version:](https://www.patreon.com/sodomiumora/posts?filters%5Btag%5D=%23%D0%BA%D0%B2%D0%B8%D1%80%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3%D0%B8%20%23%D0%BA%D0%B2%D0%B8%D1%80%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B)
 

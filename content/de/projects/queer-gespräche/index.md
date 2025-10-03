@@ -36,7 +36,7 @@ Darüber hinaus steht die russischsprachige Bevölkerung in Deutschland, die run
 - 32 Porträts von queeren Geflüchteten aus der ehemaligen Sowjetunion, die in den letzten 20 Jahren nach Deutschland gekommen sind; in russischer Sprache. Zwei Staffeln des Podcasts: von Februar bis Ende Mai und von September bis Dezember (16 Episoden in jeder Staffel), die Dauer jeder Episode beträgt etwa 40 Minuten,
 - Textversionen der einzelnen Episoden.
 
-[Podcast "Queer-Talks" anhören](https://queerbesedy.mave.digital/ep-1)
+[Podcast "Queer-Talks" anhören](https://open.spotify.com/show/47jBaxegRHi67GSzY2Jq37)
 
 [Lesen Sie die Textversion:](https://www.patreon.com/sodomiumora/posts?filters%5Btag%5D=%23%D0%BA%D0%B2%D0%B8%D1%80%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3%D0%B8%20%23%D0%BA%D0%B2%D0%B8%D1%80%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B)
 
