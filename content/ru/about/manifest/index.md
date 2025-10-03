@@ -5,7 +5,7 @@ weight: 150 # Order in which to show this project on the home page
 image: manifest-logo.png
 alt: "some alt text"
 summary: "Марцан Прайд завершился, но наша борьба продолжается!"
-draft: false
+draft: true
 color: yellow
 menuIdentifier: about
 aliases: [/about/manifest-2023]

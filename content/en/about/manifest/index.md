@@ -5,7 +5,7 @@ weight: 150 # Order in which to show this project on the home page
 image: manifest-logo.png
 alt: "some alt text"
 summary: "Marzahn Pride is over, but the fight continues!"
-draft: false
+draft: true
 color: yellow
 menuIdentifier: about
 aliases: [/en/about/manifest-2023]
