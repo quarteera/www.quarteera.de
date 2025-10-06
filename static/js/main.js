@@ -37,7 +37,7 @@ const loadAnalytics = () => {
     gtag('consent', 'default', {
         'analytics_storage': 'granted'
     });
-    gtag('event', 'page_view_consent', { 'page_details' : 'Marzahn Pride Cookie Consent' });
+    gtag('event', 'page_view_consent', { 'page_details' : 'Quarteera Cookie Consent' });
 };
 
 
@@ -46,9 +46,9 @@ const consentCookie = () => {
     const acceptBtn = document.getElementById("cookie-consent-accept");
     const declineBtn = document.getElementById("cookie-consent-decline");
 
-    // if (!localStorage.getItem("cookieConsent")) {
-    //     banner.style.display = "block";
-    // }
+    if (!localStorage.getItem("cookieConsent")) {
+         banner.style.display = "block";
+    }
 
     acceptBtn.addEventListener("click", function () {
         localStorage.setItem("cookieConsent", "accepted");
@@ -60,7 +60,6 @@ const consentCookie = () => {
         localStorage.setItem("cookieConsent", "declined");
         banner.style.display = "none";
     });
-
 }
 
 navSlide();
