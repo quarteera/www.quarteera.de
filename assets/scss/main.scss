@@ -13,7 +13,9 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
-  min-width: 1530px;
+  max-width: 2500px;   // keeps it from growing beyond 2500px
+  margin: 0 auto;      // centers the content
+  width: 100%;         // lets it shrink with the viewport
 }
 
 html {
@@ -433,13 +435,14 @@ body {
 
     .language-popup {
       position: absolute;
-      top: 3.25rem;
+      top: 100%;
       z-index: 2;
     }
 
     .desktop-language {
       display: flex;
       align-items: center;
+      position: relative;
 
       svg {
         margin-left: .25rem;
@@ -622,7 +625,59 @@ body {
   }
 }
 
-@media screen and (max-width: 768px) {
+#cookie-consent-banner {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: $background-color;
+  color: $primary-font-color;
+  text-align: center;
+  padding: 1.5em 1em;
+  z-index: 1000;
+}
+
+.cookie-consent-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cookie-consent-container p {
+  margin: 0;
+  padding-right: 1em;
+  flex: 1;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.cookie-buttons {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+#cookie-consent-accept,
+#cookie-consent-decline {
+  border: none;
+  padding: 0.5em 1.25em;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+#cookie-consent-accept {
+  background-color: $dark-green;
+  color: $background-color;
+}
+
+#cookie-consent-decline {
+  background-color: $grey;
+  color: $primary-font-color;
+}
+
+@media screen and (max-width: 1024px) {
   .body {
     min-width: auto;
   }
@@ -968,7 +1023,13 @@ body {
     padding: 0 1rem 1rem 1rem;
     max-width: 100vw;
   }
-
+  .cookie-buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .cookie-buttons button {
+    width: 100%;
+  }
 }
 
 // disable animation on page load:
