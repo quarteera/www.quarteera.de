@@ -34,21 +34,25 @@ defaultContentLanguage = 'ru'
       pre = 'purple'
       identifier = 'community'
     [[languages.ru.menu.footer]]
+      name = 'Контакты'
+      url = '/contact/'
+      weight = 1
+    [[languages.ru.menu.footer]]
       name = 'Пресса'
       url = '/press/'
-      weight = 1
+      weight = 2
     [[languages.ru.menu.footer]]
       name = 'Карьера'
       url = '/karriere/'
-      weight = 2
+      weight = 3
     [[languages.ru.menu.footer]]
       name = 'Выходные данные'
       url = '/impressum/'
-      weight = 3
+      weight = 4
     [[languages.ru.menu.footer]]
       name = 'Политика конфиденциальности'
       url = '/datenschutz/'
-      weight = 4
+      weight = 5
   [languages.de]
     title = 'Quarteera e. V. - Vereinigung von LGBTQ+ Personen, die in Deutschland leben und Russich sprechen.'
     languageName = 'DE'
@@ -80,21 +84,25 @@ defaultContentLanguage = 'ru'
       pre = 'purple'
       identifier = 'community'
     [[languages.de.menu.footer]]
+      name = 'Kontakt'
+      url = '/de/contact/'
+      weight = 1
+    [[languages.de.menu.footer]]
       name = 'Press'
       url = '/de/press/'
-      weight = 1
+      weight = 2
     [[languages.de.menu.footer]]
       name = 'Karriere'
       url = '/de/karriere/'
-      weight = 2
+      weight = 3
     [[languages.de.menu.footer]]
       name = 'Impressum'
       url = '/impressum/'
-      weight = 3
+      weight = 4
     [[languages.de.menu.footer]]
       name = 'Datenschutz'
       url = '/datenschutz/'
-      weight = 4
+      weight = 5
   [languages.en]
     title = 'Quarteera e. V. is a community of LGBTQ+ people living in Germany and communicating in Russian.'
     languageName = 'EN'
@@ -126,18 +134,22 @@ defaultContentLanguage = 'ru'
       pre = 'purple'
       identifier = 'community'
     [[languages.en.menu.footer]]
+      name = 'Contact'
+      url = '/en/contact/'
+      weight = 1
+    [[languages.en.menu.footer]]
       name = 'Press'
       url = '/en/press/'
-      weight = 1
+      weight = 2
     [[languages.en.menu.footer]]
       name = 'Career'
       url = '/en/career/'
-      weight = 2
+      weight = 3
     [[languages.en.menu.footer]]
       name = 'Imprint'
       url = '/impressum/'
-      weight = 3
+      weight = 4
     [[languages.en.menu.footer]]
       name = 'Privacy Policy'
       url = '/datenschutz/'
-      weight = 4
+      weight = 5
