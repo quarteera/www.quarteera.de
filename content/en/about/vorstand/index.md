@@ -11,19 +11,16 @@ menuIdentifier: about
 ---
 ## Board Members
 
-**Andreev, Pasha**\
+**Pasha**\
 Chairperson
 
-**Babintseva, Yulia**\
+**Yulia**\
 Board Member, Treasurer
 
-**Beltiugov, Andrei**\
+**Andrei**\
 Chairperson
 
-**Satieva, Kanykey**\
-Chairperson
-
-**Terekhova, Galina**\
+**Galina**\
 Board Member, Treasurer
 
 If you have any questions or suggestions, please contact us at [vorstand@quarteera.de](mailto:vorstand@quarteera.de).

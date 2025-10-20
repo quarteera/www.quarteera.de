@@ -23,12 +23,12 @@ menuIdentifier: about
 
 ## Advisory Board Members (Autumn 2023 - Autumn 2025)
 
-**Gorin, Alexey**
+**Alexey**
 
-**Uspenskiy, Artem**
+**Artem**
 
-**Shaytanova, Svetlana**
+**Svetlana**
 
-**Nurmukhametov, Denis**
+**Denis**
 
 If you have any questions or suggestions, please contact us at [beirat@quarteera.de](mailto:beirat@quarteera.de).
