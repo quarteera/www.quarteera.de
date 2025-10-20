@@ -24,13 +24,13 @@ menuIdentifier: about
 
 ## Beiratsmitglieder (Herbst 2025 - Herbst 2025)
 
-**Gorin, Alexey**
+**Alexey**
 
-**Uspenskiy, Artem**
+**Artem**
 
-**Shaytanova, Svetlana**
+**Svetlana**
 
-**Nurmukhametov, Denis**
+**Denis**
 
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [beirat@quarteera.de](mailto:beirat@quarteera.de). 

@@ -11,19 +11,16 @@ menuIdentifier: about
 ---
 ## Vorstandsmitglieder
 
-**Andreev, Pasha**\
+**Pasha**\
 Vorstandsvorsitzender
 
-**Babintseva, Yulia**\
+**Yulia**\
 Vorstandsmitglied, Schatzmeister
 
-**Beltiugov, Andrei**\
+**Andrei**\
 Vorstandsvorsitzender
 
-**Satieva, Kanykey**\
-Vorstandsvorsitzender
-
-**Terekhova, Galina**\
+**Galina**\
 Vorstandsmitglied, Schatzmeister
 
 Wenn Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte unter [vorstand@quarteera.de](mailto:vorstand@quarteera.de). 

@@ -1,0 +1,51 @@
+name: Update Hugo Front Matter Dates
+
+on:
+  push:
+    branches:
+      - dev-eggcitedraccoon
+    paths:
+      - "content/**/*.md"
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install --upgrade pip
+
+      - name: Find changed Markdown files
+        id: changes
+        run: |
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            # First commit: treat all .md as changed
+            find content -name "*.md" > changed.txt
+          else
+            git fetch origin ${{ github.event.before }} || true
+            git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "content/**/*.md" > changed.txt
+          fi
+          cat changed.txt
+          echo "changed=$(cat changed.txt | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
+      - name: Run date update script
+        run: python .github/scripts/update_date.py changed.txt
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update date in changed Markdown files [skip ci]" || echo "No changes to commit"
+          git push
