@@ -25,37 +25,27 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install python-frontmatter
+        run: pip install --upgrade pip
 
       - name: Find changed Markdown files
         id: changes
         run: |
-          git fetch origin ${{ github.event.before }} || true
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "content/**/*.md" > changed.txt
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            # First commit: treat all .md as changed
+            find content -name "*.md" > changed.txt
+          else
+            git fetch origin ${{ github.event.before }} || true
+            git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- "content/**/*.md" > changed.txt
+          fi
           cat changed.txt
           echo "changed=$(cat changed.txt | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
-      - name: Update date field in changed files
-        if: steps.changes.outputs.changed != ''
-        run: |
-          import os, frontmatter, datetime
-          files = "${{ steps.changes.outputs.changed }}".split()
-          now = datetime.datetime.utcnow().isoformat() + "Z"
-          for path in files:
-              if not os.path.isfile(path):
-                  continue
-              post = frontmatter.load(path)
-              old_date = post.get("date")
-              post["date"] = now
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(frontmatter.dumps(post))
-              print(f"Updated date in {path}: {old_date} → {now}")
-        shell: python
+      - name: Run date update script
+        run: python .github/scripts/update_date.py changed.txt
 
-      - name: Commit and push updates
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/**/*.md
           git commit -m "Update date in changed Markdown files [skip ci]" || echo "No changes to commit"
           git push
