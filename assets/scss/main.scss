@@ -13,9 +13,9 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
-  max-width: 2500px;   // keeps it from growing beyond 2500px
-  margin: 0 auto;      // centers the content
-  width: 100%;         // lets it shrink with the viewport
+  max-width: 2500px; // keeps it from growing beyond 2500px
+  margin: 0 auto; // centers the content
+  width: 100%; // lets it shrink with the viewport
 }
 
 html {
@@ -88,13 +88,15 @@ img {
   z-index: -10;
 }
 
-.drawing {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  z-index: -1;
-  margin-left: 23rem;
-  width: 5rem;
+.random-svg-container {
+  .drawing {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    z-index: -1;
+    margin-left: 3rem;
+    height: 15rem;
+  }
 }
 
 .buttons-container {
@@ -306,7 +308,7 @@ nav {
   flex-wrap: wrap;
 }
 
-.antisemitism-partners{
+.antisemitism-partners {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -999,14 +1001,10 @@ body {
     display: flex;
     justify-content: space-between;
   }
-
-  .drawing {
-    position: absolute;
-    top: 13rem;
-    left: 50%;
-    z-index: -1;
-    margin-left: 6rem;
-    width: 5rem;
+  .random-svg-container {
+    .drawing {
+      display: none;
+    }
   }
 
   .logo {
