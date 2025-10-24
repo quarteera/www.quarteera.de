@@ -7,6 +7,13 @@ alt: "Quarteera Bayern"
 summary: "Сообщество русскоговорящих квир-персон и их друзей в Баварии. Мы проводим мероприятия в Мюнхене, Нюрнберге и онлайн, чтобы каждый мог найти для себя безопасное и доступное пространство."
 draft: false
 color: blue
+buttons:
+- text: "Телеграмм"
+  link: "https://t.me/+k8oZbe9aX29iYTAy"
+  color: "green"
+- text: "Поддержать"
+  link: "https://quarteera.de/spenden-bayern"
+  color: "blue"
 ---
 
 ## Нам нужна твоя поддержка
