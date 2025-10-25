@@ -12,6 +12,28 @@
       <div class="text">
         <h1>{{ .Title }}</h1>
         <p class="summary">{{ .Params.summary }}</p>
+          {{ with .Params.buttons }}
+          <div class="buttons-container white-links" style="padding: 2rem 0;">
+              <center>
+                  {{ range . }}
+                  <a class="{{ .color | default "default" }}-button"
+                  href="{{ .link }}"
+                  {{ if .target }}
+                  target="{{ .target }}"
+                  {{ else if eq .link "external" }}
+                  target="_blank"
+                  {{ end }}
+                  {{ if or (eq .target "_blank") (not .rel) }}
+                  rel="{{ .rel | default "noopener noreferrer" }}"
+                  {{ else }}
+                  rel="{{ .rel }}"
+                  {{ end }}>
+                  {{ .text }}
+                  </a>
+                  {{ end }}
+              </center>
+          </div>
+          {{ end }}
       </div>
     </div>
     {{ .Content }}

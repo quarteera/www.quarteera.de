@@ -9,6 +9,10 @@ draft: false
 accent: true
 color: green
 menuIdentifier: projects
+buttons:
+- text: "Телеграмм"
+  link: "https://t.me/quarteera"
+  color: "green"
 ---
 
 ## О проекте 

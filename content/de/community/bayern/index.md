@@ -7,6 +7,13 @@ alt: "Quarteera Bayern"
 summary: "Eine Community russischsprechender queerer Menschen und ihrer Freund*innen in Bayern. Wir organisieren Veranstaltungen in München, Nürnberg und online, damit alle einen sicheren und zugänglichen Raum für sich finden können."
 draft: false
 color: blue
+buttons:
+- text: "Telegram"
+  link: "https://t.me/+k8oZbe9aX29iYTAy"
+  color: "green"
+- text: "Spende"
+  link: "https://quarteera.de/spenden-bayern"
+  color: "blue"
 ---
 
 ## Wir brauchen deine Unterstützung
@@ -14,10 +21,6 @@ color: blue
 Quarteera Bayern arbeitet ausschließlich ehrenamtlich und erhält derzeit keine Förderungen. Dennoch sind finanzielle Mittel, z.B. für die Raummiete oder die Teilnahme an CSDs, erforderlich. Unsere Arbeit ist ohne Spenden nicht denkbar. Wir sind für jede Unterstützung dankbar. 
 
 Unterstütze unsere Projekte für russischsprechende Queers in der bayerischen Region mit einer
-
-{{< button color="blue" link="https://quarteera.de/spenden-bayern">}}
-Spende
-{{< /button >}}
 
 Allgemeine Informationen zum Thema Spenden an Quarteera e. V. und zur Spendenquittung findest du [hier](../spenden).
 
